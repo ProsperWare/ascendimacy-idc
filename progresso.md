@@ -7,7 +7,7 @@
 PROGRESSO -- ultima atualizacao: 2026-03-05
 
 MERCADO LIVRE      s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-NUBANK             s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+NUBANK             s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 ITAÚ               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[_] s3b[_] s3c[_] sintese[_]
 GOOGLE BRASIL      s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 PETROBRAS          s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
@@ -37,6 +37,10 @@ Analise cruzada disponivel: NAO (minimo 3 sinteses - 0 disponiveis)
 | 2026-03-05 | WEG | s1 — Glassdoor | ✅ commitado |
 
 ---
+
+---
+
+*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
 
 ---
 
