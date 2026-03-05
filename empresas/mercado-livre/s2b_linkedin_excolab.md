@@ -149,3 +149,4 @@ Menções a comissões/taxas do marketplace: 0 (ausência total em relatos públ
 ---
 
 *Sessão 2B · IDC Mercado Livre · LinkedIn Ex-Colaboradores · 2026-05-03*
+
