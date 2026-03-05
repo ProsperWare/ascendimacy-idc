@@ -52,12 +52,25 @@ Analise cruzada disponivel: NAO (minimo 3 sinteses - 0 disponiveis)
 | 2026-05-03 | WEG | s3b — Jusbrasil | ✅ commitado |
 | 2026-05-03 | Nubank | s3b — Jusbrasil | ✅ commitado |
 | 2026-05-03 | Mercado Livre | s2a — LinkedIn: Empresa | ✅ commitado |
+| 2026-05-03 | Nubank | s3c — Investor Relations | ✅ commitado |
+| 2026-05-03 | Itaú | s3c — Investor Relations | ✅ commitado |
+| 2026-05-03 | WEG | s3c — Investor Relations | ✅ commitado |
+| 2026-05-03 | Mercado Livre | s2b — LinkedIn: Ex-colaboradores | ✅ commitado |
 
 ---
 
+## PRÓXIMAS SESSÕES
+
+| Empresa | Sessão | Briefing |
+|---|---|---|
+| Nubank | SÍNTESE | `sessoes/nubank-sintese.md` |
+| Itaú | SÍNTESE | `sessoes/itau-sintese.md` |
+| WEG | SÍNTESE | `sessoes/weg-sintese.md` |
+| Mercado Livre | s2c — LinkedIn: Liderança | `sessoes/mercado-livre-s2c-linkedin.md` |
+
 ---
 
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
+*progresso.md - IDC Ascendimacy*
 
 ---
 
