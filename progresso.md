@@ -6,24 +6,24 @@
 ```
 PROGRESSO -- ultima atualizacao: 2026-03-05
 
-MERCADO LIVRE      s1[x] s2a[x] s2b[x] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+MERCADO LIVRE      s1[x] s2a[x] s2b[x] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 NUBANK             s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
-ITAÚ               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[_]
-GOOGLE BRASIL      s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+ITAÚ               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
+GOOGLE BRASIL      s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 PETROBRAS          s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-MAGAZINE LUIZA     s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-IFOOD              s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-WEG                s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[_]
+MAGAZINE LUIZA     s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+IFOOD              s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+WEG                s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
 AMBEV              s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 CORREIOS           s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-MCKINSEY BRASIL    s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+MCKINSEY BRASIL    s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 UBER/99            s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 
 Legenda: [x] = commitado  [~] = parcial  [_] = pendente
 
 Empresas com coleta completa (9/9 - inclui s2a-s2e): 3
-Empresas com sintese pronta: 1 (Nubank)
-Analise cruzada disponivel: NAO (minimo 3 sinteses - 1 disponivel)
+Empresas com sintese pronta: 3
+Analise cruzada disponivel: SIM
 ```
 
 ---
@@ -58,35 +58,6 @@ Analise cruzada disponivel: NAO (minimo 3 sinteses - 1 disponivel)
 | 2026-05-03 | Mercado Livre | s2b — LinkedIn: Ex-colaboradores | ✅ commitado |
 
 ---
-
-## PRÓXIMAS SESSÕES
-
-| Empresa | Sessão | Briefing |
-|---|---|---|
-| Nubank | SÍNTESE | ✅ `empresas/nubank/sintese.md` |
-| Itaú | SÍNTESE | `sessoes/itau-sintese.md` |
-| WEG | SÍNTESE | `sessoes/weg-sintese.md` |
-| Mercado Livre | s2c — LinkedIn: Liderança | `sessoes/mercado-livre-s2c-linkedin.md` |
-| Google Brasil | s1 — Glassdoor | `sessoes/google-brasil-s1-glassdoor.md` |
-| Petrobras | s1 — Glassdoor | `sessoes/petrobras-s1-glassdoor.md` |
-| Magazine Luiza | s1 — Glassdoor | `sessoes/magazine-luiza-s1-glassdoor.md` |
-| iFood | s1 — Glassdoor | `sessoes/ifood-s1-glassdoor.md` |
-| Ambev | s1 — Glassdoor | `sessoes/ambev-s1-glassdoor.md` |
-| Correios | s1 — Glassdoor | `sessoes/correios-s1-glassdoor.md` |
-| McKinsey Brasil | s1 — Glassdoor | `sessoes/mckinsey-brasil-s1-glassdoor.md` |
-| Uber / 99 | s1 — Glassdoor | `sessoes/uber-99-s1-glassdoor.md` |
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
 
 ---
 
