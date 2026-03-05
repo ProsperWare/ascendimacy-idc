@@ -75,11 +75,9 @@ jobs:
 
           # Preserva historico existente se possivel
           try:
-              with open("progresso.md", "r", encoding="utf-8") as fh:
+              with open("progresso.md", "r", encoding="utf-8", errors="replace") as fh:
                   conteudo_atual = fh.read()
               match = re.search(r'## HISTORICO DE SESSOES\n(.*?)(\n## |\Z)', conteudo_atual, re.DOTALL)
-              if not match:
-                  match = re.search(r'## HIST.RICO DE SESS.ES\n(.*?)(\n## |\Z)', conteudo_atual, re.DOTALL)
               historico = match.group(1).strip() if match else "| Data | Empresa | Sessao | Status |\n|---|---|---|---|\n| - | - | - | Nenhuma sessao registrada ainda |"
           except Exception:
               historico = "| Data | Empresa | Sessao | Status |\n|---|---|---|---|\n| - | - | - | Nenhuma sessao registrada ainda |"
