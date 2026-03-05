@@ -46,21 +46,22 @@ Analise cruzada disponivel: NAO (minimo 3 sinteses - 0 disponiveis)
 | 2026-03-05 | Nubank | s2e — LinkedIn: Recrutadores | ✅ commitado |
 | 2026-03-05 | Itaú | s3a — Reclame Aqui | ✅ commitado |
 | 2026-03-05 | WEG | s3a — Reclame Aqui | ✅ commitado |
+| 2026-05-03 | Nubank | s3a — Reclame Aqui | ✅ commitado |
+| 2026-05-03 | Itaú | s3b — Jusbrasil | ✅ commitado |
+| 2026-05-03 | Mercado Livre | s1 — Glassdoor | ✅ commitado |
+| 2026-05-03 | WEG | s3b — Jusbrasil | ✅ commitado |
 
 ---
 
----
+## PRÓXIMAS SESSÕES
 
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
+| Empresa | Sessão | Briefing |
+|---|---|---|
+| Nubank | s3b — Jusbrasil | `sessoes/nubank-s3b-jusbrasil.md` |
+| Itaú | s3c — Investor Relations | `sessoes/itau-s3c-investorrelations.md` |
+| WEG | s3c — Investor Relations | `sessoes/weg-s3c-investorrelations.md` |
+| Mercado Livre | s2a — LinkedIn: Empresa | `sessoes/mercado-livre-s2a-linkedin.md` |
 
 ---
 
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
+*progresso.md - IDC Ascendimacy*
