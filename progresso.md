@@ -8,7 +8,7 @@ PROGRESSO -- ultima atualizacao: 2026-03-05
 
 MERCADO LIVRE      s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 NUBANK             s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[_] sintese[_]
-ITAÚ               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[_] sintese[_]
+ITAÚ               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[_]
 GOOGLE BRASIL      s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 PETROBRAS          s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 MAGAZINE LUIZA     s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
@@ -21,7 +21,7 @@ UBER/99            s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_]
 
 Legenda: [x] = commitado  [~] = parcial  [_] = pendente
 
-Empresas com coleta completa (9/9 - inclui s2a-s2e): 0
+Empresas com coleta completa (9/9 - inclui s2a-s2e): 1
 Empresas com sintese pronta: 0
 Analise cruzada disponivel: NAO (minimo 3 sinteses - 0 disponiveis)
 ```
@@ -55,15 +55,6 @@ Analise cruzada disponivel: NAO (minimo 3 sinteses - 0 disponiveis)
 
 ---
 
-## PRÓXIMAS SESSÕES
-
-| Empresa | Sessão | Briefing |
-|---|---|---|
-| Nubank | s3c — Investor Relations | `sessoes/nubank-s3c-investorrelations.md` |
-| Itaú | s3c — Investor Relations | `sessoes/itau-s3c-investorrelations.md` |
-| WEG | s3c — Investor Relations | `sessoes/weg-s3c-investorrelations.md` |
-| Mercado Livre | s2b — LinkedIn: Ex-colaboradores | `sessoes/mercado-livre-s2b-linkedin.md` |
-
 ---
 
-*progresso.md - IDC Ascendimacy*
+*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
