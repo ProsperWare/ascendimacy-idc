@@ -7,7 +7,7 @@
 PROGRESSO -- ultima atualizacao: 2026-03-05
 
 MERCADO LIVRE      s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-NUBANK             s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[_] s3b[_] s3c[_] sintese[_]
+NUBANK             s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[_] s3c[_] sintese[_]
 ITAÚ               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[_] s3c[_] sintese[_]
 GOOGLE BRASIL      s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 PETROBRAS          s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
@@ -49,15 +49,6 @@ Analise cruzada disponivel: NAO (minimo 3 sinteses - 0 disponiveis)
 
 ---
 
-## PRÓXIMAS SESSÕES
-
-| Empresa | Sessão | Arquivo | Status |
-|---|---|---|---|
-| Nubank | s3a — Reclame Aqui | [nubank-s3a-reclameaqui.md](sessoes/nubank-s3a-reclameaqui.md) | ⏳ pendente |
-| Itaú | s3b — Jusbrasil | [itau-s3b-jusbrasil.md](sessoes/itau-s3b-jusbrasil.md) | ⏳ pendente |
-| WEG | s3b — Jusbrasil | [weg-s3b-jusbrasil.md](sessoes/weg-s3b-jusbrasil.md) | ⏳ pendente |
-| Mercado Livre | s1 — Glassdoor | [mercado-livre-s1-glassdoor.md](sessoes/mercado-livre-s1-glassdoor.md) | ⏳ pendente |
-
 ---
 
-*progresso.md - IDC Ascendimacy*
+*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
