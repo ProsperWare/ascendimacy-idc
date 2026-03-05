@@ -47,7 +47,21 @@ Para cada um registre:
 
 | # | Cargo no Nubank | Cargo seguinte | Tempo | Movimento | Tom |
 |---|---|---|---|---|---|
-| 1–15 | | | | | |
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
+| 4 | | | | | |
+| 5 | | | | | |
+| 6 | | | | | |
+| 7 | | | | | |
+| 8 | | | | | |
+| 9 | | | | | |
+| 10 | | | | | |
+| 11 | | | | | |
+| 12 | | | | | |
+| 13 | | | | | |
+| 14 | | | | | |
+| 15 | | | | | |
 
 **Legenda Movimento:** PROMOÇÃO / LATERAL / DESCIDA / EMPREENDEU / DESEMPREGADO
 **Legenda Tom:** TRAMPOLIM / NEUTRO / TETO
@@ -66,6 +80,17 @@ Para cada um registre:
 
 Para cada líder: cargo, trajetória (interno ou contratado de fora?), publica pensamento próprio?
 
+| # | Nome | Cargo | Interno/Externo | Publica pensamento próprio? | Observações |
+|---|---|---|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
+| 4 | | | | | |
+| 5 | | | | | |
+| 6 | | | | | |
+| 7 | | | | | |
+| 8 | | | | | |
+
 **Verificar especificamente:**
 - Proporção de liderança promovida internamente vs. contratada externamente — a coleta aponta contratação externa frequente em detrimento de promoção interna
 - Diversidade no C-level (raça, gênero, origem regional)
@@ -75,10 +100,21 @@ Para cada líder: cargo, trajetória (interno ou contratado de fora?), publica p
 
 ## PARTE D — 10 VAGAS
 
-Para cada vaga: nível, requisitos, busca conformidade ou complementaridade?
+| # | Título | Nível | Requisito dominante | Conformidade ou Complementaridade? |
+|---|---|---|---|---|
+| 1 | | | | |
+| 2 | | | | |
+| 3 | | | | |
+| 4 | | | | |
+| 5 | | | | |
+| 6 | | | | |
+| 7 | | | | |
+| 8 | | | | |
+| 9 | | | | |
+| 10 | | | | |
 
 **Verificar especificamente:**
-- Vagas para nível sênior são abridas internamente ou diretamente externas?
+- Vagas para nível sênior são abertas internamente ou diretamente externas?
 - Requisitos de anos de experiência proporcionais ao nível?
 - Linguagem das vagas: "você vai crescer aqui" vs. "você já deve chegar pronto"
 
