@@ -131,4 +131,19 @@ https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/nubank
 
 ---
 
+---
+
+## PASSO 6 — VERIFICAR ATUALIZAÇÃO AUTOMÁTICA
+
+Após o commit, o GitHub Actions atualiza `progresso.md` automaticamente.
+
+1. Acesse: https://github.com/ProsperWare/ascendimacy-idc/actions
+2. Confirme que o workflow **"Atualizar Progresso IDC"** rodou com ✅
+3. Verifique que `s2[x]` aparece na linha NUBANK em `progresso.md`
+
+Se o workflow não rodar em 2 minutos, acione manualmente:
+- Aba Actions → "Atualizar Progresso IDC" → **Run workflow**
+
+---
+
 *Sessão 2 · IDC Nubank · LinkedIn · BLOCO 1*

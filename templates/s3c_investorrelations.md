@@ -123,4 +123,19 @@ ___
 
 ---
 
+---
+
+## PASSO 6 — VERIFICAR ATUALIZAÇÃO AUTOMÁTICA
+
+Após o commit, o GitHub Actions atualiza `progresso.md` automaticamente.
+
+1. Acesse: https://github.com/ProsperWare/ascendimacy-idc/actions
+2. Confirme que o workflow **"Atualizar Progresso IDC"** rodou com ✅
+3. Verifique que `s3c[x]` aparece na linha da empresa em `progresso.md`
+
+Se o workflow não rodar em 2 minutos, acione manualmente:
+- Aba Actions → "Atualizar Progresso IDC" → **Run workflow**
+
+---
+
 *s3c_investorrelations.md · IDC [NOME_EMPRESA] · Ascendimacy*
