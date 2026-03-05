@@ -91,6 +91,32 @@ Para cada vaga: área, nível, localização, requisitos, linguagem.
 
 ---
 
+## PARTE E — ANÁLISE DE RECRUTADORES
+
+*Busca: "WEG" → People → Current company → filtro Recruiter / Talent Acquisition*
+
+| # | Cargo do recrutador | Perfis que busca/posta | Tom das postagens | Sinal IDC |
+|---|---|---|---|---|
+| 1 | | | | ANDAIME / TETO / NEUTRO |
+| 2 | | | | |
+| 3 | | | | |
+| 4 | | | | |
+| 5 | | | | |
+
+**A empresa constrói ou compra talento?**
+- % vagas "já pronto" (sênior externo): ___%
+- % vagas desenvolvimento (júnior/trainee/estágio): ___%
+
+**Atenção especial (teste Andaime Capturado D-):**
+- Recrutadores postam vagas para operacionais/fábrica com narrativa de desenvolvimento? → ou só "salário compatível"?
+- Recrutadores de engenharia têm narrativa diferente dos recrutadores operacionais? → confirma D-
+- Vagas são concentradas em Jaraguá do Sul? → confirma aprisionamento geográfico
+- Citação representativa: "___"
+
+**Classificação geral (recrutadores):** ANDAIME / TETO / NEUTRO
+
+---
+
 ## COMMITAR NO GITHUB
 
 1. Navegue até:

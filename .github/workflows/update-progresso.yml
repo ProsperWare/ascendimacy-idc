@@ -46,12 +46,22 @@ jobs:
               ("UBER/99",        "uber-99"),
           ]
 
-          SESSOES = ["s1_glassdoor", "s2_linkedin", "s3a_reclameaqui", "s3b_jusbrasil", "s3c_investorrelations", "sintese"]
+          SESSOES = ["s1_glassdoor", "s2_linkedin", "s2e", "s3a_reclameaqui", "s3b_jusbrasil", "s3c_investorrelations", "sintese"]
 
           def check(slug, sessao):
               base = f"empresas/{slug}"
               if sessao == "sintese":
                   return os.path.isfile(f"{base}/sintese.md")
+              if sessao == "s2e":
+                  # s2e está completo se s2_linkedin.md contém PARTE E OU se s2e_recrutadores.md existe
+                  s2e_standalone = os.path.isfile(f"{base}/s2e_recrutadores.md")
+                  s2_path = f"{base}/s2_linkedin.md"
+                  if s2e_standalone:
+                      return True
+                  if os.path.isfile(s2_path):
+                      with open(s2_path, "r", encoding="utf-8", errors="ignore") as f:
+                          return "## PARTE E" in f.read()
+                  return False
               return os.path.isfile(f"{base}/{sessao}.md")
 
           hoje = datetime.now().strftime("%Y-%m-%d")
@@ -63,12 +73,12 @@ jobs:
               partes = []
               for sessao in SESSOES:
                   partes.append("[x]" if check(slug, sessao) else "[_]")
-              s1, s2, s3a, s3b, s3c, sint = partes
-              linha = f"{nome:<18} s1{s1} s2{s2} s3a{s3a} s3b{s3b} s3c{s3c} sintese{sint}"
+              s1, s2, s2e, s3a, s3b, s3c, sint = partes
+              linha = f"{nome:<18} s1{s1} s2{s2} s2e{s2e} s3a{s3a} s3b{s3b} s3c{s3c} sintese{sint}"
               linhas_progresso.append(linha)
-              if all(p == "[x]" for p in partes[:5]):
+              if all(p == "[x]" for p in partes[:6]):
                   completas += 1
-              if partes[5] == "[x]":
+              if partes[6] == "[x]":
                   sintetizadas += 1
 
           analise = "SIM" if sintetizadas >= 3 else f"NÃO (mínimo 3 sínteses — {sintetizadas} disponíveis)"
@@ -86,7 +96,7 @@ PROGRESSO — última atualização: {hoje}
 
 Legenda: [x] = commitado  [~] = parcial  [_] = pendente
 
-Empresas com coleta completa (5/5): {completas}
+Empresas com coleta completa (6/6 — inclui s2e): {completas}
 Empresas com síntese pronta: {sintetizadas}
 Análise cruzada disponível: {analise}
 ```
@@ -114,7 +124,7 @@ Análise cruzada disponível: {analise}
           with open("progresso.md", "w", encoding="utf-8") as f:
               f.write(conteudo_progresso)
 
-          print(f"✅ progresso.md atualizado — {completas}/12 completas, {sintetizadas}/12 sintetizadas")
+          print(f"✅ progresso.md atualizado — {completas}/12 completas (6/6), {sintetizadas}/12 sintetizadas")
           EOF
 
       - name: Commit progresso.md se houve mudança

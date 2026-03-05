@@ -120,6 +120,33 @@ Para cada líder: cargo, trajetória (interno ou contratado de fora?), publica p
 
 ---
 
+## PARTE E — ANÁLISE DE RECRUTADORES
+
+*Busca: "Nubank" → People → Current company → filtro Recruiter / Talent Acquisition*
+
+| # | Cargo do recrutador | Perfis que busca/posta | Tom das postagens | Sinal IDC |
+|---|---|---|---|---|
+| 1 | | | | ANDAIME / TETO / NEUTRO |
+| 2 | | | | |
+| 3 | | | | |
+| 4 | | | | |
+| 5 | | | | |
+
+**A empresa constrói ou compra talento?**
+- % vagas "já pronto" (sênior externo): ___%
+- % vagas desenvolvimento (júnior/trainee/estágio): ___%
+
+**Narrativa dominante:** Tom: Promessa de crescimento / Compensação / Impacto / Outro
+
+**Atenção especial (hipótese Gaiola Dourada):**
+- Recrutadores vendem comp & benefits como diferencial principal? → confirma S-
+- Ou vendem crescimento/aprendizado/missão? → confirma P+
+- Citação representativa: "___"
+
+**Classificação geral (recrutadores):** ANDAIME / TETO / NEUTRO
+
+---
+
 ## COMMITAR NO GITHUB
 
 1. Navegue até:

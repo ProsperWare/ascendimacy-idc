@@ -87,6 +87,31 @@ Para cada vaga: área, nível, requisitos, linguagem dominante.
 
 ---
 
+## PARTE E — ANÁLISE DE RECRUTADORES
+
+*Busca: "Itaú Unibanco" → People → Current company → filtro Recruiter / Talent Acquisition*
+
+| # | Cargo do recrutador | Perfis que busca/posta | Tom das postagens | Sinal IDC |
+|---|---|---|---|---|
+| 1 | | | | ANDAIME / TETO / NEUTRO |
+| 2 | | | | |
+| 3 | | | | |
+| 4 | | | | |
+| 5 | | | | |
+
+**A empresa constrói ou compra talento?**
+- % vagas "já pronto" (sênior externo): ___%
+- % vagas desenvolvimento (júnior/trainee/estágio): ___%
+
+**Atenção especial (bifurcação Digital vs. Tradicional):**
+- Recrutadores de Digital: narrativa de crescimento/inovação? → ou mesma narrativa de "segurança"?
+- Recrutadores de agências: linguagem de conformidade? metas? estabilidade?
+- Citação representativa: "___"
+
+**Classificação geral (recrutadores):** ANDAIME / TETO / NEUTRO
+
+---
+
 ## COMMITAR NO GITHUB
 
 1. Navegue até:

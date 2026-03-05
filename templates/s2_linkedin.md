@@ -84,6 +84,33 @@ ___
 
 ---
 
+## PARTE E — ANÁLISE DE RECRUTADORES
+
+*Busca: "[NOME_EMPRESA]" → People → Current company → filtro Recruiter / Talent Acquisition*
+
+| # | Cargo do recrutador | Perfis que busca/posta | Tom das postagens | Sinal IDC |
+|---|---|---|---|---|
+| 1 | | | | ANDAIME / TETO / NEUTRO |
+| 2 | | | | |
+| 3 | | | | |
+| 4 | | | | |
+| 5 | | | | |
+
+**A empresa constrói ou compra talento?**
+- % vagas que exigem "já pronto" (sênior externo): ___%
+- % vagas para desenvolvimento interno (júnior/trainee/estágio): ___%
+
+**Narrativa dominante dos recrutadores:**
+- Tom: Promessa de crescimento / Promessa de compensação / Promessa de impacto / Outro
+- Citação representativa de post: "___"
+
+**A empresa caça talentos de competidores?** SIM / NÃO / NÃO IDENTIFICADO
+- Se SIM, de quais empresas prefere contratar: ___
+
+**Classificação geral (recrutadores):** ANDAIME / TETO / NEUTRO
+
+---
+
 ## ANÁLISE QUALITATIVA
 
 **Evidências de escala (E+):** ___
