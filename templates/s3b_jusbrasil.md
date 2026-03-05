@@ -1,6 +1,8 @@
 # s3b — Jusbrasil
 ## IDC [NOME_EMPRESA] · Coleta realizada em: [DATA]
 
+> **NOTA PARA ASSESSMENT POR ÁREA:** Identifique a unidade/área mencionada nos processos quando disponível. Concentrações em filiais, unidades operacionais ou áreas específicas confirmam bifurcação na estrutura legal.
+
 ---
 
 ## METODOLOGIA DE BUSCA

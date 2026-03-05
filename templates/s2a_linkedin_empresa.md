@@ -1,6 +1,8 @@
 # SESSÃO 2A — LINKEDIN: PÁGINA DA EMPRESA
 ## IDC [NOME_EMPRESA] · Coleta via Chrome
 
+> **NOTA PARA ASSESSMENT POR ÁREA:** Registre a distribuição por função (setor de atuação dos associados). Os top-5 funções do LinkedIn são a base do mapa por área na síntese.
+
 ---
 
 ## SUA TAREFA

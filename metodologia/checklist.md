@@ -138,18 +138,36 @@ Pontuação máxima: 30 pontos
 
 ---
 
-## CHECKLIST DE SELETIVIDADE (Eixo D)
+## CHECKLIST DE SELETIVIDADE (Eixo D — recalibrado)
+
+### Etapa 1 — Detectar bifurcação
 
 Responda SIM/NÃO com evidência:
 
 | # | Questão | Resposta | Evidência |
 |---|---|---|---|
-| D-1 | A empresa aplica padrões diferentes para grupos diferentes (ex: CLT vs. PJ/gig)? | | |
-| D-2 | Existem departamentos/funções onde P- é evidente, mesmo que outros sejam P+? | | |
-| D-3 | O discurso público (ESG, marca empregadora) contradiz dados de Reclame Aqui/Jusbrasil? | | |
-| D-4 | A liderança tem condições muito diferentes dos demais colaboradores? | | |
+| D-1 | Existem áreas com score IDC divergente (>10 pontos de diferença)? | | |
+| D-2 | O discurso público (ESG, marca empregadora) contradiz dados de Reclame Aqui/Jusbrasil? | | |
+| D-3 | Há grupos (gig/PJ/sellers/parceiros) com tratamento estruturalmente diferente dos CLT? | | |
 
-**Se 2 ou mais = SIM → D- confirmado → classificar como ANDAIME CAPTURADO**
+**Se nenhum SIM → D+. Nenhuma bifurcação detectada. Encerrar aqui.**
+
+### Etapa 2 — Aplicar os 3 Testes (obrigatório se ≥1 SIM acima)
+
+| # | Teste | Resultado | Evidência |
+|---|---|---|---|
+| T1 | **Concessão:** se a área-teto pedisse as condições da área-andaime, a empresa cederia (MERCADO) ou resistiria (CONTROLE)? | CEDERIA / RESISTIRIA | |
+| T2 | **Ameaça:** a autonomia da área-teto ameaçaria diretamente o modelo de negócio ou posição de poder? | SIM / NÃO | |
+| T3 | **Portabilidade:** os agentes na área-teto podem levar consigo o que construíram? | SIM, LEVAM / NÃO, PERTENCE AO SISTEMA | |
+
+**Contagem D-:** ___/3 (contar RESISTIRIA, SIM ameaça, NÃO portabilidade)
+
+| Resultado | Classificação |
+|---|---|
+| 0/3 | **D+** — bifurcação de mercado. Classificar pelo P/E/S sem D- |
+| 1/3 | **D±** — sinal fraco. Investigar mais. Não classificar como Andaime Capturado |
+| 2/3 | **D-** — Andaime Capturado provável |
+| 3/3 | **D-** — Andaime Capturado confirmado |
 
 ---
 

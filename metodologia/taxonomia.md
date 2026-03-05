@@ -163,21 +163,23 @@ S+  │  INOCENTE       │   TOTAL         │
 
 ### 9. ANDAIME CAPTURADO (P± E± S± D-)
 
-**Perfil:** O tipo mais insidioso. A empresa é um andaime genuíno para a maioria — mas usa mecanismos de teto nos pontos de maior extração de valor. A seletividade é o problema.
+**Perfil:** O tipo mais insidioso — e agora o mais raro. A empresa libera onde a autonomia fortalece sua posição e suprime onde ameaçaria seu modelo. Requer **2/3 ou 3/3 nos testes do eixo D** (Concessão, Ameaça, Portabilidade) para ser classificado aqui.
+
+**Distinguir de bifurcação de mercado (D+):** A diferença Tech-bom/Ops-ruim por razões de escassez de talento **não é** Andaime Capturado — é bifurcação de mercado. O Andaime Capturado requer que a seletividade seja **estratégica**: a empresa resistiria à equalização porque ela ameaça seu modelo.
 
 **Como identificar (D-):**
-- Andaime para funcionários CLT, teto para parceiros/gig/PJ
-- Andaime no discurso público, teto na operação real
-- Andaime para TI/Produto, teto para logística/operações
-- Andaime para liderança formada internamente, teto para todos os outros
-- ESG como marketing, teto nas práticas trabalhistas reais
+- Sellers/parceiros externos: reputação e histórico intransferíveis por design (plataforma retém o ativo)
+- Gig workers: autonomia negada especificamente para evitar reconhecimento de vínculo (captura jurídica)
+- Andaime no discurso público (ESG), teto confirmado em Reclame Aqui/Jusbrasil
+- A empresa **resistiria** ativamente se a área-teto pedisse as condições da área-andaime
 
-**Empresas brasileiras com perfil esperado:** Mercado Livre (sellers vs. colaboradores), Magazine Luiza em alguns aspectos
+**Empresas brasileiras com perfil esperado:** Mercado Livre (sellers — reputação e dados intransferíveis), plataformas gig (iFood/Uber para entregadores com vínculo negado)
 
-**Teste de D-:**
-1. Identifique os grupos que geram mais valor para a empresa
-2. Verifique se esses grupos específicos recebem tratamento de teto
-3. Se sim, D- está confirmado
+**Teste de D- (obrigatório — aplicar antes de classificar):**
+1. Teste da Concessão: cederia ou resistiria?
+2. Teste da Ameaça: autonomia da área-teto ameaça o modelo?
+3. Teste da Portabilidade: agente leva o que construiu?
+- 2/3 SIM = D- provável · 3/3 SIM = D- confirmado · 0-1/3 = não classificar como Andaime Capturado
 
 ---
 

@@ -1,6 +1,8 @@
 # SESSÃO 2C — LINKEDIN: LIDERANÇA
 ## IDC [NOME_EMPRESA] · Coleta via Chrome
 
+> **NOTA PARA ASSESSMENT POR ÁREA:** Identifique de qual área cada líder emergiu (origem interna) ou foi recrutado. A composição do topo revela quais áreas têm voz no C-suite — dado crítico para o mapa de calor.
+
 ---
 
 ## SUA TAREFA

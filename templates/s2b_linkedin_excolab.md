@@ -1,6 +1,8 @@
 # SESSÃO 2B — LINKEDIN: EX-COLABORADORES
 ## IDC [NOME_EMPRESA] · Coleta via Chrome
 
+> **NOTA PARA ASSESSMENT POR ÁREA:** Para cada ex-colaborador, registre a área/função do cargo que ocupava. Movimentos PROMOÇÃO vs. DESCIDA variam sistematicamente por área e alimentam o mini-IDC por área na síntese.
+
 ---
 
 ## SUA TAREFA

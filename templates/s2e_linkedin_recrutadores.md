@@ -1,6 +1,8 @@
 # SESSÃO 2E — LINKEDIN: RECRUTADORES
 ## IDC [NOME_EMPRESA] · Coleta via Chrome
 
+> **NOTA PARA ASSESSMENT POR ÁREA:** Identifique qual área cada recrutador cobre. Recrutadores alocados por área (Tech vs. Ops vs. Agrícola etc.) podem confirmar bifurcação com linguagens distintas.
+
 ---
 
 ## SUA TAREFA

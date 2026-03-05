@@ -35,41 +35,29 @@ Analise cruzada disponivel: NAO (minimo 3 sinteses - 0 disponiveis)
 | 2026-03-05 | Nubank | s1 — Glassdoor | ✅ commitado |
 | 2026-03-05 | Itaú | s1 — Glassdoor | ✅ commitado |
 | 2026-03-05 | WEG | s1 — Glassdoor | ✅ commitado |
+| 2026-04-03 | Nubank | s2a — LinkedIn: Empresa | ✅ commitado |
+| 2026-04-03 | Nubank | s2b — LinkedIn: Ex-colaboradores | ✅ commitado |
+| 2026-04-03 | Nubank | s2c — LinkedIn: Liderança | ✅ commitado |
+| 2026-04-03 | Nubank | s2d — LinkedIn: Vagas | ✅ commitado |
+| 2026-04-03 | Itaú | s2a–d — LinkedIn (Empresa / Ex-colab / Liderança / Vagas) | ✅ commitado |
+| 2026-04-03 | WEG | s2a–d — LinkedIn (Empresa / Ex-colab / Liderança / Vagas) | ✅ commitado |
+| 2026-05-03 | Itaú | s2e — LinkedIn: Recrutadores | ✅ commitado |
+| 2026-05-03 | WEG | s2e — LinkedIn: Recrutadores | ✅ commitado |
+| 2026-03-05 | Nubank | s2e — LinkedIn: Recrutadores | ✅ commitado |
+| 2026-03-05 | Itaú | s3a — Reclame Aqui | ✅ commitado |
+| 2026-03-05 | WEG | s3a — Reclame Aqui | ✅ commitado |
 
 ---
 
----
+## PRÓXIMAS SESSÕES
 
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
+| Empresa | Sessão | Arquivo | Status |
+|---|---|---|---|
+| Nubank | s3a — Reclame Aqui | [nubank-s3a-reclameaqui.md](sessoes/nubank-s3a-reclameaqui.md) | ⏳ pendente |
+| Itaú | s3b — Jusbrasil | [itau-s3b-jusbrasil.md](sessoes/itau-s3b-jusbrasil.md) | ⏳ pendente |
+| WEG | s3b — Jusbrasil | [weg-s3b-jusbrasil.md](sessoes/weg-s3b-jusbrasil.md) | ⏳ pendente |
+| Mercado Livre | s1 — Glassdoor | [mercado-livre-s1-glassdoor.md](sessoes/mercado-livre-s1-glassdoor.md) | ⏳ pendente |
 
 ---
 
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
+*progresso.md - IDC Ascendimacy*

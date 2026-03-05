@@ -1,6 +1,8 @@
 # s3a — Reclame Aqui
 ## IDC [NOME_EMPRESA] · Coleta realizada em: [DATA]
 
+> **NOTA PARA ASSESSMENT POR ÁREA:** Para cada reclamação, identifique qual área da empresa é responsável (logística, atendimento, financeiro, plataforma etc.). Concentrações por área revelam onde o poder abusivo opera.
+
 ---
 
 ## DADOS AGREGADOS

@@ -1,6 +1,8 @@
 # SESSÃO 2D — LINKEDIN: VAGAS
 ## IDC [NOME_EMPRESA] · Coleta via Chrome
 
+> **NOTA PARA ASSESSMENT POR ÁREA:** Colete vagas de áreas distintas (idealmente 3-4 Tech + 3-4 Ops + outras). Tom e requisitos variam por área e são a principal fonte do mini-IDC de vagas na síntese.
+
 ---
 
 ## SUA TAREFA

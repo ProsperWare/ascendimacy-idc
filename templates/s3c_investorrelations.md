@@ -1,6 +1,8 @@
 # s3c — Investor Relations
 ## IDC [NOME_EMPRESA] · Coleta realizada em: [DATA]
 
+> **NOTA PARA ASSESSMENT POR ÁREA:** Verifique se o relatório anual/ESG reporta métricas por segmento de negócio ou unidade (turnover por divisão, investimento em pessoas por área). Dados desagregados são raros mas muito reveladores.
+
 ---
 
 ## FONTES UTILIZADAS

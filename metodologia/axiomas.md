@@ -154,13 +154,35 @@
 
 ---
 
-## Eixo D (Domínio)
+## Eixo D — Domínio (recalibrado)
 
-**D+** = A classificação se aplica de forma uniforme em todos os domínios da empresa (todos os departamentos, todos os níveis hierárquicos, funcionários e parceiros).
+O eixo D distingue **bifurcação de mercado** (inevitável) de **bifurcação de captura** (deliberada).
 
-**D-** = A classificação é seletiva: a empresa é andaime em 80% dos casos, mas teto nos 20% que estruturalmente importam mais (ex: andaime para engenheiros, teto para entregadores; andaime no discurso, teto na operação real).
+**D+** = Diferenças entre áreas explicáveis por mercado, natureza do trabalho ou escala. Não indica ilegitimidade — é propriedade de qualquer organização complexa.
 
-> **ANDAIME CAPTURADO** = Empresa que preenche os requisitos formais de andaime mas usa seletivamente mecanismos de teto nos pontos de maior poder e extração de valor.
+**D-** = Diferenças entre áreas explicáveis **apenas** por interesse estratégico do sistema em manter controle. A empresa libera onde fortalece sua posição e suprime onde a autonomia do agente a ameaçaria.
+
+> **ANDAIME CAPTURADO** = Empresa que usa seletivamente mecanismos de teto nos pontos de maior poder e extração de valor — mas **apenas quando a seletividade é estratégica, não de mercado**.
+
+### Teste operacional (3 perguntas)
+
+**1. Teste da Concessão:** Se a área-teto pedisse as mesmas condições da área-andaime, a empresa cederia ou resistiria?
+- Cederia (é custo/mercado) → **não é D-**
+- Resistiria (é questão de controle) → **D-**
+
+**2. Teste da Ameaça:** A autonomia da área-teto ameaçaria o modelo de negócio ou a posição de poder da empresa?
+- Não ameaça (é só mais caro) → **não é D-**
+- Ameaça diretamente → **D-**
+
+**3. Teste da Portabilidade:** Os agentes na área-teto podem levar consigo o que construíram se saírem?
+- Sim, levam competências e rede → **não é D-**
+- Não, o que construíram pertence ao sistema e é intransferível → **D-**
+
+### Classificação
+- 0/3 = **D+** (bifurcação de mercado — não é Andaime Capturado)
+- 1/3 = **D±** (sinal fraco — investigar, não classificar como Andaime Capturado)
+- 2/3 = **D-** (Andaime Capturado provável)
+- 3/3 = **D-** (Andaime Capturado confirmado)
 
 ---
 

@@ -56,20 +56,40 @@ IDC TOTAL:                               ___
 **Justificativa:**
 ___
 
-### Se D- → Análise de Andaime Capturado
+### Teste do Eixo D (obrigatório antes de classificar Andaime Capturado)
+
+**1. Teste da Concessão**
+Se a área-teto pedisse as mesmas condições da área-andaime, a empresa cederia?
+- Resposta: CEDERIA / RESISTIRIA
+- Evidência: ___
+- Resultado: D- / NÃO é D-
+
+**2. Teste da Ameaça**
+A autonomia da área-teto ameaçaria o modelo de negócio?
+- Resposta: SIM, AMEAÇA / NÃO AMEAÇA
+- Evidência: ___
+- Resultado: D- / NÃO é D-
+
+**3. Teste da Portabilidade**
+Os agentes na área-teto podem levar o que construíram?
+- Resposta: SIM, LEVAM / NÃO, PERTENCE AO SISTEMA
+- Evidência: ___
+- Resultado: D- / NÃO é D-
+
+**Classificação D**
+- Testes positivos para D-: ___/3
+- Classificação: D+ (0/3) / D± (1/3) / D- (2-3/3)
+- Andaime Capturado? SIM (2-3/3) / NÃO (0-1/3)
 
 **Domínio onde o teto se aplica:** ___
 
-**Por que é seletivo:**
+**Por que é estratégico (não apenas de mercado):**
 ___
 
 **Quem são os grupos favorecidos (andaime):**
 ___
 
 **Quem são os grupos penalizados (teto):**
-___
-
-**Hipótese explicativa:**
 ___
 
 ---
@@ -96,6 +116,109 @@ ___
 ### Investor Relations (s3c)
 - **Dependência de lock-in:** ___
 - **Investimento em pessoas:** ___
+
+---
+
+## ASSESSMENT POR ÁREA
+
+### Metodologia de detecção
+
+Áreas identificadas a partir de: cargos mencionados nas reviews (s1), áreas de origem dos ex-colaboradores (s2b), divisão de vagas (s2d), natureza das reclamações (s3a), concentração de processos (s3b).
+
+### Áreas identificadas: [N]
+
+---
+
+### [ÁREA 1] — ex: Tech / Engenharia / Produto
+
+**Evidências:**
+- Glassdoor: N reviews identificadas desta área
+  - Axiomas predominantes: ___
+  - Citação representativa: "___"
+- LinkedIn ex-colaboradores desta área: N perfis
+  - Movimentos: N PROMOÇÃO / N LATERAL / N DESCIDA
+  - Destino predominante: ___
+- Vagas desta área: N analisadas
+  - Tom: CONFORMIDADE / COMPLEMENTARIDADE
+  - Requisitos: PROPORCIONAIS / INFLADOS
+
+**Mini-IDC desta área:**
+
+| Axioma | Score (0-5) | Evidência |
+|---|---|---|
+| Proporcionalidade | ___ | ___ |
+| Escala | ___ | ___ |
+| Saída | ___ | ___ |
+| Diferencial | ___ | ___ |
+| Consentimento | ___ | ___ |
+| Dissenso | ___ | ___ |
+
+**Classificação:** [ANDAIME / TETO / tipo taxonômico específico]
+**Score área:** ___/30
+
+---
+
+### [ÁREA 2] — ex: Operações / Logística
+
+**Evidências:**
+- Glassdoor: N reviews identificadas desta área
+  - Axiomas predominantes: ___
+  - Citação representativa: "___"
+- LinkedIn ex-colaboradores desta área: N perfis
+  - Movimentos: N PROMOÇÃO / N LATERAL / N DESCIDA
+  - Destino predominante: ___
+- Vagas desta área: N analisadas
+  - Tom: CONFORMIDADE / COMPLEMENTARIDADE
+
+**Mini-IDC desta área:**
+
+| Axioma | Score (0-5) | Evidência |
+|---|---|---|
+| Proporcionalidade | ___ | ___ |
+| Escala | ___ | ___ |
+| Saída | ___ | ___ |
+| Diferencial | ___ | ___ |
+| Consentimento | ___ | ___ |
+| Dissenso | ___ | ___ |
+
+**Classificação:** [ANDAIME / TETO / tipo taxonômico específico]
+**Score área:** ___/30
+
+---
+
+### Mapa de Calor por Área
+
+| Área | Score | Classificação | Causa da bifurcação | Axioma mais forte | Axioma mais fraco |
+|---|---|---|---|---|---|
+| Tech / Engenharia | ___/30 | ___ | MERCADO / CAPTURA | ___ | ___ |
+| Operações | ___/30 | ___ | MERCADO / CAPTURA | ___ | ___ |
+| Comercial / Vendas | ___/30 | ___ | — | ___ | ___ |
+| Atendimento / Suporte | ___/30 | ___ | — | ___ | ___ |
+| RH / People | ___/30 | ___ | — | ___ | ___ |
+| Liderança / C-suite | ___/30 | ___ | — | ___ | ___ |
+
+> A coluna **Causa da bifurcação** é obrigatória para qualquer área com classificação TETO. Justificar se a diferença é de MERCADO (explicaável por oferta/demanda) ou CAPTURA (estratégica) antes de atribuir D-.
+
+### Bifurcação identificada?
+
+- Diferença significativa (>10 pontos) entre áreas? SIM / NÃO
+- Se SIM:
+  - Áreas ANDAIME: ___
+  - Áreas TETO: ___
+  - Causa da bifurcação: MERCADO (D+) / CAPTURA (D-)
+  - Isso reforça hipótese de Andaime Capturado? SIM / NÃO
+
+### Recomendações por área
+
+**Para quem está considerando trabalhar nesta empresa:**
+
+- **[Área Andaime]:** ___
+- **[Área Teto]:** ___
+- **Pergunta para fazer na entrevista:** "Qual a trajetória documentada de pessoas na função [X] nos últimos 3 anos?"
+
+**Para a empresa:**
+- O gap entre [área andaime] e [área teto] é de ___ pontos — isso indica ___
+- O caminho de equalização passa por ___
 
 ---
 

@@ -1,6 +1,8 @@
 # s1 — Glassdoor
 ## IDC [NOME_EMPRESA] · Coleta realizada em: [DATA]
 
+> **NOTA PARA ASSESSMENT POR ÁREA:** Sempre que possível, registre a área/departamento do reviewer (campo "Cargo/área" em cada review). Isso permite o diagnóstico por área na síntese.
+
 ---
 
 ## DADOS AGREGADOS
