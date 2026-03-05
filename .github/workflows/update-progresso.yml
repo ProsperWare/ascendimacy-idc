@@ -46,22 +46,10 @@ jobs:
               ("UBER/99",        "uber-99"),
           ]
 
-          SESSOES = ["s1_glassdoor", "s2_linkedin", "s2e", "s3a_reclameaqui", "s3b_jusbrasil", "s3c_investorrelations", "sintese"]
+          SESSOES = ["s1_glassdoor", "s2a_linkedin_empresa", "s2b_linkedin_excolab", "s2c_linkedin_lideranca", "s2d_linkedin_vagas", "s2e_linkedin_recrutadores", "s3a_reclameaqui", "s3b_jusbrasil", "s3c_investorrelations", "sintese"]
 
           def check(slug, sessao):
               base = f"empresas/{slug}"
-              if sessao == "sintese":
-                  return os.path.isfile(f"{base}/sintese.md")
-              if sessao == "s2e":
-                  # s2e está completo se s2_linkedin.md contém PARTE E OU se s2e_recrutadores.md existe
-                  s2e_standalone = os.path.isfile(f"{base}/s2e_recrutadores.md")
-                  s2_path = f"{base}/s2_linkedin.md"
-                  if s2e_standalone:
-                      return True
-                  if os.path.isfile(s2_path):
-                      with open(s2_path, "r", encoding="utf-8", errors="ignore") as f:
-                          return "## PARTE E" in f.read()
-                  return False
               return os.path.isfile(f"{base}/{sessao}.md")
 
           hoje = datetime.now().strftime("%Y-%m-%d")
@@ -73,58 +61,65 @@ jobs:
               partes = []
               for sessao in SESSOES:
                   partes.append("[x]" if check(slug, sessao) else "[_]")
-              s1, s2, s2e, s3a, s3b, s3c, sint = partes
-              linha = f"{nome:<18} s1{s1} s2{s2} s2e{s2e} s3a{s3a} s3b{s3b} s3c{s3c} sintese{sint}"
+              s1, s2a, s2b, s2c, s2d, s2e, s3a, s3b, s3c, sint = partes
+              linha = f"{nome:<18} s1{s1} s2a{s2a} s2b{s2b} s2c{s2c} s2d{s2d} s2e{s2e} s3a{s3a} s3b{s3b} s3c{s3c} sintese{sint}"
               linhas_progresso.append(linha)
-              if all(p == "[x]" for p in partes[:6]):
+              if all(p == "[x]" for p in partes[:9]):
                   completas += 1
-              if partes[6] == "[x]":
+              if partes[9] == "[x]":
                   sintetizadas += 1
 
-          analise = "SIM" if sintetizadas >= 3 else f"NÃO (mínimo 3 sínteses — {sintetizadas} disponíveis)"
+          analise = "SIM" if sintetizadas >= 3 else ("NAO (minimo 3 sinteses - " + str(sintetizadas) + " disponiveis)")
 
           bloco = "\n".join(linhas_progresso)
-          conteudo_progresso = f"""# Progresso IDC
-## Última atualização: {hoje} (GitHub Actions)
 
----
-
-```
-PROGRESSO — última atualização: {hoje}
-
-{bloco}
-
-Legenda: [x] = commitado  [~] = parcial  [_] = pendente
-
-Empresas com coleta completa (6/6 — inclui s2e): {completas}
-Empresas com síntese pronta: {sintetizadas}
-Análise cruzada disponível: {analise}
-```
-
----
-
-## HISTÓRICO DE SESSÕES
-
-"""
-
-          # Preserva histórico existente se possível
+          # Preserva historico existente se possivel
           try:
-              with open("progresso.md", "r", encoding="utf-8") as f:
-                  conteudo_atual = f.read()
-              match = re.search(r'## HISTÓRICO DE SESSÕES\n(.*?)(\n## |\Z)', conteudo_atual, re.DOTALL)
-              if match:
-                  historico = match.group(1).strip()
-              else:
-                  historico = "| Data | Empresa | Sessão | Status |\n|---|---|---|---|\n| — | — | — | Nenhuma sessão registrada ainda |"
-          except:
-              historico = "| Data | Empresa | Sessão | Status |\n|---|---|---|---|\n| — | — | — | Nenhuma sessão registrada ainda |"
+              with open("progresso.md", "r", encoding="utf-8") as fh:
+                  conteudo_atual = fh.read()
+              match = re.search(r'## HISTORICO DE SESSOES\n(.*?)(\n## |\Z)', conteudo_atual, re.DOTALL)
+              if not match:
+                  match = re.search(r'## HIST.RICO DE SESS.ES\n(.*?)(\n## |\Z)', conteudo_atual, re.DOTALL)
+              historico = match.group(1).strip() if match else "| Data | Empresa | Sessao | Status |\n|---|---|---|---|\n| - | - | - | Nenhuma sessao registrada ainda |"
+          except Exception:
+              historico = "| Data | Empresa | Sessao | Status |\n|---|---|---|---|\n| - | - | - | Nenhuma sessao registrada ainda |"
 
-          conteudo_progresso += historico + "\n\n---\n\n*progresso.md · IDC Ascendimacy · Atualizado automaticamente via GitHub Actions*\n"
+          sep = "---"
+          fence = "```"
+          lines = [
+              "# Progresso IDC",
+              "## Ultima atualizacao: " + hoje + " (GitHub Actions)",
+              "",
+              sep,
+              "",
+              fence,
+              "PROGRESSO -- ultima atualizacao: " + hoje,
+              "",
+              bloco,
+              "",
+              "Legenda: [x] = commitado  [~] = parcial  [_] = pendente",
+              "",
+              "Empresas com coleta completa (9/9 - inclui s2a-s2e): " + str(completas),
+              "Empresas com sintese pronta: " + str(sintetizadas),
+              "Analise cruzada disponivel: " + analise,
+              fence,
+              "",
+              sep,
+              "",
+              "## HISTORICO DE SESSOES",
+              "",
+              historico,
+              "",
+              sep,
+              "",
+              "*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*",
+          ]
+          conteudo_progresso = "\n".join(lines) + "\n"
 
-          with open("progresso.md", "w", encoding="utf-8") as f:
-              f.write(conteudo_progresso)
+          with open("progresso.md", "w", encoding="utf-8") as fh:
+              fh.write(conteudo_progresso)
 
-          print(f"✅ progresso.md atualizado — {completas}/12 completas (6/6), {sintetizadas}/12 sintetizadas")
+          print("OK progresso.md atualizado - " + str(completas) + "/12 completas (9/9), " + str(sintetizadas) + "/12 sintetizadas")
           EOF
 
       - name: Commit progresso.md se houve mudança
