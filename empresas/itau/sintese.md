@@ -148,7 +148,7 @@ Call center terceirizado — mesma estrutura do mercado geral de telemarketing, 
 
 ### LinkedIn (s2)
 - **Movimento ex-colaboradores:** 47% ascendente (7/15 trampolim)
-- **Achados chave:** "Escola paga" para fintechs — MercadoLivre e Nubank recrutam ativamente perfis com histórico Itaú (casos documentados: Aline Rosa → Gerente Sênior MercadoLivre; Kelvin Garcia → MercadoLivre; ex-Staff SWE → Senior Staff SWE Nubank). CTO externo (Stanford/Ericsson) confirma: o banco sabe que TI internalizado não gera CEO, apenas contribui para o ecossistema externo. CEO e CFO insiders de décadas — liderança executiva capturada internamente.
+- **Achados chave:** "Escola paga" para fintechs — MercadoLivre e Nubank recrutam ativamente perfis com histórico Itaú (casos documentados: ex-colaboradora de Negócios → Gerente Sênior MercadoLivre; ex-colaborador de TI → MercadoLivre; ex-Staff SWE → Senior Staff SWE Nubank). CTO externo (Stanford/Ericsson) confirma: o banco sabe que TI internalizado não gera CEO, apenas contribui para o ecossistema externo. CEO e CFO insiders de décadas — liderança executiva capturada internamente.
 - **Recrutadores:** Divisão linguística agência/tech: recrutadores de varejo usam linguagem emocional ("timaço", "coração laranja"); recrutadores de TI usam impacto ("IA", "300 vagas/mês", "data driven") — dois modos de empregabilidade dentro da mesma empresa
 
 ### Reclame Aqui (s3a)
@@ -214,7 +214,7 @@ Call center terceirizado — mesma estrutura do mercado geral de telemarketing, 
   - Axiomas: P− (metas abusivas), E− (mobilidade bloqueada), Dissenso− (cultura de silêncio), C− (unilateral)
   - Citação representativa: "Paga bem e suga a alma" (R07) / "Ambiente tóxico, metas abusivas que levam à burnout e depressão" (R27, Gerente de Relacionamento) / "Balde de caranguejo" (R29, Delivery Manager)
 - LinkedIn ex-colaboradores: 5–6/15 desta área
-  - Movimentos: 1 TRAMPOLIM / 3 NEUTRO / 2 DESCIDA (Paulo, Daniela — desempregados após saída)
+  - Movimentos: 1 TRAMPOLIM / 3 NEUTRO / 2 DESCIDA (2 ex-colaboradores da área comercial — desempregados após saída)
 - Jusbrasil: 100% dos casos identificados são desta área — cargo de confiança, horas extras, metas abusivas + moral harassment
 
 **Mini-IDC desta área:**

@@ -151,8 +151,8 @@ Trabalhadores operacionais de fábrica — ~36.000+ (47.529 total - ~8.500 engen
 
 ### LinkedIn (s2)
 - **Movimento ex-colaboradores:** 47% ascendente (7/15 trampolim)
-- **Achados chave:** Bifurcação invisível na comunicação pública — "#SomosWEG" e "#VemPraWEG" são usados *identicamente* para vagas de engenharia premium e para vagas de auxiliar de produção; o engajamento identitário mascara a distinção de condições. Alberto Kuba (estageiro→CEO) é usado pela área de recrutamento como prova de mobilidade para *toda* a força de trabalho — sendo que essa trajetória é acessível apenas via rede de engenharia/gestão. Recrutamento operacional acontece offline (SENAI, boca a boca, QR code em ponto de ônibus) — fora de qualquer análise LinkedIn.
-- **Achado crítico:** Michel Simon (24 anos na WEG) e Karin Mariane (19 anos) são brand evangelists totais — a identidade "WEG" não é estratégica de marketing; é internalização genuína de quem entrou no trilho certo. O operacional que não entrou no trilho não está no LinkedIn.
+- **Achados chave:** Bifurcação invisível na comunicação pública — "#SomosWEG" e "#VemPraWEG" são usados *identicamente* para vagas de engenharia premium e para vagas de auxiliar de produção; o engajamento identitário mascara a distinção de condições. Um ex-estagiário com trajetória documentada de estagiário→CEO é usado pela área de recrutamento como prova de mobilidade para *toda* a força de trabalho — sendo que essa trajetória é acessível apenas via rede de engenharia/gestão. Recrutamento operacional acontece offline (SENAI, boca a boca, QR code em ponto de ônibus) — fora de qualquer análise LinkedIn.
+- **Achado crítico:** Um recrutador veterano (24 anos na empresa) e uma recrutadora veterana (19 anos) são brand evangelists totais — a identidade "WEG" não é estratégica de marketing; é internalização genuína de quem entrou no trilho certo. O operacional que não entrou no trilho não está no LinkedIn.
 
 ### Reclame Aqui (s3a)
 - **Nota:** 7,2/10 | **Resolução:** 69%
@@ -162,7 +162,7 @@ Trabalhadores operacionais de fábrica — ~36.000+ (47.529 total - ~8.500 engen
 ### Jusbrasil (s3b)
 - **Volume:** >10.000 processos (cap Jusbrasil)
 - **Padrão dominante:** "Fábrica Sem Adicional" — insalubridade + periculosidade + adicional noturno não pagos ou pagos incorretamente (30–35% dos processos). "Jornada Invisível" — horas extras/banco de horas/minutos pré e pós-jornada (50–55%). "Corpo Descartável" — PAIR, LER/DORT, acidente com morte (8–12%). Razão operacional:engenharia nos processos = 6:1 (2.177 operadores vs. 390 engenheiros) — confirma bifurcação IDC.
-- **Caso mais revelador:** Doriane Koch Henz — admitida em 01/02/1990 como auxiliar de produção em Jaraguá do Sul; 26 anos sem receber adicionais de insalubridade e periculosidade garantidos pela CLT desde 1990; ajuizou ação em 2016 cobrando retroativos. Não é exceção; é o cálculo institucional: se poucos processam (aprisionamento geográfico, identidade WEG, custo de litígio), o passivo esperado é menor do que o cumprimento voluntário.
+- **Caso mais revelador:** uma ex-funcionária (admitida em 01/02/1990 como auxiliar de produção em Jaraguá do Sul) ficou 26 anos sem receber adicionais de insalubridade e periculosidade garantidos pela CLT desde 1990; ajuizou ação em 2016 cobrando retroativos. Não é exceção; é o cálculo institucional: se poucos processam (aprisionamento geográfico, identidade WEG, custo de litígio), o passivo esperado é menor do que o cumprimento voluntário.
 
 ### Investor Relations (s3c)
 - **Dependência de lock-in:** Não é lock-in de trabalhadores — é lock-in de clients via especificação industrial (motores, drives, transformadores especificados em projeto). O modelo prospera com MENOS operacionais (CAPEX Itajaí = automação). Receita internacional 57%; crescimento Americas Norte +33,7% via aquisições; Brasil estagnante em headcount apesar de +16,9% em receita.
@@ -217,14 +217,14 @@ Trabalhadores operacionais de fábrica — ~36.000+ (47.529 total - ~8.500 engen
   - Axiomas: P± (tratamento respeitoso em JGS; tóxico em Sertãozinho), E− (mobilidade bloqueada; "sem conhecer ninguém, não cresce"), Dissenso− (nepotismo)
   - Citação representativa: "Virou empresa de amigos e familiares. Se não conhecer ninguém, não cresce" (R05, Caldeireiro) / "Ambiente tóxico" (R19, R24 — unidades fora de JGS)
 - LinkedIn ex-colaboradores: 3–4/15 identificáveis desta área
-  - Movimentos: Sandra Florisbelo (8 anos operacional, desempregada); Ronaldo Oliveira (2 anos técnico, desempregado); turnover <30 anos = 10,5% (alto)
+  - Movimentos: ex-colaboradora operacional (8 anos, desempregada); ex-colaborador técnico (2 anos, desempregado); turnover <30 anos = 10,5% (alto)
 - Jusbrasil: 2.177 casos apenas com "operador" como cargo — principal demandante; insalubridade, horas extras, PAIR
 
 **Mini-IDC desta área:**
 
 | Axioma | Score (0-5) | Evidência |
 |---|---|---|
-| Proporcionalidade | 2 | Adicionais não pagos voluntariamente (Doriane Koch Henz: 26 anos); CLT descumprida sistematicamente; P+ apenas no JGS core; P− em filiais |
+| Proporcionalidade | 2 | Adicionais não pagos voluntariamente (caso documentado Jusbrasil: 26 anos sem adicionais); CLT descumprida sistematicamente; P+ apenas no JGS core; P− em filiais |
 | Escala | 1 | Sem trilha de liderança documentada; SENAI como recrutamento = entrada sem saída planejada; turnover jovem alto = desgaste, não crescimento |
 | Saída | 3 | Saída possível; habilidades técnicas (torneiro, CNC) têm alguma portabilidade industrial; mas PAIR/LER = portabilidade negativa para o que mais importa |
 | Diferencial | 1 | TLT = treinamento obrigatório de segurança; sem programa de desenvolvimento de carreira identificado; Leadership Academy = não acessível |
