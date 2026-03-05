@@ -1,6 +1,8 @@
 # Síntese IDC — [NOME_EMPRESA]
 ## Coleta concluída em: [DATA] · Síntese produzida em: [DATA]
 
+> **REGRA DE ANONIMIZAÇÃO:** Este documento é publicável. Nenhum nome de pessoa deve aparecer. Referir líderes por cargo, recrutadores por padrão agregado, ex-colaboradores por área. A análise é do sistema, não de indivíduos. Nomes estão nos arquivos de coleta (s2c, s2e) para referência interna apenas. Exceção: nome do CEO pode aparecer como referência factual pública (ex: "aprovação do CEO: 78%"), nunca como análise individual.
+
 ---
 
 ## RESUMO EXECUTIVO

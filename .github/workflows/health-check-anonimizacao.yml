@@ -1,0 +1,170 @@
+name: Health Check — Anonimização IDC
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'empresas/**/sintese.md'
+      - 'analises/**'
+  workflow_dispatch:
+
+jobs:
+  verificar-anonimizacao:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verificar nomes pessoais em outputs publicáveis
+        run: |
+          python3 << 'EOF'
+          import os
+          import re
+          from datetime import datetime
+
+          # Empresas do estudo — duas palavras capitalizadas que são permitidas
+          EMPRESAS_PERMITIDAS = {
+              "Mercado Livre", "Magazine Luiza", "Google Brasil", "McKinsey Brasil",
+              "Mercado Livre", "Nubank", "Itaú", "Petrobras", "iFood",
+              "Ambev", "Correios", "WEG", "Uber",
+              # Variações e termos compostos comuns
+              "Reclame Aqui", "Jusbrasil", "Glassdoor", "LinkedIn",
+              "Investor Relations", "GitHub Actions", "IDC Ascendimacy",
+              "GAIOLA DOURADA", "BENEVOLENTE APRISIONADOR", "ANDAIME CAPTURADO",
+          }
+
+          # Padrão de nome próprio: duas ou mais palavras iniciando com maiúscula
+          # consecutivas que não são início de frase após ponto/newline
+          # Nota: detecção imperfeita — gera alertas para revisão humana
+          NOME_PROPRIO = re.compile(
+              r'(?<![.!?\n#|])\s([A-ZÁÉÍÓÚÀÂÊÔÃÕÇ][a-záéíóúàâêôãõç]+(?:\s[A-ZÁÉÍÓÚÀÂÊÔÃÕÇ][a-záéíóúàâêôãõç]+)+)'
+          )
+
+          # Arquivos a verificar
+          alvos = []
+          for root, dirs, files in os.walk('.'):
+              for f in files:
+                  path = os.path.join(root, f)
+                  # sintese.md em qualquer subpasta de empresas/
+                  if f == 'sintese.md' and path.startswith('./empresas/'):
+                      alvos.append(path)
+                  # qualquer .md em analises/ exceto .gitkeep
+                  if root.startswith('./analises') and f.endswith('.md') and f != '.gitkeep':
+                      alvos.append(path)
+
+          avisos = []
+
+          for path in alvos:
+              try:
+                  with open(path, 'r', encoding='utf-8', errors='replace') as fh:
+                      conteudo = fh.read()
+              except Exception:
+                  continue
+
+              # Ignorar blocos de código e linhas de tabela com |
+              linhas_filtradas = []
+              in_code_block = False
+              for linha in conteudo.splitlines():
+                  if linha.strip().startswith('```'):
+                      in_code_block = not in_code_block
+                  if not in_code_block:
+                      linhas_filtradas.append(linha)
+              texto = '\n'.join(linhas_filtradas)
+
+              matches = NOME_PROPRIO.findall(texto)
+              suspeitos = []
+              for m in matches:
+                  # Filtrar empresas permitidas e siglas
+                  if m.strip() not in EMPRESAS_PERMITIDAS:
+                      # Ignorar se todas as palavras são ALL CAPS (siglas)
+                      if not m.isupper():
+                          suspeitos.append(m.strip())
+
+              if suspeitos:
+                  # Deduplicate
+                  unicos = list(dict.fromkeys(suspeitos))
+                  avisos.append({
+                      'arquivo': path.lstrip('./'),
+                      'suspeitos': unicos[:10]  # max 10 por arquivo
+                  })
+
+          # Ler saude.md atual se existir
+          saude_path = 'analises/saude.md'
+          hoje = datetime.now().strftime('%Y-%m-%d')
+
+          linhas_saude = [
+              '# Health Check IDC — Anonimização',
+              f'## Última verificação: {hoje} (GitHub Actions)',
+              '',
+              '> Verificação automática de possíveis nomes pessoais em outputs publicáveis.',
+              '> Detecção imperfeita — alertas requerem revisão humana.',
+              '',
+              '---',
+              '',
+          ]
+
+          if not avisos:
+              linhas_saude += [
+                  '## ✅ Nenhum alerta',
+                  '',
+                  'Nenhum possível nome pessoal detectado em `sintese.md` ou `analises/*.md`.',
+                  '',
+              ]
+              print('OK: nenhum alerta de anonimização')
+          else:
+              linhas_saude += [
+                  f'## ⚠️ {len(avisos)} arquivo(s) com alerta',
+                  '',
+                  '| Arquivo | Possíveis nomes detectados |',
+                  '|---|---|',
+              ]
+              for a in avisos:
+                  nomes_str = ', '.join(f'`{n}`' for n in a['suspeitos'])
+                  linhas_saude.append(f"| `{a['arquivo']}` | {nomes_str} |")
+              linhas_saude += [
+                  '',
+                  '> **Ação:** revisar cada arquivo listado e substituir nomes por referências de cargo/padrão.',
+              ]
+              print(f'AVISO: {len(avisos)} arquivo(s) com possíveis nomes pessoais em outputs publicáveis')
+              for a in avisos:
+                  print(f"  - {a['arquivo']}: {', '.join(a['suspeitos'])}")
+
+          linhas_saude += [
+              '',
+              '---',
+              '',
+              '## Arquivos verificados',
+              '',
+          ]
+          if alvos:
+              for a in sorted(alvos):
+                  linhas_saude.append(f'- `{a.lstrip("./")}`')
+          else:
+              linhas_saude.append('- *(nenhum output publicável encontrado ainda)*')
+
+          linhas_saude += [
+              '',
+              '---',
+              '',
+              '*saude.md · IDC Ascendimacy · Gerado automaticamente via GitHub Actions*',
+          ]
+
+          with open(saude_path, 'w', encoding='utf-8') as fh:
+              fh.write('\n'.join(linhas_saude) + '\n')
+
+          print(f'OK saude.md atualizado em {saude_path}')
+          EOF
+
+      - name: Commit saude.md se houve mudança
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet analises/saude.md 2>/dev/null || (
+            git add analises/saude.md &&
+            git commit -m "auto: health check anonimização [skip ci]" &&
+            git push
+          )
+          echo "✅ Done"

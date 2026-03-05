@@ -1,6 +1,8 @@
 # Mapa de Calor por Área — Análise Cruzada IDC
 ## Ascendimacy · Atualizado em: [DATA]
 
+> **REGRA DE ANONIMIZAÇÃO:** Este documento é publicável. Zero nomes de pessoas. Empresas podem ser nomeadas (entidades públicas). Padrões sempre agregados. A análise é do sistema, não de indivíduos.
+
 > Disponível quando 3+ sínteses completas estiverem prontas.
 > Mínimo atual para análise cruzada: 0 sínteses.
 
