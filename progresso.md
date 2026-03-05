@@ -67,6 +67,14 @@ Analise cruzada disponivel: NAO (minimo 3 sinteses - 0 disponiveis)
 | Itaú | SÍNTESE | `sessoes/itau-sintese.md` |
 | WEG | SÍNTESE | `sessoes/weg-sintese.md` |
 | Mercado Livre | s2c — LinkedIn: Liderança | `sessoes/mercado-livre-s2c-linkedin.md` |
+| Google Brasil | s1 — Glassdoor | `sessoes/google-brasil-s1-glassdoor.md` |
+| Petrobras | s1 — Glassdoor | `sessoes/petrobras-s1-glassdoor.md` |
+| Magazine Luiza | s1 — Glassdoor | `sessoes/magazine-luiza-s1-glassdoor.md` |
+| iFood | s1 — Glassdoor | `sessoes/ifood-s1-glassdoor.md` |
+| Ambev | s1 — Glassdoor | `sessoes/ambev-s1-glassdoor.md` |
+| Correios | s1 — Glassdoor | `sessoes/correios-s1-glassdoor.md` |
+| McKinsey Brasil | s1 — Glassdoor | `sessoes/mckinsey-brasil-s1-glassdoor.md` |
+| Uber / 99 | s1 — Glassdoor | `sessoes/uber-99-s1-glassdoor.md` |
 
 ---
 
