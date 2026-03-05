@@ -1,0 +1,129 @@
+name: Atualizar Progresso IDC
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'empresas/**'
+  workflow_dispatch:
+    inputs:
+      mensagem:
+        description: 'Motivo da atualização manual (opcional)'
+        required: false
+        default: 'atualização manual via GitHub Actions'
+
+jobs:
+  atualizar-progresso:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Escanear coletas e atualizar progresso.md
+        run: |
+          python3 << 'EOF'
+          import os
+          import re
+          from datetime import datetime
+
+          EMPRESAS = [
+              ("MERCADO LIVRE",  "mercado-livre"),
+              ("NUBANK",         "nubank"),
+              ("ITAÚ",           "itau"),
+              ("GOOGLE BRASIL",  "google-brasil"),
+              ("PETROBRAS",      "petrobras"),
+              ("MAGAZINE LUIZA", "magazine-luiza"),
+              ("IFOOD",          "ifood"),
+              ("WEG",            "weg"),
+              ("AMBEV",          "ambev"),
+              ("CORREIOS",       "correios"),
+              ("MCKINSEY BRASIL","mckinsey-brasil"),
+              ("UBER/99",        "uber-99"),
+          ]
+
+          SESSOES = ["s1_glassdoor", "s2_linkedin", "s3a_reclameaqui", "s3b_jusbrasil", "s3c_investorrelations", "sintese"]
+
+          def check(slug, sessao):
+              base = f"empresas/{slug}"
+              if sessao == "sintese":
+                  return os.path.isfile(f"{base}/sintese.md")
+              return os.path.isfile(f"{base}/{sessao}.md")
+
+          hoje = datetime.now().strftime("%Y-%m-%d")
+          completas = 0
+          sintetizadas = 0
+
+          linhas_progresso = []
+          for nome, slug in EMPRESAS:
+              partes = []
+              for sessao in SESSOES:
+                  partes.append("[x]" if check(slug, sessao) else "[_]")
+              s1, s2, s3a, s3b, s3c, sint = partes
+              linha = f"{nome:<18} s1{s1} s2{s2} s3a{s3a} s3b{s3b} s3c{s3c} sintese{sint}"
+              linhas_progresso.append(linha)
+              if all(p == "[x]" for p in partes[:5]):
+                  completas += 1
+              if partes[5] == "[x]":
+                  sintetizadas += 1
+
+          analise = "SIM" if sintetizadas >= 3 else f"NÃO (mínimo 3 sínteses — {sintetizadas} disponíveis)"
+
+          bloco = "\n".join(linhas_progresso)
+          conteudo_progresso = f"""# Progresso IDC
+## Última atualização: {hoje} (GitHub Actions)
+
+---
+
+```
+PROGRESSO — última atualização: {hoje}
+
+{bloco}
+
+Legenda: [x] = commitado  [~] = parcial  [_] = pendente
+
+Empresas com coleta completa (5/5): {completas}
+Empresas com síntese pronta: {sintetizadas}
+Análise cruzada disponível: {analise}
+```
+
+---
+
+## HISTÓRICO DE SESSÕES
+
+"""
+
+          # Preserva histórico existente se possível
+          try:
+              with open("progresso.md", "r", encoding="utf-8") as f:
+                  conteudo_atual = f.read()
+              match = re.search(r'## HISTÓRICO DE SESSÕES\n(.*?)(\n## |\Z)', conteudo_atual, re.DOTALL)
+              if match:
+                  historico = match.group(1).strip()
+              else:
+                  historico = "| Data | Empresa | Sessão | Status |\n|---|---|---|---|\n| — | — | — | Nenhuma sessão registrada ainda |"
+          except:
+              historico = "| Data | Empresa | Sessão | Status |\n|---|---|---|---|\n| — | — | — | Nenhuma sessão registrada ainda |"
+
+          conteudo_progresso += historico + "\n\n---\n\n*progresso.md · IDC Ascendimacy · Atualizado automaticamente via GitHub Actions*\n"
+
+          with open("progresso.md", "w", encoding="utf-8") as f:
+              f.write(conteudo_progresso)
+
+          print(f"✅ progresso.md atualizado — {completas}/12 completas, {sintetizadas}/12 sintetizadas")
+          EOF
+
+      - name: Commit progresso.md se houve mudança
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet progresso.md || (
+            git add progresso.md &&
+            git commit -m "auto: atualiza progresso.md [skip ci]" &&
+            git push
+          )
+          echo "✅ Done"
