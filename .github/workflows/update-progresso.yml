@@ -50,7 +50,20 @@ jobs:
 
           def check(slug, sessao):
               base = f"empresas/{slug}"
-              return os.path.isfile(f"{base}/{sessao}.md")
+              # Arquivo fatiado direto
+              if os.path.isfile(f"{base}/{sessao}.md"):
+                  return True
+              # Fallback: s2_linkedin.md legado cobre s2a-s2d
+              legacy = f"{base}/s2_linkedin.md"
+              if sessao in ("s2a_linkedin_empresa", "s2b_linkedin_excolab", "s2c_linkedin_lideranca", "s2d_linkedin_vagas"):
+                  return os.path.isfile(legacy)
+              # Fallback: s2_linkedin.md legado cobre s2e se contiver PARTE E ou RECRUTADORES
+              if sessao == "s2e_linkedin_recrutadores":
+                  if os.path.isfile(legacy):
+                      with open(legacy, "r", encoding="utf-8", errors="ignore") as fh:
+                          c = fh.read()
+                      return "PARTE E" in c or "RECRUTADORES" in c
+              return False
 
           hoje = datetime.now().strftime("%Y-%m-%d")
           completas = 0
