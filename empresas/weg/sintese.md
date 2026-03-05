@@ -152,7 +152,7 @@ Trabalhadores operacionais de fábrica — ~36.000+ (47.529 total - ~8.500 engen
 ### LinkedIn (s2)
 - **Movimento ex-colaboradores:** 47% ascendente (7/15 trampolim)
 - **Achados chave:** Bifurcação invisível na comunicação pública — "#SomosWEG" e "#VemPraWEG" são usados *identicamente* para vagas de engenharia premium e para vagas de auxiliar de produção; o engajamento identitário mascara a distinção de condições. Um ex-estagiário com trajetória documentada de estagiário→CEO é usado pela área de recrutamento como prova de mobilidade para *toda* a força de trabalho — sendo que essa trajetória é acessível apenas via rede de engenharia/gestão. Recrutamento operacional acontece offline (SENAI, boca a boca, QR code em ponto de ônibus) — fora de qualquer análise LinkedIn.
-- **Achado crítico:** Um recrutador veterano (24 anos na empresa) e uma recrutadora veterana (19 anos) são brand evangelists totais — a identidade "WEG" não é estratégica de marketing; é internalização genuína de quem entrou no trilho certo. O operacional que não entrou no trilho não está no LinkedIn.
+- **Achado crítico:** Um recrutador veterano (24 anos na empresa) e uma recrutadora veterana (19 anos na empresa) são brand evangelists totais — a identidade "WEG" não é estratégica de marketing; é internalização genuína de quem entrou no trilho certo. O operacional que não entrou no trilho não está no LinkedIn.
 
 ### Reclame Aqui (s3a)
 - **Nota:** 7,2/10 | **Resolução:** 69%
