@@ -135,7 +135,7 @@ Após as 30 reviews:
 
 1. Navegue até:
 ```
-https://github.com/[SEU_USUARIO_GITHUB]/ascendimacy-idc/new/main/empresas/weg
+https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/weg
 ```
 
 2. Nome do arquivo: `s1_glassdoor.md`
