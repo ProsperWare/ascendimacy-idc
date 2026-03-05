@@ -1,0 +1,11 @@
+# analises/
+
+Diretório reservado para análises cruzadas. Disponível quando houver 3+ sínteses completas.
+
+## Arquivos planejados
+
+- `ranking.md` — Ranking das 12 empresas por IDC
+- `setorial.md` — IDC médio por setor
+- `taxonomia_mapa.md` — Quais tipos taxonômicos apareceram e quais não
+- `padroes.md` — Bifurcações recorrentes, anomalias, achados transversais
+- `andaimes_capturados.md` — Análise específica dos casos D-
