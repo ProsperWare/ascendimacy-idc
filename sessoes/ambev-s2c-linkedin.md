@@ -1,4 +1,4 @@
-﻿# SESSÃO s2c — AMBEV: LinkedIn · Liderança
+# SESSÃO s2c — AMBEV: LinkedIn · Liderança
 ## Briefing de campo · Produzir: `empresas/ambev/s2c_linkedin_lideranca.md`
 
 ---

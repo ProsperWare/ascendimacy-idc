@@ -1,4 +1,4 @@
-﻿# SESSÃO s3a — MERCADO LIVRE: Reclame Aqui
+# SESSÃO s3a — MERCADO LIVRE: Reclame Aqui
 ## Briefing de campo · Produzir: `empresas/mercado-livre/s3a_reclameaqui.md`
 
 > **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.

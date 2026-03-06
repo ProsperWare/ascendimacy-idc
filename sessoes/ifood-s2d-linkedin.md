@@ -1,4 +1,4 @@
-﻿# SESSÃO s2d — IFOOD: LinkedIn · Vagas
+# SESSÃO s2d — IFOOD: LinkedIn · Vagas
 ## Briefing de campo · Produzir: `empresas/ifood/s2d_linkedin_vagas.md`
 
 ---

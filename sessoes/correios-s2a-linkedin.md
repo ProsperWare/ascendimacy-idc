@@ -1,4 +1,4 @@
-﻿# SESSÃO s2a — CORREIOS: LinkedIn · Página da Empresa
+# SESSÃO s2a — CORREIOS: LinkedIn · Página da Empresa
 ## Briefing de campo · Produzir: `empresas/correios/s2a_linkedin_empresa.md`
 
 ---

@@ -1,4 +1,4 @@
-﻿# SESSÃO s2b — PORTO SEGURO: LinkedIn · Ex-colaboradores
+# SESSÃO s2b — PORTO SEGURO: LinkedIn · Ex-colaboradores
 ## Briefing de campo · Produzir: `empresas/porto-seguro/s2b_linkedin_excolaboradores.md`
 
 > **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.

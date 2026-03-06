@@ -1,4 +1,4 @@
-﻿# SESSÃO s2b — PETROBRAS: LinkedIn · Liderança
+# SESSÃO s2b — PETROBRAS: LinkedIn · Liderança
 ## Briefing de campo · Produzir: `empresas/petrobras/s2b_linkedin_lideranca.md`
 
 > **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.

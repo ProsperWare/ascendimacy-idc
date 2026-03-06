@@ -1,4 +1,4 @@
-﻿# SESSÃO s2a — 99: LinkedIn · Empresa
+# SESSÃO s2a — 99: LinkedIn · Empresa
 ## Briefing de campo · Produzir: `empresas/99/s2a_linkedin_empresa.md`
 
 > **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.

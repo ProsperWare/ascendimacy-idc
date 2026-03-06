@@ -1,4 +1,4 @@
-﻿# SESSÃO s2c — MCKINSEY BRASIL: LinkedIn · Liderança
+# SESSÃO s2c — MCKINSEY BRASIL: LinkedIn · Liderança
 ## Briefing de campo · Produzir: `empresas/mckinsey-brasil/s2c_linkedin_lideranca.md`
 
 ---

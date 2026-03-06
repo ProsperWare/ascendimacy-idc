@@ -1,4 +1,4 @@
-﻿# SESSÃO s2b — MAGAZINE LUIZA: LinkedIn · Ex-colaboradores
+# SESSÃO s2b — MAGAZINE LUIZA: LinkedIn · Ex-colaboradores
 ## Briefing de campo · Produzir: `empresas/magazine-luiza/s2b_linkedin_ex_colaboradores.md`
 
 ---
