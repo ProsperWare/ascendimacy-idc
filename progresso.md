@@ -10,7 +10,7 @@ MERCADO LIVRE      s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[_] s3a[_] s3b[_] s3c[_]
 NUBANK             s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
 ITAÚ               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
 GOOGLE BRASIL      s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-PETROBRAS          s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+PETROBRAS          s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 MAGAZINE LUIZA     s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 IFOOD              s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 WEG                s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
@@ -58,6 +58,10 @@ Analise cruzada disponivel: SIM
 | 2026-05-03 | Mercado Livre | s2b — LinkedIn: Ex-colaboradores | ✅ commitado |
 
 ---
+
+---
+
+*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
 
 ---
 
