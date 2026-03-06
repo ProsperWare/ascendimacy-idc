@@ -38,7 +38,6 @@ if (!GITHUB_TOKEN) {
 // ── HTML ───────────────────────────────────────────────────────────────────────
 const HTML_FORM = fs.readFileSync(path.join(__dirname, 'public', 'index.html'), 'utf-8');
 function htmlSuccess(sessao, filepath) {
-  const repoUrl = `https://github.com/${GITHUB_REPO}/blob/${GITHUB_BRANCH}/${filepath}`;
   return `<!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8">
 <title>IDC · Entrega confirmada</title>
 <style>
@@ -48,18 +47,16 @@ function htmlSuccess(sessao, filepath) {
   p { color: #475569; margin: 6px 0; }
   code { background: #f1f5f9; padding: 2px 8px; border-radius: 4px; font-size: 0.9em; }
   a { display: inline-block; margin-top: 14px; padding: 10px 22px; background: #0f172a; color: #fff; text-decoration: none; border-radius: 8px; font-size: 0.9em; }
-  .gh { background: #1d4ed8; margin-left: 8px; }
 </style></head><body>
 <div class="box">
   <h1>✅ Entrega registrada</h1>
   <p>Sessão: <code>${escapeHtml(sessao)}</code></p>
-  <p>Arquivo no repositório: <code>${escapeHtml(filepath)}</code></p>
+  <p>Arquivo: <code>${escapeHtml(filepath)}</code></p>
   <p style="margin-top:20px; font-size:0.85em; color:#94a3b8;">
-    O pesquisador irá processar e commitar este arquivo.<br>
+    O pesquisador irá processar este arquivo.<br>
     Você pode fechar esta aba.
   </p>
   <a href="/">← Nova entrega</a>
-  <a class="gh" href="${escapeHtml(repoUrl)}" target="_blank">Ver no GitHub ↗</a>
 </div></body></html>`;
 }
 
