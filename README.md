@@ -71,7 +71,7 @@ IDC = (RH/35 × 25) + (LinkedIn/30 × 20) + (Modelo/35 × 20) + (Cultura/30 × 2
 
 ---
 
-## As 12 Empresas
+## As 13 Empresas
 
 | # | Empresa | Setor | Hipótese |
 |---|---|---|---|
@@ -79,14 +79,16 @@ IDC = (RH/35 × 25) + (LinkedIn/30 × 20) + (Modelo/35 × 20) + (Cultura/30 × 2
 | 2 | Nubank | Fintech | Gaiola Dourada? |
 | 3 | Itaú Unibanco | Banco tradicional | Benevolente Aprisionador? |
 | 4 | Google Brasil | Big tech global | Dominante Inocente? |
-| 5 | Petrobras | Estatal/Energia | Teto Provável? |
-| 6 | Magazine Luiza | Varejo | Andaime c/ Ressalvas? |
+| 5 | Petrobras | Estatal/Energia | Benevolente Aprisionador |
+| 6 | Porto Seguro | Seguros/Fintech | Andaime Bifurcado? |
+| 7 | Magazine Luiza | Varejo | Andaime c/ Ressalvas? |
 | 7 | iFood | Plataforma/Gig | Armadilha Aberta? |
 | 8 | WEG | Indústria | Andaime Puro? |
 | 9 | Ambev | Indústria/Bebidas | Predador Contido? |
 | 10 | Correios | Estatal | Teto Provável? |
 | 11 | McKinsey Brasil | Consultoria | Gaiola Dourada? |
-| 12 | 99 / Uber | Gig economy | Armadilha Aberta? |
+| 12 | Uber | Gig economy | Armadilha Aberta? |
+| 13 | 99 | Gig economy (Didi) | Armadilha Aberta? |
 
 ---
 

@@ -1,5 +1,5 @@
 # Progresso IDC
-## Ultima atualizacao: 2026-03-06 (GitHub Actions)
+## Ultima atualizacao: 2026-03-06
 
 ---
 
@@ -11,16 +11,19 @@ NUBANK             s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x]
 ITAÚ               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
 GOOGLE BRASIL      s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 PETROBRAS          s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+PORTO SEGURO       s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 MAGAZINE LUIZA     s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 IFOOD              s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 WEG                s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
 AMBEV              s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 CORREIOS           s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 MCKINSEY BRASIL    s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-UBER/99            s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+UBER               s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+99                 s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 
 Legenda: [x] = commitado  [~] = parcial  [_] = pendente
 
+Empresas ativas: 13
 Empresas com coleta completa (9/9 - inclui s2a-s2e): 3
 Empresas com sintese pronta: 3
 Analise cruzada disponivel: SIM
@@ -56,65 +59,15 @@ Analise cruzada disponivel: SIM
 | 2026-05-03 | Itaú | s3c — Investor Relations | ✅ commitado |
 | 2026-05-03 | WEG | s3c — Investor Relations | ✅ commitado |
 | 2026-05-03 | Mercado Livre | s2b — LinkedIn: Ex-colaboradores | ✅ commitado |
+| 2026-03-06 | Petrobras | s2a — LinkedIn: Empresa (análise) | ✅ analisado |
+| 2026-03-06 | Porto Seguro | s2a — LinkedIn: Empresa (análise) | ✅ analisado |
+| 2026-03-06 | Uber | s2a — LinkedIn: Empresa (análise) | ✅ analisado |
+| 2026-03-06 | Petrobras | s2b briefing — LinkedIn: Liderança | ✅ commitado |
+| 2026-03-06 | Porto Seguro | s2b briefing — LinkedIn: Ex-colaboradores | ✅ commitado |
+| 2026-03-06 | Uber | s2b briefing — LinkedIn: Ex-colaboradores | ✅ commitado |
 
 ---
 
 ---
 
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
-
----
-
-*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*
+*progresso.md - IDC Ascendimacy*
