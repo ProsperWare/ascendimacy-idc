@@ -41,8 +41,8 @@
 | Mercado Livre | s3a | Reclame Aqui | `IDC · MELI · s3a` | [mercado-livre-s3a-reclameaqui.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/mercado-livre-s3a-reclameaqui.md) |
 | Petrobras | s2a | LinkedIn · Empresa | `IDC · Petrobras · s2a` | [petrobras-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/petrobras-s2a-linkedin.md) |
 | Porto Seguro | s2a | LinkedIn · Empresa | `IDC · Porto · s2a` | [porto-seguro-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/porto-seguro-s2a-linkedin.md) |
-| Uber | s2a | LinkedIn · Empresa | `IDC · Uber · s2a` | [uber-99-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/uber-99-s2a-linkedin.md) |
-| 99 | s2a | LinkedIn · Empresa | `IDC · 99 · s2a` | [uber-99-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/uber-99-s2a-linkedin.md) |
+| Uber | s2a | LinkedIn · Empresa | `IDC · Uber · s2a` | [uber-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/uber-s2a-linkedin.md) |
+| 99 | s2a | LinkedIn · Empresa | `IDC · 99 · s2a` | [99-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/99-s2a-linkedin.md) |
 
 ---
 
