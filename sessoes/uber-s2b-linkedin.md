@@ -1,7 +1,5 @@
 # SESSÃO s2b — UBER: LinkedIn · Ex-colaboradores
-## Briefing de campo · Produzir: `empresas/uber/s2b_linkedin_excolaboradores.md`
-
-> **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
+## Documento a produzir (para entrega ao pesquisador): `empresas/uber/s2b_linkedin_excolaboradores.md`
 
 ---
 
@@ -64,19 +62,13 @@ Mapear onde **ex-colaboradores CLT da Uber Brasil** foram trabalhar após sair �
 
 ## PROTOCOLO DE COLETA
 
-> O pesquisador navega no LinkedIn e descreve cada perfil encontrado. O assistente organiza os dados na tabela abaixo conforme os campos definidos.
+O pesquisador já está navegando no LinkedIn e vai descrever cada perfil encontrado. **Ao assistente: aguarde as descrições e organize na tabela abaixo. Não é necessário acessar nenhuma plataforma externa.**
 
-### Grupos de perfis a buscar
+### Grupos de perfis
 - **Grupo A (tech):** Software Engineer / Data Scientist / Product Manager / Analytics — mínimo 6 perfis
 - **Grupo B (ops CLT):** Strategy & Operations / Account Manager / Customer Success / Operations Manager — mínimo 6 perfis
 - **Grupo C (ops motoristas):** Logistics / Driver Operations / Community Operations — mínimo 2 perfis (se encontráveis)
 - **Grupo D (corporativo):** Marketing / Comms / Policy — mínimo 3 perfis
-
-### Sugestões de busca no LinkedIn (para o pesquisador)
-- Empresa anterior = "Uber" · cargo atual ≠ Uber · localização: Brasil
-- `"ex-Uber"` + Brasil no headline
-- `"Uber" "Senior Software Engineer"` · ex · Brasil
-- Rede de Silvia Penna (`linkedin.com/in/silviapenna`) → conexões que saíram da Uber
 
 ---
 
