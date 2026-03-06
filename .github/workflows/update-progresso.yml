@@ -5,6 +5,7 @@ on:
     branches: [master]
     paths:
       - 'empresas/**'
+      - 'sessoes/**'
   workflow_dispatch:
     inputs:
       mensagem:
@@ -34,16 +35,18 @@ jobs:
           EMPRESAS = [
               ("MERCADO LIVRE",  "mercado-livre"),
               ("NUBANK",         "nubank"),
-              ("ITAÚ",           "itau"),
+              ("ITAU",           "itau"),
               ("GOOGLE BRASIL",  "google-brasil"),
               ("PETROBRAS",      "petrobras"),
+              ("PORTO SEGURO",   "porto-seguro"),
               ("MAGAZINE LUIZA", "magazine-luiza"),
               ("IFOOD",          "ifood"),
               ("WEG",            "weg"),
               ("AMBEV",          "ambev"),
               ("CORREIOS",       "correios"),
               ("MCKINSEY BRASIL","mckinsey-brasil"),
-              ("UBER/99",        "uber-99"),
+              ("UBER",           "uber"),
+              ("99",             "99"),
           ]
 
           SESSOES = ["s1_glassdoor", "s2a_linkedin_empresa", "s2b_linkedin_excolab", "s2c_linkedin_lideranca", "s2d_linkedin_vagas", "s2e_linkedin_recrutadores", "s3a_reclameaqui", "s3b_jusbrasil", "s3c_investorrelations", "sintese"]
@@ -110,6 +113,7 @@ jobs:
               "",
               "Legenda: [x] = commitado  [~] = parcial  [_] = pendente",
               "",
+              "Empresas ativas: " + str(len(EMPRESAS)),
               "Empresas com coleta completa (9/9 - inclui s2a-s2e): " + str(completas),
               "Empresas com sintese pronta: " + str(sintetizadas),
               "Analise cruzada disponivel: " + analise,
@@ -123,14 +127,14 @@ jobs:
               "",
               sep,
               "",
-              "*progresso.md - IDC Ascendimacy - Atualizado automaticamente via GitHub Actions*",
+              "*progresso.md - IDC Ascendimacy*",
           ]
           conteudo_progresso = "\n".join(lines) + "\n"
 
           with open("progresso.md", "w", encoding="utf-8") as fh:
               fh.write(conteudo_progresso)
 
-          print("OK progresso.md atualizado - " + str(completas) + "/12 completas (9/9), " + str(sintetizadas) + "/12 sintetizadas")
+          print("OK progresso.md atualizado - " + str(completas) + "/" + str(len(EMPRESAS)) + " completas (9/9), " + str(sintetizadas) + "/" + str(len(EMPRESAS)) + " sintetizadas")
           EOF
 
       - name: Commit progresso.md se houve mudança
