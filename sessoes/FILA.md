@@ -39,6 +39,6 @@
 | Magazine Luiza | s2b | LinkedIn · Ex-colaboradores | `IDC · Magalu · s2b` | [magazine-luiza-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/magazine-luiza-s2b-linkedin.md) |
 | McKinsey Brasil | s2c | LinkedIn · Liderança | `IDC · McKinsey · s2c` | [mckinsey-brasil-s2c-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/mckinsey-brasil-s2c-linkedin.md) |
 | Mercado Livre | s3a | Reclame Aqui | `IDC · MELI · s3a` | [mercado-livre-s3a-reclameaqui.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/mercado-livre-s3a-reclameaqui.md) |
-| Petrobras | s1 | Glassdoor | `IDC · Petrobras · s1` | [petrobras-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/petrobras-s1-glassdoor.md) |
+| Petrobras | s2a | LinkedIn · Empresa | `IDC · Petrobras · s2a` | [petrobras-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/petrobras-s2a-linkedin.md) |
 | Porto Seguro | s2a | LinkedIn · Empresa | `IDC · Porto · s2a` | [porto-seguro-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/porto-seguro-s2a-linkedin.md) |
-| Uber / 99 | s1 | Glassdoor | `IDC · Uber/99 · s1` | [uber-99-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/uber-99-s1-glassdoor.md) |
+| Uber / 99 | s2a | LinkedIn · Empresa | `IDC · Uber/99 · s2a` | [uber-99-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/uber-99-s2a-linkedin.md) |
