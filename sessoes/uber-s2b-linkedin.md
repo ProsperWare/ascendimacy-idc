@@ -1,3 +1,9 @@
+> **CONTEXTO:** Esta é uma pesquisa acadêmica sobre mobilidade profissional em empresas de tecnologia no Brasil, planejada em colaboração com o Claude Opus. O repositório GitHub `ProsperWare/ascendimacy-idc` pertence ao pesquisador. Os dados coletados serão anonimizados antes da publicação.
+>
+> **Papel do assistente nesta sessão:** O pesquisador navega no LinkedIn e descreve cada perfil encontrado. O assistente recebe as descrições, organiza na tabela abaixo, analisa os padrões, testa as hipóteses H1–H4 e escreve o arquivo final formatado em markdown. Quando o pesquisador disser "pronto, pode analisar", o assistente produz o documento completo e executa o commit no repositório.
+>
+> O assistente **não precisa acessar nenhuma URL externa.**
+
 # SESSÃO s2b — UBER: LinkedIn · Ex-colaboradores
 ## Briefing de campo · Produzir: `empresas/uber/s2b_linkedin_excolaboradores.md`
 
@@ -62,27 +68,21 @@ Mapear onde **ex-colaboradores CLT da Uber Brasil** foram trabalhar após sair �
 
 ---
 
-## PERFIS-ALVO A BUSCAR
+## PROTOCOLO DE COLETA
 
-### Método de busca LinkedIn
-- Buscar: empresa anterior = "Uber" · cargo atual ≠ Uber · localização: Brasil
-- Filtros de cargo anterior:
-  - **Grupo A:** Software Engineer / Data Scientist / Product Manager / Analytics (tech)
-  - **Grupo B:** Strategy & Operations / Account Manager / Customer Success / Operations Manager (ops CLT)
-  - **Grupo C:** Logistics / Driver Operations / Community Operations (ops de motoristas)
-  - **Grupo D:** Marketing / Comms / Policy (corporativo)
+> O pesquisador navega no LinkedIn e descreve cada perfil encontrado. O assistente organiza os dados na tabela abaixo conforme os campos definidos.
 
-### Variações de busca
+### Grupos de perfis a buscar
+- **Grupo A (tech):** Software Engineer / Data Scientist / Product Manager / Analytics — mínimo 6 perfis
+- **Grupo B (ops CLT):** Strategy & Operations / Account Manager / Customer Success / Operations Manager — mínimo 6 perfis
+- **Grupo C (ops motoristas):** Logistics / Driver Operations / Community Operations — mínimo 2 perfis (se encontráveis)
+- **Grupo D (corporativo):** Marketing / Comms / Policy — mínimo 3 perfis
+
+### Sugestões de busca no LinkedIn (para o pesquisador)
+- Empresa anterior = "Uber" · cargo atual ≠ Uber · localização: Brasil
 - `"ex-Uber"` + Brasil no headline
-- Empresa anterior = Uber · filtrar por cargo atual em empresa reconhecida
 - `"Uber" "Senior Software Engineer"` · ex · Brasil
-- Buscar na rede de Silvia Penna (`linkedin.com/in/silviapenna`) → ver conexões que saíram da Uber
-
-### Quantidade mínima por grupo
-- Grupo A (tech): mínimo 6 perfis
-- Grupo B (ops CLT): mínimo 6 perfis
-- Grupo C (ops motoristas): mínimo 2 perfis (se encontráveis)
-- Grupo D (corporativo): mínimo 3 perfis
+- Rede de Silvia Penna (`linkedin.com/in/silviapenna`) → conexões que saíram da Uber
 
 ---
 
