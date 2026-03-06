@@ -1,4 +1,4 @@
-# SESSÃO s2b — PORTO SEGURO: LinkedIn · Ex-colaboradores
+﻿# SESSÃO s2b — PORTO SEGURO: LinkedIn · Ex-colaboradores
 ## Briefing de campo · Produzir: `empresas/porto-seguro/s2b_linkedin_excolaboradores.md`
 
 > **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
@@ -151,7 +151,7 @@ Usar busca de pessoas no LinkedIn com filtros:
 
 1. Navegue até:
 ```
-https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/porto-seguro
+https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/porto-seguro
 ```
 
 2. Nome do arquivo: `s2b_linkedin_excolaboradores.md`

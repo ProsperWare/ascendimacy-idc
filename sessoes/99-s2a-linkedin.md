@@ -1,4 +1,4 @@
-# SESSÃO s2a — 99: LinkedIn · Empresa
+﻿# SESSÃO s2a — 99: LinkedIn · Empresa
 ## Briefing de campo · Produzir: `empresas/99/s2a_linkedin_empresa.md`
 
 > **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
@@ -132,7 +132,7 @@ LinkedIn: buscar **"99app"** ou **"99 Tecnologia"** → identificar página ofic
 
 1. Navegue até:
 ```
-https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/99
+https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/99
 ```
 
 2. Nome do arquivo: `s2a_linkedin_empresa.md`

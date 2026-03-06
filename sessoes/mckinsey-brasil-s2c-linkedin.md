@@ -1,4 +1,4 @@
-# SESSÃO s2c — MCKINSEY BRASIL: LinkedIn · Liderança
+﻿# SESSÃO s2c — MCKINSEY BRASIL: LinkedIn · Liderança
 ## Briefing de campo · Produzir: `empresas/mckinsey-brasil/s2c_linkedin_lideranca.md`
 
 ---
@@ -182,7 +182,7 @@ A pergunta para s2c: **os Partners são o destino final de quem não foi descart
 
 1. Navegue até:
 ```
-https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/mckinsey-brasil
+https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/mckinsey-brasil
 ```
 
 2. Nome do arquivo: `s2c_linkedin_lideranca.md`

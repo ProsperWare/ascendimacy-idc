@@ -1,4 +1,4 @@
-# SESSÃO s2b — PETROBRAS: LinkedIn · Liderança
+﻿# SESSÃO s2b — PETROBRAS: LinkedIn · Liderança
 ## Briefing de campo · Produzir: `empresas/petrobras/s2b_linkedin_lideranca.md`
 
 > **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
@@ -132,7 +132,7 @@ Para cada perfil: cargo, seguidores, últimos 3 posts (tema, tom, engajamento), 
 
 1. Navegue até:
 ```
-https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/petrobras
+https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/petrobras
 ```
 
 2. Nome do arquivo: `s2b_linkedin_lideranca.md`

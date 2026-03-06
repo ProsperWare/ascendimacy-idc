@@ -1,4 +1,4 @@
-# SESSÃO s2c — AMBEV: LinkedIn · Liderança
+﻿# SESSÃO s2c — AMBEV: LinkedIn · Liderança
 ## Briefing de campo · Produzir: `empresas/ambev/s2c_linkedin_lideranca.md`
 
 ---
@@ -171,7 +171,7 @@ Mapear **quem lidera a Ambev Brasil** pelo LinkedIn — identificar se a lideran
 
 1. Navegue até:
 ```
-https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/ambev
+https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/ambev
 ```
 
 2. Nome do arquivo: `s2c_linkedin_lideranca.md`

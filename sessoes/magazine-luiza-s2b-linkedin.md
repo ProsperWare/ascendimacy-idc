@@ -1,4 +1,4 @@
-# SESSÃO s2b — MAGAZINE LUIZA: LinkedIn · Ex-colaboradores
+﻿# SESSÃO s2b — MAGAZINE LUIZA: LinkedIn · Ex-colaboradores
 ## Briefing de campo · Produzir: `empresas/magazine-luiza/s2b_linkedin_ex_colaboradores.md`
 
 ---
@@ -171,7 +171,7 @@ Mapear **ex-colaboradores Magazine Luiza no LinkedIn** — verificar se a bifurc
 
 1. Navegue até:
 ```
-https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/magazine-luiza
+https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/magazine-luiza
 ```
 
 2. Nome do arquivo: `s2b_linkedin_ex_colaboradores.md`

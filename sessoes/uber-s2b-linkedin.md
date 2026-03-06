@@ -1,4 +1,4 @@
-# SESSÃO s2b — UBER: LinkedIn · Ex-colaboradores
+﻿# SESSÃO s2b — UBER: LinkedIn · Ex-colaboradores
 ## Briefing de campo · Produzir: `empresas/uber/s2b_linkedin_excolaboradores.md`
 
 > **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
@@ -159,7 +159,7 @@ Mapear onde **ex-colaboradores CLT da Uber Brasil** foram trabalhar após sair �
 
 1. Navegue até:
 ```
-https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/uber
+https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/uber
 ```
 
 2. Nome do arquivo: `s2b_linkedin_excolaboradores.md`

@@ -1,4 +1,4 @@
-# SESSÃO s2d — IFOOD: LinkedIn · Vagas
+﻿# SESSÃO s2d — IFOOD: LinkedIn · Vagas
 ## Briefing de campo · Produzir: `empresas/ifood/s2d_linkedin_vagas.md`
 
 ---
@@ -147,7 +147,7 @@ Selecionar:
 
 1. Navegue até:
 ```
-https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/ifood
+https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/ifood
 ```
 
 2. Nome do arquivo: `s2d_linkedin_vagas.md`

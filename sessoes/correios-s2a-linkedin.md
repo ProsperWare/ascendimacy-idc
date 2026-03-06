@@ -1,4 +1,4 @@
-# SESSÃO s2a — CORREIOS: LinkedIn · Página da Empresa
+﻿# SESSÃO s2a — CORREIOS: LinkedIn · Página da Empresa
 ## Briefing de campo · Produzir: `empresas/correios/s2a_linkedin_empresa.md`
 
 ---
@@ -138,7 +138,7 @@ Para cada post registrar:
 
 1. Navegue até:
 ```
-https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/correios
+https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/correios
 ```
 
 2. Nome do arquivo: `s2a_linkedin_empresa.md`

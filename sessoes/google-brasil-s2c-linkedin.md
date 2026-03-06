@@ -1,4 +1,4 @@
-# SESSÃO s2c — GOOGLE BRASIL: LinkedIn · Liderança
+﻿# SESSÃO s2c — GOOGLE BRASIL: LinkedIn · Liderança
 ## Briefing de campo · Produzir: `empresas/google-brasil/s2c_linkedin_lideranca.md`
 
 ---
