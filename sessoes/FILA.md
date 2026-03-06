@@ -41,7 +41,8 @@
 | Mercado Livre | s3a | Reclame Aqui | `IDC · MELI · s3a` | [mercado-livre-s3a-reclameaqui.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/mercado-livre-s3a-reclameaqui.md) |
 | Petrobras | s2a | LinkedIn · Empresa | `IDC · Petrobras · s2a` | [petrobras-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/petrobras-s2a-linkedin.md) |
 | Porto Seguro | s2a | LinkedIn · Empresa | `IDC · Porto · s2a` | [porto-seguro-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/porto-seguro-s2a-linkedin.md) |
-| Uber / 99 | s2a | LinkedIn · Empresa | `IDC · Uber/99 · s2a` | [uber-99-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/uber-99-s2a-linkedin.md) |
+| Uber | s2a | LinkedIn · Empresa | `IDC · Uber · s2a` | [uber-99-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/uber-99-s2a-linkedin.md) |
+| 99 | s2a | LinkedIn · Empresa | `IDC · 99 · s2a` | [uber-99-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/uber-99-s2a-linkedin.md) |
 
 ---
 
@@ -94,7 +95,12 @@ Comprima e descarte qualquer contexto anterior antes de começar. Você é o age
 Comprima e descarte qualquer contexto anterior antes de começar. Você é o agente IDC · Porto Seguro. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Porto Seguro.
 ```
 
-### Uber / 99
+### Uber
 ```
-Comprima e descarte qualquer contexto anterior antes de começar. Você é o agente IDC · Uber/99. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Uber / 99.
+Comprima e descarte qualquer contexto anterior antes de começar. Você é o agente IDC · Uber. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Uber.
+```
+
+### 99
+```
+Comprima e descarte qualquer contexto anterior antes de começar. Você é o agente IDC · 99. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa 99.
 ```
