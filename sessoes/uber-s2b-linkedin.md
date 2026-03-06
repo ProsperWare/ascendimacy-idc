@@ -60,9 +60,16 @@ Mapear onde **ex-colaboradores CLT da Uber Brasil** foram trabalhar após sair �
 
 ---
 
-## PROTOCOLO DE COLETA
+## PROTOCOLO DE COLETA E ANONIMIZAÇÃO
 
-O pesquisador já está navegando no LinkedIn e vai descrever cada perfil encontrado. **Ao assistente: aguarde as descrições e organize na tabela abaixo. Não é necessário acessar nenhuma plataforma externa.**
+**Ao assistente:** acesse os perfis públicos do LinkedIn conforme os grupos abaixo. Durante a coleção, você pode visualizar os dados completos internamente para classificar e inferir padrões. **Na saída** (tabela e análise), aplique anonimização:
+
+- **Nome:** substituir por código `P01`, `P02`, etc.
+- **Empresa seguinte:** manter o nome real (dado público do mercado, não dados pessoais)
+- **Cargo seguinte:** manter título exato (dado público)
+- **Rastreabilidade:** para cada perfil, gerar um hash curto da URL do LinkedIn (ex: SHA-256 dos primeiros 8 caracteres do slug) e registrar no campo `Hash` — permite auditoria sem expor identidade
+
+Assim o dado pessoal identificador (nome) nunca sai do processo interno, mas a análise permanece auditável.
 
 ### Grupos de perfis
 - **Grupo A (tech):** Software Engineer / Data Scientist / Product Manager / Analytics — mínimo 6 perfis
@@ -76,7 +83,8 @@ O pesquisador já está navegando no LinkedIn e vai descrever cada perfil encont
 
 | Campo | Dados a registrar |
 |---|---|
-| Nome | Primeiro nome + inicial |
+| Código | P01, P02, ... (substitui nome) |
+| Hash | SHA-256[:8] do slug da URL LinkedIn |
 | Cargo na Uber | Título exato |
 | Grupo | A / B / C / D |
 | Tempo na Uber | Menos de 2 anos / 2-5 anos / +5 anos |
@@ -90,20 +98,20 @@ O pesquisador já está navegando no LinkedIn e vai descrever cada perfil encont
 
 ## TABELA DE PERFIS (preencher durante coleta)
 
-| # | Grupo | Cargo Uber | Tempo | Empresa seguinte | Cargo seguinte | Vínculo | Mobilidade |
-|---|---|---|---|---|---|---|---|
-| 1 | — | — | — | — | — | — | — |
-| 2 | — | — | — | — | — | — | — |
-| 3 | — | — | — | — | — | — | — |
-| 4 | — | — | — | — | — | — | — |
-| 5 | — | — | — | — | — | — | — |
-| 6 | — | — | — | — | — | — | — |
-| 7 | — | — | — | — | — | — | — |
-| 8 | — | — | — | — | — | — | — |
-| 9 | — | — | — | — | — | — | — |
-| 10 | — | — | — | — | — | — | — |
-| 11 | — | — | — | — | — | — | — |
-| 12 | — | — | — | — | — | — | — |
+| # | Código | Hash | Grupo | Cargo Uber | Tempo | Empresa seguinte | Cargo seguinte | Vínculo | Mobilidade |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | P01 | — | — | — | — | — | — | — | — |
+| 2 | P02 | — | — | — | — | — | — | — | — |
+| 3 | P03 | — | — | — | — | — | — | — | — |
+| 4 | P04 | — | — | — | — | — | — | — | — |
+| 5 | P05 | — | — | — | — | — | — | — | — |
+| 6 | P06 | — | — | — | — | — | — | — | — |
+| 7 | P07 | — | — | — | — | — | — | — | — |
+| 8 | P08 | — | — | — | — | — | — | — | — |
+| 9 | P09 | — | — | — | — | — | — | — | — |
+| 10 | P10 | — | — | — | — | — | — | — | — |
+| 11 | P11 | — | — | — | — | — | — | — | — |
+| 12 | P12 | — | — | — | — | — | — | — | — |
 
 ---
 
