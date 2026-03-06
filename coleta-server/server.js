@@ -178,8 +178,9 @@ const server = http.createServer((req, res) => {
         return res.end(htmlError('Sessão e conteúdo são obrigatórios.'));
       }
 
-      const safe     = sanitizeSessao(sessao);
-      const filePath = `incoming/${safe}.md`;
+      const safe      = sanitizeSessao(sessao);
+      const ts        = new Date().toISOString().replace(/[-:]/g, '').replace('T', 'T').slice(0, 15); // YYYYMMDDTHHmmss
+      const filePath  = `incoming/${safe}_${ts}.md`;
 
       const header = conteudo.startsWith('#') ? '' :
         `# Coleta IDC — ${empresa || sessao}\n**Sessão:** ${sessao}  **Empresa:** ${empresa}\n**Recebido em:** ${new Date().toISOString()}\n\n---\n\n`;
