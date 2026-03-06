@@ -3,6 +3,10 @@
 
 ---
 
+> **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
+
+---
+
 ## CONTEXTO ACUMULADO
 
 ### O que já sabemos (s1, s2a, s2b)
