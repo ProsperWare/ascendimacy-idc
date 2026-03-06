@@ -174,4 +174,12 @@ Mapear **ex-colaboradores Magazine Luiza no LinkedIn** — verificar se a bifurc
 
 ## PASSO FINAL — ENTREGA
 
-Quando a análise estiver completa, compartilhe o markdown preenchido com o pesquisador para revisão e publicação.
+Quando a análise estiver completa, entregue o markdown preenchido via formulário:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765`
+
+- **Sessão:** `magazine-luiza-s2b`
+- **Empresa:** `Magazine Luiza`
+- **Conteúdo:** cole o markdown completo desta sessão preenchida
+
+O pesquisador cuida do commit e da publicação.

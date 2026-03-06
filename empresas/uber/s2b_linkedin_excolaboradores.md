@@ -23,6 +23,14 @@
 | 11 | P11 | 0026e6b2 | C | Especialista → Supervisor → Coordenador Driver Exp. | +5 anos (abr 2017–abr 2021) | iFood | Gerente de Operações | CLT | Ascendente |
 | 12 | P12 | 46bb6a64 | D | Operations & Logistics Manager | < 2 anos (jan 2017–jul 2018) | Co-fundou startup → Getnet → Conta Azul | Marketing Director (SHEIN) | CLT | Ascendente / Pivotou |
 
+**Perfis adicionais — coleta suplementar (06/03/2026):**
+
+| # | Código | Hash | Grupo | Cargo na Uber | Tempo na Uber | Empresa seguinte | Cargo seguinte | Vínculo | Mobilidade |
+|---|--------|------|-------|---------------|---------------|-----------------|----------------|---------|------------|
+| 13 | P13 | 41a7ff94 | B | Gerente de Qualidade e Operações LATAM / Gerente de Estratégia e Operações (Cornershop by Uber) | ~3 anos (jun/2022–mai/2025) | Sem empresa declarada (saiu mai/2025) | — | Autônomo/busca | Indefinido — desempregada |
+| 14 | P14 | 7adb1cf4 | B | Sr. Operations & Logistics Manager – Uber Eats / Operations & Logistics Manager / Coordinator | ~3 anos 9 meses (out/2017–jun/2021) | PicPay (Head of Growth Analytics) → Grupo Carrefour Brasil | Diretor de Dados | CLT | Ascendente (ops → dados) |
+| 15 | P15 | 48086ac5 | C | Global Vendor Specialist (Earner LOBs + Safety) / Senior Program Specialist LATAM | ~7 anos 8 meses (jun/2021–dez/2024) | Keeta (app delivery, empresa chinesa — novo concorrente BR) | Rider Experience & Culture Manager | CLT | Lateral (mesmo setor, empresa chinesa) |
+
 ---
 
 ## ANÁLISE POR GRUPO

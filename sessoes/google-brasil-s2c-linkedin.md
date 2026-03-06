@@ -153,3 +153,17 @@ Sub-tipo refinado: [ANDAIME SELETIVO / ANDAIME COM TETO FUNCIONAL COMERCIAL / ..
 *Briefing preparado pelo agente Copilot · IDC Ascendimacy · 05/03/2026*
 *Referência: s1 + s2a + s2b · Google Brasil · Classificação: ANDAIME BIFURCADO*
 *Dado s2b: SWE portabilidade 100% tech, tenure bimodal; Comercial portabilidade MÉDIA-BAIXA, tenure homogênea 3.3a*
+
+---
+
+## PASSO FINAL — ENTREGA
+
+Quando a análise estiver completa, entregue o markdown preenchido via formulário:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765`
+
+- **Sessão:** `google-brasil-s2c`
+- **Empresa:** `Google Brasil`
+- **Conteúdo:** cole o markdown completo desta sessão preenchida
+
+O pesquisador cuida do commit e da publicação.
