@@ -1,9 +1,3 @@
-> **CONTEXTO:** Esta é uma pesquisa acadêmica sobre mobilidade profissional em empresas de tecnologia no Brasil, planejada em colaboração com o Claude Opus. O repositório GitHub `ProsperWare/ascendimacy-idc` pertence ao pesquisador. Os dados coletados serão anonimizados antes da publicação.
->
-> **Papel do assistente nesta sessão:** O pesquisador navega no LinkedIn e descreve cada perfil encontrado. O assistente recebe as descrições, organiza na tabela abaixo, analisa os padrões, testa as hipóteses H1–H4 e escreve o arquivo final formatado em markdown. Quando o pesquisador disser "pronto, pode analisar", o assistente produz o documento completo e executa o commit no repositório.
->
-> O assistente **não precisa acessar nenhuma URL externa.**
-
 # SESSÃO s2b — UBER: LinkedIn · Ex-colaboradores
 ## Briefing de campo · Produzir: `empresas/uber/s2b_linkedin_excolaboradores.md`
 
@@ -155,14 +149,6 @@ Mapear onde **ex-colaboradores CLT da Uber Brasil** foram trabalhar após sair �
 
 ---
 
-## PASSO FINAL — COMMIT
+## PASSO FINAL — ENTREGA
 
-1. Navegue até:
-```
-https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/uber
-```
-
-2. Nome do arquivo: `s2b_linkedin_excolaboradores.md`
-3. Cole o Markdown completo preenchido
-4. Commit message: `coleta: uber/s2b_linkedin_excolaboradores`
-5. Clique em **Commit changes**
+Quando a análise estiver completa, compartilhe o markdown preenchido com o pesquisador para revisão e publicação.
