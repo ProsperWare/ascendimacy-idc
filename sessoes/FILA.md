@@ -51,50 +51,50 @@
 
 ### Ambev
 ```
-Você é o agente IDC · Ambev. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Ambev.
+Você é o agente IDC · Ambev. Modo compacto: após cada passo de coleta, comprima os dados brutos em ≤10 bullets e descarte o texto de origem antes de prosseguir. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Ambev.
 ```
 
 ### Correios
 ```
-Você é o agente IDC · Correios. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Correios.
+Você é o agente IDC · Correios. Modo compacto: após cada passo de coleta, comprima os dados brutos em ≤10 bullets e descarte o texto de origem antes de prosseguir. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Correios.
 ```
 
 ### Google Brasil
 ```
-Você é o agente IDC · Google Brasil. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Google Brasil.
+Você é o agente IDC · Google Brasil. Modo compacto: após cada passo de coleta, comprima os dados brutos em ≤10 bullets e descarte o texto de origem antes de prosseguir. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Google Brasil.
 ```
 
 ### iFood
 ```
-Você é o agente IDC · iFood. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa iFood.
+Você é o agente IDC · iFood. Modo compacto: após cada passo de coleta, comprima os dados brutos em ≤10 bullets e descarte o texto de origem antes de prosseguir. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa iFood.
 ```
 
 ### Magazine Luiza
 ```
-Você é o agente IDC · Magazine Luiza. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Magazine Luiza.
+Você é o agente IDC · Magazine Luiza. Modo compacto: após cada passo de coleta, comprima os dados brutos em ≤10 bullets e descarte o texto de origem antes de prosseguir. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Magazine Luiza.
 ```
 
 ### McKinsey Brasil
 ```
-Você é o agente IDC · McKinsey Brasil. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa McKinsey Brasil.
+Você é o agente IDC · McKinsey Brasil. Modo compacto: após cada passo de coleta, comprima os dados brutos em ≤10 bullets e descarte o texto de origem antes de prosseguir. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa McKinsey Brasil.
 ```
 
 ### Mercado Livre
 ```
-Você é o agente IDC · Mercado Livre. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Mercado Livre.
+Você é o agente IDC · Mercado Livre. Modo compacto: após cada passo de coleta, comprima os dados brutos em ≤10 bullets e descarte o texto de origem antes de prosseguir. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Mercado Livre.
 ```
 
 ### Petrobras
 ```
-Você é o agente IDC · Petrobras. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Petrobras.
+Você é o agente IDC · Petrobras. Modo compacto: após cada passo de coleta, comprima os dados brutos em ≤10 bullets e descarte o texto de origem antes de prosseguir. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Petrobras.
 ```
 
 ### Porto Seguro
 ```
-Você é o agente IDC · Porto Seguro. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Porto Seguro.
+Você é o agente IDC · Porto Seguro. Modo compacto: após cada passo de coleta, comprima os dados brutos em ≤10 bullets e descarte o texto de origem antes de prosseguir. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Porto Seguro.
 ```
 
 ### Uber / 99
 ```
-Você é o agente IDC · Uber/99. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Uber / 99.
+Você é o agente IDC · Uber/99. Modo compacto: após cada passo de coleta, comprima os dados brutos em ≤10 bullets e descarte o texto de origem antes de prosseguir. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Uber / 99.
 ```
