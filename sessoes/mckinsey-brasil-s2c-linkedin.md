@@ -175,3 +175,17 @@ A pergunta para s2c: **os Partners são o destino final de quem não foi descart
 *Briefing preparado pelo agente Copilot · IDC Ascendimacy · 05/03/2026*
 *Referência: s1 + s2a + s2b · McKinsey Brasil · Veredito acumulado: ANDAIME PRESSURIZADO (P+ E+ S-)*
 *Dado-chave: Alessandra Yoshida (17a9m EA Sênior → empresa menor → desemprego) — referência obrigatória para H3*
+
+---
+
+## PASSO FINAL — COMMIT
+
+1. Navegue até:
+```
+https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/mckinsey-brasil
+```
+
+2. Nome do arquivo: `s2c_linkedin_lideranca.md`
+3. Cole o Markdown completo preenchido
+4. Commit message: `coleta: mckinsey-brasil/s2c_linkedin_lideranca`
+5. Clique em **Commit changes**

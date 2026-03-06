@@ -140,3 +140,17 @@ Selecionar:
 *Briefing preparado pelo agente Copilot · IDC Ascendimacy · 05/03/2026*
 *Referência: s1 + s2a + s2b + s2c · iFood · Veredito acumulado: ANDAIME CAPTURADO BIFURCADO*
 *Contexto s2c: CEO=advogado-financista (tech narrativo), CTO=Movile (tech silencioso), Driver Experience Director EXTINTO*
+
+---
+
+## PASSO FINAL — COMMIT
+
+1. Navegue até:
+```
+https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/ifood
+```
+
+2. Nome do arquivo: `s2d_linkedin_vagas.md`
+3. Cole o Markdown completo preenchido
+4. Commit message: `coleta: ifood/s2d_linkedin_vagas`
+5. Clique em **Commit changes**

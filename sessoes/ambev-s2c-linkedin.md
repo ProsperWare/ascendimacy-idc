@@ -164,3 +164,17 @@ Mapear **quem lidera a Ambev Brasil** pelo LinkedIn — identificar se a lideran
 *Briefing preparado pelo agente Copilot · IDC Ascendimacy · 05/03/2026*
 *Referência: s1 + s2a + s2b · Ambev · Veredito: TETO PERFORMÁTICO*
 *Caso-âncora s2b: Robinson D. (15a6m Op. Produção → ManpowerGroup) vs Halef S. (10m trainee → iFood + INSEAD)*
+
+---
+
+## PASSO FINAL — COMMIT
+
+1. Navegue até:
+```
+https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/ambev
+```
+
+2. Nome do arquivo: `s2c_linkedin_lideranca.md`
+3. Cole o Markdown completo preenchido
+4. Commit message: `coleta: ambev/s2c_linkedin_lideranca`
+5. Clique em **Commit changes**

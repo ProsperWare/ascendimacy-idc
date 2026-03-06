@@ -137,3 +137,17 @@ Para cada review registrar no formato padrão IDC:
 *Nova empresa — adicionada ao corpus como 13ª candidata (confirmada Mar 2026)*
 *Hipótese: ANDAIME (BIFURCADO leve) — call center próprio + verticalização como teste chave*
 *Comparativo: Itaú IDC 56.8 (BENEVOLENTE APRISIONADOR) — mesmo setor, tamanho e estrutura diferentes*
+
+---
+
+## PASSO FINAL — COMMIT
+
+1. Navegue até:
+```
+https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/porto-seguro
+```
+
+2. Nome do arquivo: `s1_glassdoor.md`
+3. Cole o Markdown completo preenchido
+4. Commit message: `coleta: porto-seguro/s1_glassdoor`
+5. Clique em **Commit changes**

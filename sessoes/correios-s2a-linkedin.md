@@ -131,3 +131,17 @@ Para cada post registrar:
 *Referência: empresas/correios/s1_glassdoor.md · Veredito: BENEVOLENTE APRISIONADOR ESTATAL*
 *URL LinkedIn esperada: linkedin.com/company/correios (verificar slug correto)*
 *Citação de ancoragem: "Estabilidade no seu cargo. Estagnação em sua área de formação." (Analista Pleno, 10+ anos)*
+
+---
+
+## PASSO FINAL — COMMIT
+
+1. Navegue até:
+```
+https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/correios
+```
+
+2. Nome do arquivo: `s2a_linkedin_empresa.md`
+3. Cole o Markdown completo preenchido
+4. Commit message: `coleta: correios/s2a_linkedin_empresa`
+5. Clique em **Commit changes**

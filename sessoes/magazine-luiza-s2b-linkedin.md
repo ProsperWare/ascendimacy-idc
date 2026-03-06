@@ -164,3 +164,17 @@ Mapear **ex-colaboradores Magazine Luiza no LinkedIn** — verificar se a bifurc
 *Briefing preparado pelo agente Copilot · IDC Ascendimacy · 05/03/2026*
 *Referência: s1 + s2a · Magazine Luiza · Veredito: GAIOLA DOURADA BIFURCADA*
 *Contexto-chave: "Venda bem e ganhe bem. Venda mal e ganhe mal." — naturalização do teto em call center Franca*
+
+---
+
+## PASSO FINAL — COMMIT
+
+1. Navegue até:
+```
+https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/magazine-luiza
+```
+
+2. Nome do arquivo: `s2b_linkedin_ex_colaboradores.md`
+3. Cole o Markdown completo preenchido
+4. Commit message: `coleta: magazine-luiza/s2b_linkedin_ex_colaboradores`
+5. Clique em **Commit changes**

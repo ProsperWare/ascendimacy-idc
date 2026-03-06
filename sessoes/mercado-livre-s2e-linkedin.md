@@ -185,3 +185,17 @@ LinkedIn: `"Talent Acquisition" "Mercado Livre"` + filtro Atual
 | Consistência s1–s4 | — | — |
 
 **Classificação s2e:** ___
+
+---
+
+## PASSO FINAL — COMMIT
+
+1. Navegue até:
+```
+https://github.com/ProsperWare/ascendimacy-idc/new/main/empresas/mercado-livre
+```
+
+2. Nome do arquivo: `s2e_linkedin_recrutadores.md`
+3. Cole o Markdown completo preenchido
+4. Commit message: `coleta: mercado-livre/s2e_linkedin_recrutadores`
+5. Clique em **Commit changes**
