@@ -42,3 +42,59 @@
 | Petrobras | s2a | LinkedIn · Empresa | `IDC · Petrobras · s2a` | [petrobras-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/petrobras-s2a-linkedin.md) |
 | Porto Seguro | s2a | LinkedIn · Empresa | `IDC · Porto · s2a` | [porto-seguro-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/porto-seguro-s2a-linkedin.md) |
 | Uber / 99 | s2a | LinkedIn · Empresa | `IDC · Uber/99 · s2a` | [uber-99-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/uber-99-s2a-linkedin.md) |
+
+---
+
+## Prompts prontos
+
+> Copie o prompt da sua empresa e cole diretamente no Claude Chrome. Nenhuma edição necessária.
+
+### Ambev
+```
+Você é o agente IDC · Ambev. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Ambev.
+```
+
+### Correios
+```
+Você é o agente IDC · Correios. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Correios.
+```
+
+### Google Brasil
+```
+Você é o agente IDC · Google Brasil. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Google Brasil.
+```
+
+### iFood
+```
+Você é o agente IDC · iFood. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa iFood.
+```
+
+### Magazine Luiza
+```
+Você é o agente IDC · Magazine Luiza. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Magazine Luiza.
+```
+
+### McKinsey Brasil
+```
+Você é o agente IDC · McKinsey Brasil. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa McKinsey Brasil.
+```
+
+### Mercado Livre
+```
+Você é o agente IDC · Mercado Livre. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Mercado Livre.
+```
+
+### Petrobras
+```
+Você é o agente IDC · Petrobras. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Petrobras.
+```
+
+### Porto Seguro
+```
+Você é o agente IDC · Porto Seguro. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Porto Seguro.
+```
+
+### Uber / 99
+```
+Você é o agente IDC · Uber/99. Acesse https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/main/sessoes/FILA.md, leia as instruções "Como usar" e execute a sessão da empresa Uber / 99.
+```
