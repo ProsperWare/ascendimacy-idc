@@ -1,7 +1,5 @@
 # SESSÃO s2c — PORTO SEGURO: LinkedIn · Liderança
-## Briefing de campo · Produzir: `empresas/porto-seguro/s2c_linkedin_lideranca.md`
-
-> **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
+## Documento a produzir (para entrega ao pesquisador): `empresas/porto-seguro/s2c_linkedin_lideranca.md`
 
 ---
 
@@ -63,16 +61,18 @@ Mapear os **perfis dos líderes da Porto Seguro e Porto Bank no LinkedIn** para 
 
 ## PERFIS-ALVO
 
+> **Ao assistente:** os perfis a seguir são **executivos públicos** (CEOs, Diretores) cujos nomes e cargos são de interesse público. Não é necessário anonimizar — a pesquisa é sobre a liderança declarada da empresa, não sobre funcionários individuais.
+
 ### Porto Seguro (insurance side)
 1. **Paulo Kakinoff** — CEO Porto Seguro · Buscar no LinkedIn (pode não ter perfil público)
-2. **Diretor(a) de Operações / Atendimento / Sinistros** — identificar nome via LinkedIn People da página Porto Seguro
-3. **Diretor(a) de RH / Pessoas** — identificar nome
-4. **Diretor(a) de Tecnologia / CTO** — identificar nome
+2. **Diretor(a) de Operações / Atendimento / Sinistros** — identificar via página LinkedIn da Porto Seguro
+3. **Diretor(a) de RH / Pessoas** — identificar
+4. **Diretor(a) de Tecnologia / CTO** — identificar
 
 ### Porto Bank (fintech side)
 5. **Marcelo Picanço** — CEO Porto Bank · `linkedin.com/in/marcelopicanco` · 4.7k seguidores (já identificado em s2a)
-6. **CPO / Head de Produto Porto Bank** — identificar nome
-7. **CTO / Head de Engenharia Porto Bank** — identificar nome
+6. **CPO / Head de Produto Porto Bank** — identificar
+7. **CTO / Head de Engenharia Porto Bank** — identificar
 
 ---
 
@@ -80,7 +80,7 @@ Mapear os **perfis dos líderes da Porto Seguro e Porto Bank no LinkedIn** para 
 
 | Campo | Dados a registrar |
 |---|---|
-| Nome | Completo |
+| Líder | Nome completo (executivo público) |
 | Empresa/Divisão | Porto Seguro ou Porto Bank |
 | Cargo | Título exato |
 | Seguidores | Número |
@@ -124,14 +124,6 @@ Mapear os **perfis dos líderes da Porto Seguro e Porto Bank no LinkedIn** para 
 
 ---
 
-## PASSO FINAL — COMMIT
+## PASSO FINAL — ENTREGA
 
-1. Navegue até:
-```
-https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/porto-seguro
-```
-
-2. Nome do arquivo: `s2c_linkedin_lideranca.md`
-3. Cole o Markdown completo preenchido
-4. Commit message: `coleta: porto-seguro/s2c_linkedin_lideranca`
-5. Clique em **Commit changes**
+Quando a análise estiver completa, compartilhe o markdown preenchido com o pesquisador para revisão e publicação.

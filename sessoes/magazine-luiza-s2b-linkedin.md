@@ -1,9 +1,5 @@
 # SESSÃO s2b — MAGAZINE LUIZA: LinkedIn · Ex-colaboradores
-## Briefing de campo · Produzir: `empresas/magazine-luiza/s2b_linkedin_ex_colaboradores.md`
-
----
-
-> **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
+## Documento a produzir (para entrega ao pesquisador): `empresas/magazine-luiza/s2b_linkedin_ex_colaboradores.md`
 
 ---
 
@@ -61,6 +57,14 @@ Mapear **ex-colaboradores Magazine Luiza no LinkedIn** — verificar se a bifurc
 - Verificar: quem foi demitido das lojas vs quem saiu voluntariamente do LuizaLabs
 
 ---
+
+## PROTOCOLO DE COLETA E ANONIMIZAÇÃO
+
+**Ao assistente:** acesse os perfis públicos do LinkedIn conforme os grupos abaixo. Durante a coleta, você pode visualizar os dados completos internamente para classificar e inferir padrões. **Na saída** (tabela e análise), aplique anonimização:
+
+- **Código:** substituir nome por `P01`, `P02`, etc.
+- **Hash:** gerar SHA-256[:8] do slug LinkedIn de cada perfil — registrar no campo `Hash` para auditoria sem exposição de identidade
+- Empresas e cargos de destino: manter intactos (são dados de mercado, não dados pessoais)
 
 ## PERFIS-ALVO
 
@@ -124,7 +128,8 @@ Mapear **ex-colaboradores Magazine Luiza no LinkedIn** — verificar se a bifurc
 ```
 ### Bloco [A/B/C/D] — [FUNÇÃO GENÉRICA]
 
-#### P[XX] · [Nome ou iniciais]
+#### P[XX] · (sem nome — identificado por hash)
+- **Hash:** [SHA-256[:8] do slug LinkedIn]
 - **Cargo Magalu:** [cargo + área + localização]
 - **Período Magalu:** [datas] ([X anos Y meses])
 - **Saída:** [ano + contexto: voluntária/demissão/não claro]
@@ -167,14 +172,6 @@ Mapear **ex-colaboradores Magazine Luiza no LinkedIn** — verificar se a bifurc
 
 ---
 
-## PASSO FINAL — COMMIT
+## PASSO FINAL — ENTREGA
 
-1. Navegue até:
-```
-https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/magazine-luiza
-```
-
-2. Nome do arquivo: `s2b_linkedin_ex_colaboradores.md`
-3. Cole o Markdown completo preenchido
-4. Commit message: `coleta: magazine-luiza/s2b_linkedin_ex_colaboradores`
-5. Clique em **Commit changes**
+Quando a análise estiver completa, compartilhe o markdown preenchido com o pesquisador para revisão e publicação.

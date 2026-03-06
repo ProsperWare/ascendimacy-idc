@@ -1,9 +1,5 @@
 # SESSÃO s2c — AMBEV: LinkedIn · Liderança
-## Briefing de campo · Produzir: `empresas/ambev/s2c_linkedin_lideranca.md`
-
----
-
-> **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
+## Documento a produzir (para entrega ao pesquisador): `empresas/ambev/s2c_linkedin_lideranca.md`
 
 ---
 
@@ -68,6 +64,8 @@ Mapear **quem lidera a Ambev Brasil** pelo LinkedIn — identificar se a lideran
 ---
 
 ## PERFIS-ALVO
+
+> **Ao assistente:** os perfis a seguir são **executivos e líderes públicos** (CEOs, VPs, Diretores) cujos cargos e nomes são de interesse público. Não é necessário anonimizar — a pesquisa é sobre a liderança declarada da empresa, não sobre funcionários individuais.
 
 ### Prioridade A — C-suite Brasil
 - CEO Ambev Brasil (Carlos Eduardo Lisboa identificado em s2a)
@@ -167,14 +165,6 @@ Mapear **quem lidera a Ambev Brasil** pelo LinkedIn — identificar se a lideran
 
 ---
 
-## PASSO FINAL — COMMIT
+## PASSO FINAL — ENTREGA
 
-1. Navegue até:
-```
-https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/ambev
-```
-
-2. Nome do arquivo: `s2c_linkedin_lideranca.md`
-3. Cole o Markdown completo preenchido
-4. Commit message: `coleta: ambev/s2c_linkedin_lideranca`
-5. Clique em **Commit changes**
+Quando a análise estiver completa, compartilhe o markdown preenchido com o pesquisador para revisão e publicação.

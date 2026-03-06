@@ -1,5 +1,5 @@
 # SESSÃO s2d — IFOOD: LinkedIn · Vagas
-## Briefing de campo · Produzir: `empresas/ifood/s2d_linkedin_vagas.md`
+## Documento a produzir (para entrega ao pesquisador): `empresas/ifood/s2d_linkedin_vagas.md`
 
 ---
 
@@ -143,14 +143,6 @@ Selecionar:
 
 ---
 
-## PASSO FINAL — COMMIT
+## PASSO FINAL — ENTREGA
 
-1. Navegue até:
-```
-https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/ifood
-```
-
-2. Nome do arquivo: `s2d_linkedin_vagas.md`
-3. Cole o Markdown completo preenchido
-4. Commit message: `coleta: ifood/s2d_linkedin_vagas`
-5. Clique em **Commit changes**
+Quando a análise estiver completa, compartilhe o markdown preenchido com o pesquisador para revisão e publicação.

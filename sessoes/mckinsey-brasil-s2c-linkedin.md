@@ -1,9 +1,5 @@
 # SESSÃO s2c — MCKINSEY BRASIL: LinkedIn · Liderança
-## Briefing de campo · Produzir: `empresas/mckinsey-brasil/s2c_linkedin_lideranca.md`
-
----
-
-> **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
+## Documento a produzir (para entrega ao pesquisador): `empresas/mckinsey-brasil/s2c_linkedin_lideranca.md`
 
 ---
 
@@ -67,6 +63,8 @@ Mapear **quem lidera a McKinsey Brasil** no LinkedIn — identificar a composiç
 ---
 
 ## PERFIS-ALVO
+
+> **Ao assistente:** os perfis a seguir são **executivos e líderes públicos** (CEOs, VPs, Diretores) cujos cargos e nomes são de interesse público. Não é necessário anonimizar — a pesquisa é sobre a liderança declarada da empresa, não sobre funcionários individuais.
 
 ### Prioridade A — Partners / Managing Partners Brasil
 - Verificar: quantos Partners têm Brazil como localização no LinkedIn?
@@ -178,14 +176,6 @@ A pergunta para s2c: **os Partners são o destino final de quem não foi descart
 
 ---
 
-## PASSO FINAL — COMMIT
+## PASSO FINAL — ENTREGA
 
-1. Navegue até:
-```
-https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/mckinsey-brasil
-```
-
-2. Nome do arquivo: `s2c_linkedin_lideranca.md`
-3. Cole o Markdown completo preenchido
-4. Commit message: `coleta: mckinsey-brasil/s2c_linkedin_lideranca`
-5. Clique em **Commit changes**
+Quando a análise estiver completa, compartilhe o markdown preenchido com o pesquisador para revisão e publicação.

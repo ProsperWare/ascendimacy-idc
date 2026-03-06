@@ -1,5 +1,5 @@
 # SESSÃO s2a — CORREIOS: LinkedIn · Página da Empresa
-## Briefing de campo · Produzir: `empresas/correios/s2a_linkedin_empresa.md`
+## Documento a produzir (para entrega ao pesquisador): `empresas/correios/s2a_linkedin_empresa.md`
 
 ---
 
@@ -134,14 +134,6 @@ Para cada post registrar:
 
 ---
 
-## PASSO FINAL — COMMIT
+## PASSO FINAL — ENTREGA
 
-1. Navegue até:
-```
-https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/correios
-```
-
-2. Nome do arquivo: `s2a_linkedin_empresa.md`
-3. Cole o Markdown completo preenchido
-4. Commit message: `coleta: correios/s2a_linkedin_empresa`
-5. Clique em **Commit changes**
+Quando a análise estiver completa, compartilhe o markdown preenchido com o pesquisador para revisão e publicação.

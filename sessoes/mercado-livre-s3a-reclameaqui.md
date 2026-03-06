@@ -1,7 +1,5 @@
 # SESSÃO s3a — MERCADO LIVRE: Reclame Aqui
-## Briefing de campo · Produzir: `empresas/mercado-livre/s3a_reclameaqui.md`
-
-> **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
+## Documento a produzir (para entrega ao pesquisador): `empresas/mercado-livre/s3a_reclameaqui.md`
 
 ---
 
@@ -160,14 +158,6 @@ Para cada reclamação registrar:
 
 ---
 
-## PASSO FINAL — COMMIT
+## PASSO FINAL — ENTREGA
 
-1. Navegue até:
-```
-https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/mercado-livre
-```
-
-2. Nome do arquivo: `s3a_reclameaqui.md`
-3. Cole o Markdown completo preenchido
-4. Commit message: `coleta: mercado-livre/s3a_reclameaqui`
-5. Clique em **Commit changes**
+Quando a análise estiver completa, compartilhe o markdown preenchido com o pesquisador para revisão e publicação.

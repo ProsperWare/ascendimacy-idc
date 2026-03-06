@@ -1,7 +1,5 @@
 # SESSÃO s2b — PETROBRAS: LinkedIn · Liderança
-## Briefing de campo · Produzir: `empresas/petrobras/s2b_linkedin_lideranca.md`
-
-> **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
+## Documento a produzir (para entrega ao pesquisador): `empresas/petrobras/s2b_linkedin_lideranca.md`
 
 ---
 
@@ -60,6 +58,8 @@ Mapear os **perfis individuais dos líderes da Petrobras no LinkedIn** — verif
 ---
 
 ## PERFIS-ALVO
+
+> **Ao assistente:** os perfis a seguir são **executivos e líderes públicos** (CEOs, VPs, Diretores) cujos cargos e nomes são de interesse público. Não é necessário anonimizar — a pesquisa é sobre a liderança declarada da empresa, não sobre funcionários individuais.
 
 ### Perfis prioritários (identificados em s2a)
 1. **Magda Chambriard** — Presidente · `linkedin.com/in/magda-chambriard` · 39.937 seguidores (já parcialmente coletada em s2a — aprofundar)
@@ -128,14 +128,6 @@ Para cada perfil: cargo, seguidores, últimos 3 posts (tema, tom, engajamento), 
 
 ---
 
-## PASSO FINAL — COMMIT
+## PASSO FINAL — ENTREGA
 
-1. Navegue até:
-```
-https://github.com/ProsperWare/ascendimacy-idc/new/master/empresas/petrobras
-```
-
-2. Nome do arquivo: `s2b_linkedin_lideranca.md`
-3. Cole o Markdown completo preenchido
-4. Commit message: `coleta: petrobras/s2b_linkedin_lideranca`
-5. Clique em **Commit changes**
+Quando a análise estiver completa, compartilhe o markdown preenchido com o pesquisador para revisão e publicação.

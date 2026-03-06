@@ -1,9 +1,5 @@
 # SESSÃO s2c — GOOGLE BRASIL: LinkedIn · Liderança
-## Briefing de campo · Produzir: `empresas/google-brasil/s2c_linkedin_lideranca.md`
-
----
-
-> **FILA:** Fazer apenas esta sessão. Aguardar 24 h antes da próxima sessão de perfis.
+## Documento a produzir (para entrega ao pesquisador): `empresas/google-brasil/s2c_linkedin_lideranca.md`
 
 ---
 
@@ -62,6 +58,8 @@ Mapear **quem lidera o Google Brasil** pelo LinkedIn — identificar se o C-suit
 ---
 
 ## PERFIS-ALVO
+
+> **Ao assistente:** os perfis a seguir são **executivos e líderes públicos** (CEOs, VPs, Diretores) cujos cargos e nomes são de interesse público. Não é necessário anonimizar — a pesquisa é sobre a liderança declarada da empresa, não sobre funcionários individuais.
 
 ### Prioridade A — Country Lead e C-1 Brasil
 - Country Manager / President Google Brasil (buscar LinkedIn)
