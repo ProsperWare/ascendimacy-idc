@@ -38,6 +38,7 @@
 | iFood | s2d | LinkedIn · Vagas | `IDC · iFood · s2d` | [ifood-s2d-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/ifood-s2d-linkedin.md) |
 | Magazine Luiza | s2b | LinkedIn · Ex-colaboradores | `IDC · Magalu · s2b` | [magazine-luiza-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/magazine-luiza-s2b-linkedin.md) |
 | Petrobras | s2b | LinkedIn · Liderança | `IDC · Petrobras · s2b` | [petrobras-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/petrobras-s2b-linkedin.md) |
+| 99 (DiDi BR) | s2b | LinkedIn · Ex-colaboradores | `IDC · 99 · s2b` | [99-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/99-s2b-linkedin.md) |
 
 ---
 
@@ -84,5 +85,12 @@ Leia o arquivo completo e execute cada passo conforme descrito.
  `
 Pesquisa IDC -- Petrobras s2b (LinkedIn · Liderança).
 Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/petrobras-s2b-linkedin.md
+Leia o arquivo completo e execute cada passo conforme descrito.
+ `
+
+### 99 (DiDi Brasil)
+ `
+Pesquisa IDC -- 99 s2b (LinkedIn · Ex-colaboradores).
+Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/99-s2b-linkedin.md
 Leia o arquivo completo e execute cada passo conforme descrito.
  `
