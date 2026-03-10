@@ -9,7 +9,7 @@ PROGRESSO -- ultima atualizacao: 2026-03-10
 MERCADO LIVRE      s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[_] s3c[_] sintese[_]
 NUBANK             s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
 ITAU               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
-GOOGLE BRASIL      s1[x] s2a[x] s2b[x] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+GOOGLE BRASIL      s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 PETROBRAS          s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 PORTO SEGURO       s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 MAGAZINE LUIZA     s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
@@ -81,6 +81,10 @@ Analise cruzada disponivel: SIM
 | 2026-03-10 | Square (sede) | adicionada ao pipeline | pendente |
 | 2026-03-10 | HSBC (sede) | adicionada ao pipeline | pendente |
 | 2026-03-10 | HSBC Brasil | adicionada ao pipeline | pendente |
+
+---
+
+*progresso.md - IDC Ascendimacy*
 
 ---
 
