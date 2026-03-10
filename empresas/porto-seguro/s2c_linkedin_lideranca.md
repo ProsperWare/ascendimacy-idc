@@ -1,0 +1,161 @@
+# s2c — PORTO SEGURO: LinkedIn · Liderança
+
+**Documento:** `empresas/porto-seguro/s2c_linkedin_lideranca.md`
+**Data de coleta:** 2026-10-03
+**Sessão:** porto-seguro-s2c
+
+---
+
+## CONTEXTO ACUMULADO (s1 + s2a + s2b)
+
+> Ver documentos anteriores para detalhes. Resumo: andaime bifurcado confirmado (tech sobe, ops estagna), Porto Bank como springboard financeiro de alto nível, branding 100% digital/fintech na página empresa LinkedIn.
+
+---
+
+## OBJETIVO DA SESSÃO
+
+Mapear perfis de líderes da Porto Seguro e Porto Bank no LinkedIn para entender se a bifurcação ops/tech é estratégia deliberada de dois mercados (reconhecida pela liderança) ou fragmentação não-gerenciada.
+
+**Pergunta-guia:** O CEO Kakinoff é realmente ausente do LinkedIn? Líderes Porto Seguro vs. Porto Bank têm narrativas distintas? Alguém menciona call center / atendimento / os 80% operacionais?
+
+---
+
+## TABELA DE PERFIS COLETADOS
+
+| # | Divisão | Nome | Cargo | Seguidores | Ativo? | Último post | Tema dominante | Ops mencionado? | Tom |
+|---|---------|------|-------|-----------|--------|-------------|----------------|-----------------|-----|
+| 1 | Porto Seguro | Paulo Kakinoff | CEO anterior | — | NÃO | — | AUSENTE | NÃO | — |
+| 2 | Porto Seguro | Patricia Chacon | CEO @ Porto Seguro (jan/2026–presente) | 18.397 | SIM | 1 semana | Corretores / comercial / expansão regional | NÃO | Institucional/transformação |
+| 3 | Porto Seguro | Jarbas Medeiros | Diretor Executivo (Ramos Elementares, Transportes, Vida) | 8.691 | SIM | 2 semanas | Convenção de vendas / estratégia comercial | NÃO | Institucional |
+| 4 | Porto Seguro | Lene Araujo | CEO Porto Serviço (antes VP Corporativo e Institucional) | 9.092 | SIM | 2 semanas | Corretores / comercial / serviços | NÃO | Institucional |
+| 5 | Porto Seguro | Luis Arsenio | CTSO – Chief Technology Strategy Officer | 6.447 | SIM | 1 mês | TI / transformação digital / inovação | NÃO | Técnico |
+| 6 | Porto Seguro | Marcos Sirelli | VP TI, Atendimento e Dados (jan/2026, cargo por 1 mês) | 3.159 | SIM | 1 mês | TI estratégica / evento Interconexão TI | NÃO (título inclui "Atendimento", posts = TI pura) | Técnico/institucional |
+| 7 | Porto Bank | Marcos Roberto Loução | CEO Porto Bank (jan/2021–presente, 5 anos) | 12.590 | SIM | 1 semana | Produto / fintech / educação financeira / cartão jovem 10-17 anos | NÃO | Aspiracional/produto |
+| 8 | Porto Bank | Wanderley Baccala | CTO Porto Bank (nov/2025–presente) | 9.413 | SIM | 1 mês | Digital / produto / consórcio / parceria Domingão do Huck | NÃO | Aspiracional/tech |
+
+### Perfis adicionais identificados (bônus)
+
+| # | Divisão | Nome | Cargo | Seguidores | Ativo? | Tema | Observação |
+|---|---------|------|-------|-----------|--------|------|-----------|
+| A | Porto Seguro | Rivaldo Leite | Ex-CEO / Conselheiro Porto Seguro | 44.000 | SIM | Seguros / inovação / IA / mentoria | CEO anterior a Kakinoff; maior audiência do grupo Porto no LinkedIn |
+| B | Porto Seguro | Luiz Arruda | VP Comercial & Marketing | 21.000 | SIM | Comercial / marketing | Mencionado por Chacon e Medeiros |
+| C | Porto Seguro | Sami Foguel | CEO Porto Saúde | 32.575 | SIM | Saúde / cultura / pessoas | Maior audiência entre os CEOs divisionais |
+| D | Porto Seguro | Marcelo Picanço | Ex-CEO Insurance Porto (jan/2020–set/2022); hoje CEO BMG Seguridade | 9.014 | SIM | Seguros / transformação / ESG | **ERRO DE s2a CORRIGIDO:** Picanço era CEO do lado Insurance, não Porto Bank |
+
+---
+
+## NOTAS CRÍTICAS DE COLETA
+
+### 1. Kakinoff — AUSÊNCIA CONFIRMADA E DEFINITIVA
+- Busca por "Paulo Kakinoff" retorna apenas 1 resultado não relacionado (menção a cargo anterior da Audi)
+- URL `/in/paulokakinoff` → página inexistente ("Esta página não existe")
+- **Conclusão:** Paulo Kakinoff NÃO TEM perfil LinkedIn. CEO de empresa com 1,5M de seguidores na plataforma é completamente invisível nela.
+
+### 2. Correção de dado de s2a — Marcelo Picanço NÃO era CEO do Porto Bank
+- Marcelo Picanço identificado em s2a como "CEO Porto Bank" está incorreto
+- Análise do perfil real: Picanço foi **CEO Insurance da Porto** (jan/2020–set/2022), responsável por Seguros Auto, Residência, Vida — o lado seguros tradicional
+- Após garden leave de 1 ano (não-compete), assumiu como **CEO da BMG Seguridade** (abr/2024–presente)
+- O **CEO atual do Porto Bank é Marcos Roberto Loução** (desde jan/2021)
+
+### 3. Estrutura atual da liderança Porto (março/2026)
+- **CEO Porto Seguro (insurance):** Patricia Chacon (desde jan/2026 — apenas 3 meses no cargo; veio da Liberty Seguros como CEO)
+- **CEO Porto Bank:** Marcos Roberto Loução (desde jan/2021 — 5+ anos)
+- **CEO Porto Saúde:** Sami Foguel (desde jul/2021)
+- **CEO Porto Serviço:** Lene Araujo (desde ago/2023)
+- **CTO Porto Bank:** Wanderley Baccala (desde nov/2025 — veio da Rede Globo/CEO Globo.com)
+- **CTSO Porto (insurance tech):** Luis Arsenio
+- **VP TI, Atendimento e Dados:** Marcos Sirelli (promovido jan/2026, cargo por 1 mês)
+
+### 4. Diferença narrativa Porto Bank vs. Porto Insurance
+**Porto Bank (Loução):** "Um banco pode - e deve - ser um instrumento de educação financeira. Cartão para jovens de 10 a 17 anos: mais do que um produto, uma ferramenta de aprendizado." → Linguagem aspiracional, foco em produto e impacto social, alta engagem (373 reações)
+
+**Porto Insurance (Chacon):** "Iniciamos o ano com o primeiro encontro da #PortoSeguro tá por perto em Campinas... reafirmamos nosso compromisso com clientes e corretores..." → Linguagem operacional/comercial, foco em expansão geográfica e canais de venda, alta engagem (843 reações)
+
+### 5. O único cargo com "Atendimento" no título posta sobre TI
+Marcos Sirelli é VP TI, Atendimento e Dados — único executivo sênior cujo cargo menciona "atendimento". Seu único post visível é sobre "Interconexão TI", evento com 850 colaboradores de tecnologia, com presença do CIO do Itaú. O "Atendimento" do título é ausente nos posts. Sem menção a call center, equipes de atendimento ou clientes diretos.
+
+---
+
+## ANÁLISE — PASSO 3
+
+### Kakinoff encontrado no LinkedIn?
+**NÃO.** Ausência total confirmada via busca de nome e URL direta. CEO de empresa com 1,5M de seguidores não tem perfil na própria plataforma.
+
+### Domínio narrativo LinkedIn: Porto Seguro (insurance) / Porto Bank / Equilibrado
+**EQUILIBRADO com vantagem Porto Bank em volume de audiência.** Loução (12.590 seg) tem mais seguidores que Chacon (18.397 seg, mas no cargo há 3 meses). Baccala (9.413 seg) tem perfil mais aspiracional. No entanto, Chacon é muito ativa e tem alto engajamento (843 reações vs 373 de Loução no post recente). A vantagem narrativa do Porto Bank sobre o insurance não é tão pronunciada quanto s2a sugeria, especialmente com a nova CEO Chacon sendo ativa.
+
+---
+
+### H1 — Líderes Porto Seguro (insurance) invisíveis no LinkedIn, Porto Bank domina narrativa?
+**PARCIALMENTE CONFIRMADA — COM NUANCES**
+
+- CEO anterior Kakinoff = invisível (sem perfil) ✓
+- Nova CEO Chacon = ATIVA e engajada (18.397 seg, posts semanais) — inverte a hipótese para o momento atual
+- Líderes insurance (Jarbas, Lene) = presentes e ativos
+- Porto Bank (Loução, Baccala) = ativos e com narrativa mais aspiracional
+
+**Conclusão matizada:** A invisibilidade era de Kakinoff, não estrutural do lado insurance. Chacon, nova CEO há 3 meses, já tem presença forte. O Porto Bank ainda tem narrativa mais "moderna" mas a diferença de atividade não é dicotômica.
+
+---
+
+### H2 — Nenhum líder menciona os 80% operacionais (call center, sinistros, atendimento)?
+**CONFIRMADA — UNANIMEMENTE**
+
+Zero menções a call center, central de atendimento, ou operações de suporte em TODOS os 8 perfis analisados. O único cargo com "Atendimento" no título (Marcos Sirelli) posta exclusivamente sobre TI estratégica e eventos tecnológicos. As menções mais próximas são:
+- Chacon: "compromisso com clientes" (genérico, contexto comercial com corretores)
+- Lene Araujo em cargo anterior: supervisionou "Sinistro Auto" mas não posta sobre isso como CEO Porto Serviço
+
+O silêncio é total e uniforme tanto no lado insurance quanto no Porto Bank. Os 80% do headcount são literalmente invisíveis na narrativa de liderança.
+
+---
+
+### H3 — A bifurcação é reconhecida na liderança como estratégia de dois mercados?
+**PARCIALMENTE CONFIRMADA — IMPLÍCITA, NÃO DECLARADA**
+
+Nenhum líder usa explicitamente linguagem de "dois mundos". No entanto:
+- Loução menciona em seu bio "turnaround de negócios e operações" e "growth" — linguagem de startup/fintech
+- Baccala fala de "novo desafio profissional no PortoBank" como algo diferente da "antiga casa" — reconhece separação
+- Chacon fala de "Porto Seguro" como brand separado, com eventos regionais e rede de corretores — linguagem insurance tradicional
+
+A bifurcação existe na prática da narrativa, mas não é articulada como estratégia de dois mercados por nenhum líder. Cada CEO fala do seu universo sem fazer o contraste explícito.
+
+---
+
+### H4 — Tom insurance = institucional/conservador, Porto Bank = aspiracional/growth?
+**CONFIRMADA**
+
+| Dimensão | Porto Insurance (Chacon, Jarbas, Lene) | Porto Bank (Loução, Baccala) |
+|----------|---------------------------------------|------------------------------|
+| Linguagem | "compromisso", "corretores", "convenção", "parceiros" | "educação financeira", "sonho", "impacto", "consórcio", "streaming" |
+| Tom | Institucional, comercial, territorial | Aspiracional, social, produto-centrado |
+| Referências | Eventos regionais, rede de corretores | Domingão do Huck, jovens 10-17 anos, startups |
+| Bio (Loução) | — | "Apaixonado por facilitar o dia a dia das pessoas com tecnologia" |
+| Bio (Chacon) | Harvard MBA, "estratégia" / "transformação" | — |
+
+Divergência clara e consistente.
+
+---
+
+## VEREDITO s2c
+
+**Síntese:** A bifurcação narrativa na liderança **é real mas não declarada**. Nenhum líder menciona os 80% operacionais — o silêncio sobre call center e atendimento é estrutural e uniforme em todos os níveis. O CEO Paulo Kakinoff é de fato ausente do LinkedIn (sem perfil), mas a nova CEO Patricia Chacon (há 3 meses) quebra o padrão de invisibilidade do lado insurance. O Porto Bank tem narrativa mais aspiracional/produto, mas a diferença não é tão abissal quanto s2a sugeria — é mais uma diferença de tom do que de presença.
+
+**Achado mais relevante:** O único executivo cujo cargo menciona "Atendimento" (Marcos Sirelli, VP TI, Atendimento e Dados) posta exclusivamente sobre tecnologia estratégica. O "Atendimento" é um sufixo de cargo — não uma pauta de liderança. Isso sinaliza que os 80% operacionais são gerenciados como infraestrutura invisível, não como vantagem competitiva ou orgulho narrativo. A bifurcação não é estratégia de dois mercados articulada — é fragmentação não-comunicada que coexiste com lideranças que operam em mundos paralelos sem se olharem.
+
+**Achado bônus — correção s2a:** Marcelo Picanço (identificado como CEO Porto Bank em s2a) era na verdade CEO do lado Insurance. O CEO do Porto Bank é e sempre foi Marcos Roberto Loução. Picanço saiu em set/2022, cumpriu non-compete e hoje é CEO da BMG Seguridade — mais um dado confirmando que o lado Insurance da Porto é springboard para CEOs de seguradoras tradicionais (BMG), não para fintechs.
+
+---
+
+## DADOS BRUTOS — URLS DOS PERFIS
+
+| Nome | URL LinkedIn |
+|------|-------------|
+| Patricia Chacon | linkedin.com/in/patricia-chacon-18113328/ |
+| Jarbas Medeiros | linkedin.com/in/jarbas-medeiros-0aa30826/ |
+| Lene Araujo | linkedin.com/in/lenearaujo/ |
+| Luis Arsenio | linkedin.com/in/lfarsenio/ |
+| Marcos Sirelli | linkedin.com/in/marcos-sirelli-0474a03/ |
+| Marcos Roberto Loução | linkedin.com/in/marcosloucao/ |
+| Wanderley Baccala | linkedin.com/in/wanderley-baccala/ |
+| Marcelo Picanço (ex-CEO Insurance, hoje BMG) | linkedin.com/in/marcelo-picanco/ |
+| Paulo Kakinoff | SEM PERFIL |
