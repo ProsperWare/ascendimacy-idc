@@ -37,12 +37,7 @@
 | Google Brasil | s2c | LinkedIn · Liderança | `IDC · Google BR · s2c` | [google-brasil-s2c-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/google-brasil-s2c-linkedin.md) |
 | iFood | s2d | LinkedIn · Vagas | `IDC · iFood · s2d` | [ifood-s2d-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/ifood-s2d-linkedin.md) |
 | Magazine Luiza | s2b | LinkedIn · Ex-colaboradores | `IDC · Magalu · s2b` | [magazine-luiza-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/magazine-luiza-s2b-linkedin.md) |
-| McKinsey Brasil | s2c | LinkedIn · Liderança | `IDC · McKinsey · s2c` | [mckinsey-brasil-s2c-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/mckinsey-brasil-s2c-linkedin.md) |
-| Mercado Livre | s3a | Reclame Aqui | `IDC · MELI · s3a` | [mercado-livre-s3a-reclameaqui.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/mercado-livre-s3a-reclameaqui.md) |
 | Petrobras | s2b | LinkedIn · Liderança | `IDC · Petrobras · s2b` | [petrobras-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/petrobras-s2b-linkedin.md) |
-| Porto Seguro | s2c | LinkedIn · Liderança | `IDC · Porto · s2c` | [porto-seguro-s2c-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/porto-seguro-s2c-linkedin.md) |
-| Uber | s2b | LinkedIn · Ex-colaboradores | `IDC · Uber · s2b` | [uber-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/uber-s2b-linkedin.md) |
-| 99 | s2a | LinkedIn · Empresa | `IDC · 99 · s2a` | [99-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/99-s2a-linkedin.md) |
 
 ---
 
@@ -85,44 +80,9 @@ Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc
 Leia o arquivo completo e execute cada passo conforme descrito.
  `
 
-### McKinsey Brasil
- `
-Pesquisa IDC -- McKinsey Brasil s2c (LinkedIn · Liderança).
-Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/mckinsey-brasil-s2c-linkedin.md
-Leia o arquivo completo e execute cada passo conforme descrito.
- `
-
-### Mercado Livre
- `
-Pesquisa IDC -- Mercado Livre s3a (Reclame Aqui).
-Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/mercado-livre-s3a-reclameaqui.md
-Leia o arquivo completo e execute cada passo conforme descrito.
- `
-
 ### Petrobras
  `
 Pesquisa IDC -- Petrobras s2b (LinkedIn · Liderança).
 Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/petrobras-s2b-linkedin.md
-Leia o arquivo completo e execute cada passo conforme descrito.
- `
-
-### Porto Seguro
- `
-Pesquisa IDC -- Porto Seguro s2c (LinkedIn · Liderança).
-Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/porto-seguro-s2c-linkedin.md
-Leia o arquivo completo e execute cada passo conforme descrito.
- `
-
-### Uber
- `
-Pesquisa IDC -- Uber s2b (LinkedIn · Ex-colaboradores).
-Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/uber-s2b-linkedin.md
-Leia o arquivo completo e execute cada passo conforme descrito.
- `
-
-### 99
- `
-Pesquisa IDC -- 99 s2a (LinkedIn · Empresa).
-Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/99-s2a-linkedin.md
 Leia o arquivo completo e execute cada passo conforme descrito.
  `

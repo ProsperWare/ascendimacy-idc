@@ -19,12 +19,16 @@
 - **Tema dominante:** Institucional + Aspiracional — futebol, parcerias, inovação BR, motoristas mulheres
 - **Menciona motoristas/gig?** SIM (indiretamente) — Uber Moto (rapper Xamã), programa Protagonistas, feature "motoristas mulheres"
 - **Posts de maior engajamento:**
-  - Selfie com CEO global Dara Khosrowshahi no escritório BR: **1.852 reações** (maior da amostra)
+  - "motoristas mulheres" — feature que permite escolher motoristas do sexo feminino: **3.193 reações** (maior do feed completo — não capturado na coleta inicial)
+  - Selfie com CEO global Dara Khosrowshahi no escritório BR: **1.852 reações**
   - Rapper Xamã no escritório (campanha Uber Moto): **765 reações**
   - Futebol — Uber patrocinadora das seleções: **774 reações**
   - iFood Move 2025 ao lado de Diego Barreto (CEO iFood) e Rodrigo Cartacho: **680 reações**
+  - Entrevista Exame "De vez em quando eu faço Uber": **521 reações**
   - Retrospectiva 2025: **335 reações**
   - Anúncio R$500M centro de P&D no Rio de Janeiro: **152 reações**
+- **Posicionamento regulatório:** "O caminho é regulamentar e não proibir" (Meio & Mensagem) — declara posição pública sobre gig economy
+- **Menção à mídia:** A mídia brasileira a trata informalmente como "CEO da Uber no Brasil" (Exame, CNBC, Meio & Mensagem)
 - **IDC:** Líder âncora ultra-visível — comunicação centralizada na figura da Country Manager. Perfil de "embaixadora da marca Uber no Brasil", não de "operadora de ops" — mas carreira construída inteiramente em Ops (City Manager → Head Cities → Head Ops LATAM). O post no iFood Move 2025 é anomalia significativa: postura colaborativa de mercado (não confrontacional) com o principal concorrente.
 
 ---
