@@ -44,6 +44,9 @@
 | Square (sede) | s1 | Glassdoor US | `IDC · Square · s1` | [square-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/square-s1-glassdoor.md) |
 | HSBC (sede) | s1 | Glassdoor UK | `IDC · HSBC · s1` | [hsbc-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/hsbc-s1-glassdoor.md) |
 | HSBC Brasil | s1 | Glassdoor BR | `IDC · HSBC BR · s1` | [hsbc-brasil-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/hsbc-brasil-s1-glassdoor.md) |
+| Google Brasil | s2d | LinkedIn · Vagas | `IDC · Google BR · s2d` | [google-brasil-s2d-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/google-brasil-s2d-linkedin.md) |
+| Google Brasil | s2e | LinkedIn · Recrutadores | `IDC · Google BR · s2e` | [google-brasil-s2e-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/google-brasil-s2e-linkedin.md) |
+| Google Brasil | s3a | Reclame Aqui | `IDC · Google BR · s3a` | [google-brasil-s3a-reclameaqui.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/google-brasil-s3a-reclameaqui.md) |
 
 ---
 
@@ -132,5 +135,26 @@ Leia o arquivo completo e execute cada passo conforme descrito.
  `
 Pesquisa IDC -- HSBC Brasil s1 (Glassdoor BR).
 Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/hsbc-brasil-s1-glassdoor.md
+Leia o arquivo completo e execute cada passo conforme descrito.
+ `
+
+### Google Brasil — s2d (LinkedIn Vagas)
+ `
+Pesquisa IDC -- Google Brasil s2d (LinkedIn · Vagas).
+Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/google-brasil-s2d-linkedin.md
+Leia o arquivo completo e execute cada passo conforme descrito.
+ `
+
+### Google Brasil — s2e (LinkedIn Recrutadores)
+ `
+Pesquisa IDC -- Google Brasil s2e (LinkedIn · Recrutadores).
+Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/google-brasil-s2e-linkedin.md
+Leia o arquivo completo e execute cada passo conforme descrito.
+ `
+
+### Google Brasil — s3a (Reclame Aqui)
+ `
+Pesquisa IDC -- Google Brasil s3a (Reclame Aqui).
+Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/google-brasil-s3a-reclameaqui.md
 Leia o arquivo completo e execute cada passo conforme descrito.
  `
