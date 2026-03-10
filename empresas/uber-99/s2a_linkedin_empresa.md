@@ -16,12 +16,12 @@
 | Setor | Desenvolvimento de software |
 | Sede | São Paulo, SP |
 | Fundada | 2012 |
-| Seguidores | 387.865 |
-| Usuários associados | 9.939 |
+| Seguidores | 388.245 |
+| Usuários associados | 10.042 |
 | Funcionários declarados | 1.001–5.000 |
 | Site externo | careers.didiglobal.com/job |
 | Modelo de trabalho | Híbrido 3+2 (Av. Paulista, SP) |
-| Crescimento em 6 meses | +14% |
+| Crescimento em 12 meses | +40% |
 | Tempo médio do funcionário | **2,2 anos** |
 
 ---
@@ -82,16 +82,18 @@
 
 | # | Tema | Didi mencionada? | Motoristas mencionados? | Reações |
 |---|---|---|---|---|
-| 1 | Carnaval 2026 — ativação de marca | NÃO | SIM ("quem dirige com a gente") | 209 |
-| 2 ⭐ | **Ano Novo Chinês** — "nosso ritmo na DiDi\|99" | **SIM** (explícita) | NÃO | **639** |
-| 3 | 99 Para Empresas / B2B | NÃO | NÃO | 123 |
-| 4 ⭐ | **Robotáxi DiDi autônomo em Pequim** — "ecossistema global da DiDi" | **SIM** | NÃO (veículo sem motorista) | 122 |
-| 5 | Valores internos — "gerar valor para os usuários" | NÃO | SIM (listados como stakeholders) | 136 |
-| 6 | Vagas abertas → careers.didiglobal.com | NÃO | NÃO | 452 |
-| 7 | ESG / Eletromobilidade — 35k EVs na plataforma | NÃO | SIM (implícito) | 137 |
-| 8 | Carnaval employer branding — vídeo | NÃO | SIM ("quem dirige com a gente") | 355 |
+| 1 | Carnaval 2026 — ativação de marca (1,2M no bloco Ivete; 180M alcançados Sapucaí) | NÃO | SIM ("quem dirige com a gente") | 257 |
+| 2 ⭐ | **Ano Novo Chinês** — "nosso ritmo na DiDi\|99" | **SIM** (explícita) | NÃO | **679** |
+| 3 | 99 Para Empresas / LACTE21 — mobilidade corporativa | NÃO | NÃO | 123 |
+| 4 ⭐ | **Robotáxi DiDi autônomo em Pequim** — "ecossistema global da DiDi" | **SIM** | NÃO (veículo sem motorista) | 126 |
+| 5 | Valores internos — "gerar valor para os usuários" | NÃO | SIM (listados como stakeholders) | ~100 |
+| 6 ⭐ | **Prêmio Melhor Líder** — cerimônia interna de reconhecimento | NÃO | NÃO | **1.580** |
+| 7 | **Dia Nacional da Visibilidade Trans** — grupos #99Adapta, #99Cores, #99Viva | NÃO | NÃO | 436 |
+| 8 | Vagas abertas → careers.didiglobal.com | NÃO | NÃO | 463 |
+| 9 | ESG / Eletromobilidade — motos elétricas, mobilidade sustentável | NÃO | SIM (implícito) | 140 |
+| 10 | **Prêmio Reclame AQUI 2025** — 99 e 99Pay reconhecidas | NÃO | NÃO | 549 |
 
-**Post mais engajado = Ano Novo Chinês (639 reações)** — o post que mais expõe a identidade DiDi gera mais engajamento do que qualquer conteúdo de branding brasileiro. Paradoxo central.
+**Post mais engajado = Prêmio Melhor Líder (1.580 reações)** — foco em celebração interna de liderança. Segundo mais engajado = Ano Novo Chinês (679 reações) — o post que mais expõe a identidade DiDi gera mais engajamento do que qualquer conteúdo de branding brasileiro.
 
 **Achado crítico (Post 4):** "Como parte do ecossistema global da DiDi, aqui na 99 temos orgulho de fazer parte dessa jornada e de levar esse mindset de tecnologia e futuro para o Brasil." — A inovação real está em Pequim; Brasil é receptor do "mindset".
 
@@ -141,7 +143,8 @@ Múltiplos funcionários usam `99/DiDi`, `@99 (DiDi)`, `DiDi|99`, `DiDi/99` nos 
 1. **Site de carreiras = didiglobal.com:** Tanto na aba Sobre quanto em posts de vagas, o link é careers.didiglobal.com — sem site BR independente. Indicador estrutural de subordinação.
 2. **Post mais engajado = identidade DiDi:** 639 reações para Ano Novo Chinês vs. 355 reações para Carnaval employer branding — a identidade híbrida ressoa mais internamente do que o branding brasileiro.
 3. **Tempo médio 2,2 anos:** Alta rotatividade estrutural — consistente com Glassdoor.
-4. **Crescimento Vendas +100% em 6 meses:** Expansão agressiva B2B (99 Para Empresas) e food delivery — estratégia SuperApp em curso.
+4. **Seis grupos de diversidade internos:** #99Adapta, #99Afro, #99Cores, #99Famílias, #99Mulheres, #99Viva, #99Solidári — estrutura formal de D&I.
+5. **Crescimento Vendas +100% em 6 meses:** Expansão agressiva B2B (99 Para Empresas) e food delivery — estratégia SuperApp em curso.
 5. **Comentário crítico visível:** No post de Carnaval, comentário: "Cadê o suporte para quem foi vítima de acidente de moto? É só estética e Instagram bonito?" — voz externa que expõe o gap entre branding e responsabilidade com motoristas.
 
 ---
