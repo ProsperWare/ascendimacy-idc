@@ -141,3 +141,7 @@ Analise cruzada disponivel: SIM
 ---
 
 *progresso.md - IDC Ascendimacy*
+
+---
+
+*progresso.md - IDC Ascendimacy*
