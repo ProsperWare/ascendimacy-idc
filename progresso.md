@@ -6,7 +6,7 @@
 ```
 PROGRESSO -- ultima atualizacao: 2026-03-10
 
-MERCADO LIVRE      s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[_]
+MERCADO LIVRE      s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
 NUBANK             s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
 ITAU               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
 GOOGLE BRASIL      s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[x] s3b[_] s3c[_] sintese[_]
@@ -25,7 +25,7 @@ Legenda: [x] = commitado  [~] = parcial  [_] = pendente
 
 Empresas ativas: 14
 Empresas com coleta completa (9/9 - inclui s2a-s2e): 4
-Empresas com sintese pronta: 3
+Empresas com sintese pronta: 4
 Analise cruzada disponivel: SIM
 ```
 
@@ -84,6 +84,7 @@ Analise cruzada disponivel: SIM
 | 2026-03-10 | Mercado Livre | s3c - Investor Relations | commitado |
 | 2026-03-10 | Google Brasil | s3a - Reclame Aqui | commitado |
 | 2026-03-10 | Mercado Livre | s3b - Jusbrasil | commitado |
+| 2026-03-10 | Mercado Livre | síntese IDC (IDC 32/100, TETO PROVÁVEL) | commitado |
 
 ---
 
