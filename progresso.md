@@ -24,7 +24,7 @@ UBER               s1[_] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_]
 Legenda: [x] = commitado  [~] = parcial  [_] = pendente
 
 Empresas ativas: 14
-Empresas com coleta completa (9/9 - inclui s2a-s2e): 3
+Empresas com coleta completa (9/9 - inclui s2a-s2e): 4
 Empresas com sintese pronta: 3
 Analise cruzada disponivel: SIM
 ```
@@ -84,6 +84,10 @@ Analise cruzada disponivel: SIM
 | 2026-03-10 | Mercado Livre | s3c - Investor Relations | commitado |
 | 2026-03-10 | Google Brasil | s3a - Reclame Aqui | commitado |
 | 2026-03-10 | Mercado Livre | s3b - Jusbrasil | commitado |
+
+---
+
+*progresso.md - IDC Ascendimacy*
 
 ---
 
