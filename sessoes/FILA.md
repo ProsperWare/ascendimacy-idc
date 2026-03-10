@@ -34,7 +34,6 @@
 |---|---|---|---|---|
 | Ambev | s2c | LinkedIn · Liderança | `IDC · Ambev · s2c` | [ambev-s2c-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/ambev-s2c-linkedin.md) |
 | Correios | s2a | LinkedIn · Empresa | `IDC · Correios · s2a` | [correios-s2a-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/correios-s2a-linkedin.md) |
-| Google Brasil | s2c | LinkedIn · Liderança | `IDC · Google BR · s2c` | [google-brasil-s2c-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/google-brasil-s2c-linkedin.md) |
 | iFood | s2d | LinkedIn · Vagas | `IDC · iFood · s2d` | [ifood-s2d-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/ifood-s2d-linkedin.md) |
 | Magazine Luiza | s2b | LinkedIn · Ex-colaboradores | `IDC · Magalu · s2b` | [magazine-luiza-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/magazine-luiza-s2b-linkedin.md) |
 | Petrobras | s2b | LinkedIn · Liderança | `IDC · Petrobras · s2b` | [petrobras-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/petrobras-s2b-linkedin.md) |
@@ -57,13 +56,6 @@ Leia o arquivo completo e execute cada passo conforme descrito.
  `
 Pesquisa IDC -- Correios s2a (LinkedIn · Empresa).
 Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/correios-s2a-linkedin.md
-Leia o arquivo completo e execute cada passo conforme descrito.
- `
-
-### Google Brasil
- `
-Pesquisa IDC -- Google Brasil s2c (LinkedIn · Liderança).
-Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/google-brasil-s2c-linkedin.md
 Leia o arquivo completo e execute cada passo conforme descrito.
  `
 

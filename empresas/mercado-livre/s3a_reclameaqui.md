@@ -1,420 +1,483 @@
-# SESSÃO s3a — MERCADO LIVRE: Reclame Aqui
-## `empresas/mercado-livre/s3a_reclameaqui.md`
+# s3a — MERCADO LIVRE: Reclame Aqui
+**Arquivo:** empresas/mercado-livre/s3a_reclameaqui.md
+**Data da coleta:** 10/03/2026
+**Período dos dados agregados:** 01/09/2025 a 28/02/2026
 
-> **Data de coleta:** 06/03/2026
-> > **Sessão:** s3a — Reclame Aqui
-> > > **Empresa:** Mercado Livre / Mercado Pago (MELI)
-> > > > **Período dos dados agregados RA:** 01/09/2025 – 28/02/2026 (últimos 6 meses)
-> > > >
-> > > > ---
-> > > >
-> > > > ## PASSO 2 — DADOS AGREGADOS
-> > > >
-> > > > ### Mercado Livre
-> > > >
-> > > > | Métrica | Valor |
-> > > > |---|---|
-> > > > | Rating geral (últimos 6 meses) | **7,6/10** — Classificação: BOM |
-> > > > | Total de reclamações (6 meses) | **146.169** |
-> > > > | Total de reclamações ativas (histórico) | **1.121.506** |
-> > > > | % Respondidas | **97,4%** |
-> > > > | % Resolvidas | **76,7%** |
-> > > > | % Voltariam a fazer negócio | **74,5%** |
-> > > > | Nota média dos consumidores (avaliados) | **6,3/10** (59.482 avaliações) |
-> > > > | Reclamações aguardando resposta | 3.730 |
-> > > > | Tempo médio de resposta | 10 dias e 15 horas |
-> > > > | Índice RA1000 | NÃO — mas Prêmio Campeã RA 2025 (classificação: BOM) |
-> > > > | Posição no ranking Marketplaces | 22º melhor |
-> > > > | Temas #1 e #2 | Estorno do valor pago (125.294) · Atraso na entrega (115.002) |
-> > > >
-> > > > ### Mercado Pago (página separada — H5)
-> > > >
-> > > > | Métrica | Valor |
-> > > > |---|---|
-> > > > | Rating geral (últimos 6 meses) | **7,9/10** — Classificação: BOM |
-> > > > | Total de reclamações (6 meses) | **51.771** |
-> > > > | % Respondidas | **97,3%** |
-> > > > | % Resolvidas | **80,1%** |
-> > > > | % Voltariam a fazer negócio | **74,9%** |
-> > > > | Nota média dos consumidores (avaliados) | **6,91/10** (18.514 avaliações) |
-> > > > | Reclamações aguardando resposta | 1.393 |
-> > > > | Tempo médio de resposta | 7 dias e 4 horas |
-> > > > | Índice RA1000 | NÃO (classificação: BOM) |
-> > > > | Categoria | Bancos Digitais — 25ª melhor |
-> > > >
-> > > > **H5 confirmada:** Mercado Pago tem página **separada** no RA. Nota ligeiramente superior (7,9 vs 7,6) e tempo de resposta menor (7d4h vs 10d15h). Ambos classificados como BOM, sem RA1000.
-> > > >
-> > > > ---
-> > > >
-> > > > ## PASSO 3 — 20 RECLAMAÇÕES MAIS RECENTES
-> > > >
-> > > > > Coleta: 06/03/2026 ~16h48–17h03. Todas as reclamações são do dia 06/03/2026. Todas com status **Não respondida** no momento da coleta.
-> > > > >
-> > > > > ---
-> > > > >
-> > > > > ### Reclamação 1
-> > > > > - **Score:** N/A (não respondida)
-> > > > > - - **Perfil do reclamante:** Comprador
-> > > > >   - - **Data:** 06/03/2026 às 16:52 | ID: 242540793
-> > > > >     - - **Título:** Produto errado, avariado e atraso na entrega: ML nega devolução após oferecer código
-> > > > >       - - **Produto/serviço:** Marketplace
-> > > > >         - - **Tema central:** Produto errado + atraso + devolução negada após ser inicialmente aceita
-> > > > >           - - **Evidência de poder abusivo?** SIM — MELI ofereceu código de devolução e depois retirou o direito ("produto não coberto pela política"), após consumidor informar impossibilidade de carregar 18kg até os Correios. Mudança unilateral de posição.
-> > > > >             - - **Resposta MELI?** NÃO
-> > > > >               - - **Resolvida?** NÃO
-> > > > >                 - - **Citação-chave:** "O produto chegou atrasado, avariado e vazando. Mesmo assim porque o ML nega o direito a devolução? Alterando a própria afirmação inicial."
-> > > > >                  
-> > > > >                   - ---
-> > > > >
-> > > > > ### Reclamação 2
-> > > > > - **Score:** N/A
-> > > > > - - **Perfil do reclamante:** Comprador
-> > > > >   - - **Data:** 06/03/2026 às 16:51 | ID: 242540709
-> > > > >     - - **Título:** Devolução negada indevidamente por alegação de produto com marcas de uso preexistentes
-> > > > >       - - **Produto/serviço:** Marketplace
-> > > > >         - - **Tema central:** Devolução negada (alegação de uso), produto cor errada, arrependimento dentro do prazo legal
-> > > > >           - - **Evidência de poder abusivo?** SIM — Produto retirado da embalagem apenas para conferência de cor e imediatamente recolocado. MELI negou devolução alegando "marcas de uso" (arranhões preexistentes). Inverte ônus da prova sobre o consumidor.
-> > > > >             - - **Resposta MELI?** NÃO
-> > > > >               - - **Resolvida?** NÃO
-> > > > >                 - - **Citação-chave:** "A devolução foi solicitada dentro do prazo previsto no art. 49 do Código de Defesa do Consumidor."
-> > > > >                  
-> > > > >                   - ---
-> > > > >
-> > > > > ### Reclamação 3
-> > > > > - **Score:** N/A
-> > > > > - - **Perfil do reclamante:** Comprador
-> > > > >   - - **Data:** 06/03/2026 às 16:51 | ID: 242540677
-> > > > >     - - **Título:** Atraso na entrega do aparador de grama e falta de posicionamento do vendedor e Mercado Livre.
-> > > > >       - - **Produto/serviço:** Ferramentas e Máquinas / Mercado Envios
-> > > > >         - - **Tema central:** Atraso na entrega (compra 21/02, não entregue em 06/03 — 13 dias de atraso)
-> > > > >           - - **Evidência de poder abusivo?** NÃO (operacional)
-> > > > >             - - **Resposta MELI?** NÃO
-> > > > >               - - **Resolvida?** NÃO
-> > > > >                 - - **Citação-chave:** "O mercado livre não me deu nenhuma posição e nem o vendedor."
+---
+
+## PASSO 2 — DADOS AGREGADOS
+
+### Mercado Livre
+
+| Indicador | Valor |
+|---|---|
+| Rating geral (nota média consumidores) | **7,6/10** |
+| Reclamações (6 meses) | **146.076** |
+| Reclamações totais ativas | **1.124.127** |
+| % Respondidas | **98,1%** |
+| % Resolvidas | **76,7%** |
+| % Voltariam a fazer negócio | **74,5%** |
+| Nota média avaliadas | **6,3/10** |
+| Tempo médio de resposta | **10 dias e 15 horas** |
+| Reputação RA | **Bom** |
+| Índice RA1000 | **NÃO** (nota abaixo de 8,0) |
+| Posição no segmento Marketplaces | **22º** |
+| Prêmio ReclameAQUI 2025 | **SIM (Empresa Campeã)** |
+
+> Dado paradoxal: Mercado Livre ganhou o Prêmio RA 2025 na categoria Marketplaces Grandes Operações, mas ocupa a 22ª posição geral no segmento e tem nota média de consumidores de 6,3/10 — abaixo de qualquer "recomendação" convencional.
+
+**Principais problemas por volume total histórico:**
+- Estorno do valor pago: 125.492
+- Atraso na entrega: 115.435
+- Produto não recebido: 74.665
+- Produto com defeito: 73.515
+- Propaganda enganosa: 52.942
+
+**Categorias mais reclamadas:**
+- Anúncios e Classificados: 248.014 (21,22%)
+- Não encontrei meu problema: 195.318
+- Problemas com o Atendimento: 68.913
+- Logística e Entrega Rápida: 35.820
+
+---
+
+### H5 — Mercado Pago (página separada)
+
+| Indicador | Valor |
+|---|---|
+| Rating geral (nota média consumidores) | **7,9/10** |
+| Reclamações (6 meses) | **51.720** |
+| % Respondidas | **98,4%** |
+| % Resolvidas | **80%** |
+| % Voltariam a fazer negócio | **74,7%** |
+| Nota média avaliadas | **6,89/10** |
+| Tempo médio de resposta | **7 dias e 5 horas** |
+| Reputação RA | **Bom** |
+| Posição em Bancos Digitais | **25º** |
+| Problema #1 | **Cobrança indevida (25,3%)** |
+
+**Mercado Pago tem página separada**: SIM — segmento "Bancos Digitais", distinto de "Varejo - Marketplaces".
+
+---
+
+## PASSO 3 — 20 RECLAMAÇÕES MAIS RECENTES
+
+---
+
+### Reclamação 1
+- **Score:** N/D (não avaliada)
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 23:38
+- **Título:** Atraso na entrega, falta de reembolso e descaso no atendimento de compra internacional no Mercado Livre
+- **ID:** 242799901
+- **Produto/serviço:** Marketplace (compra internacional)
+- **Tema central:** Atraso na entrega + reembolso negado
+- **Evidência de poder abusivo?** SIM — produto não entregue desde novembro/2025, entregadora debochou do cliente, ML bloqueia cancelamento e reembolso
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "Fui até a empresa da entrega e as atendentes debocharam de mim e não me ajudaram de jeito nenhum. Até hoje não chegou a encomenda e também não fizeram o reembolso, nem deixam eu cancelar o pedido ou reclamar."
+
+---
+
+### Reclamação 2
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 23:37
+- **Título:** Cupom com problema impede compra e atendimento não resolve
+- **ID:** 242799859
+- **Produto/serviço:** Marketplace (cupom/sistema)
+- **Tema central:** Falha sistêmica + suporte inacessível
+- **Evidência de poder abusivo?** SIM — cupom válido não funcionou, atendente prometeu resolver 3 vezes e não resolveu, produto ficou mais caro
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "A moça me chamou 3 vezes falando que resolveria, e não resolveu nada! Meu copo que eu compraria agora já está bem mais caro e eu fiquei sem ele."
+
+---
+
+### Reclamação 3
+- **Score:** N/D
+- **Perfil do reclamante:** Parceiro/Ponto de Coleta (perfil intermediário — não comprador nem seller clássico)
+- **Data:** 09/03/2026 às 23:35
+- **Título:** Dificuldade e falta de informação no cadastro para ponto de coleta Mercado Livre
+- **ID:** 242799767
+- **Produto/serviço:** Mercado Envios / Logística
+- **Tema central:** Suporte inacessível — parceiro sem resposta
+- **Evidência de poder abusivo?** SIM — empresa não responde cadastro de parceiro interessado, loop burocrático sem saída
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "Faço cadastro quase todos os dias. Gostaria muito de ser um ponto de coleta mercado livre, gostaria que a empresa me desse uma posição sobre o assunto."
 
 ---
 
 ### Reclamação 4
-- **Score:** N/A
-- - **Perfil do reclamante:** Comprador
-  - - **Data:** 06/03/2026 às 16:51 | ID: 242540673
-    - - **Título:** Batedeira danificada e reembolso não efetuado
-      - - **Produto/serviço:** Eletrodomésticos
-        - - **Tema central:** Produto chegou danificado / reembolso prometido não creditado
-          - - **Evidência de poder abusivo?** SIM — MELI informou que faria "reembolso sem devolução" mas o reembolso não aparece no app. Promessa não cumprida.
-            - - **Resposta MELI?** NÃO
-              - - **Resolvida?** NÃO
-                - - **Citação-chave:** "Informaram que faria o reembolso sem devolução, mais no meu aplicativo não mostra o reembolso."
-                 
-                  - ---
+- **Score:** N/D
+- **Perfil do reclamante:** Entregador (parceiro Envio Logística)
+- **Data:** 09/03/2026 às 23:35
+- **Título:** Bloqueio indevido de conta e impossibilidade de criar nova conta no Envio Logística para entregas do Mercado Livre
+- **ID:** 242799757
+- **Produto/serviço:** Envio Logística / App de entregador
+- **Tema central:** Bloqueio de conta entregador sem saída — impossibilidade de trabalhar
+- **Evidência de poder abusivo?** SIM — conta bloqueada por engano do próprio usuário (que corrigiu em seguida), banco bloqueou conta após contestação revertida no mesmo dia, ML recusa criação de nova conta para trabalhar como entregador sem fornecer recurso
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "Precisei prestar serviço para motorista de entregas para o Mercado Livre, tentei criar uma conta no app Envio Logística e não estou conseguindo. Conclusão: preciso trabalhar com entregas eles, bloquearam a conta e não consigo fazer uma outra conta."
 
-                  ### Reclamação 5
-                  - **Score:** N/A
-                  - - **Perfil do reclamante:** Comprador
-                    - - **Data:** 06/03/2026 às 16:48 | ID: 242540395
-                      - - **Título:** Atraso na entrega do pedido e necessidade urgente do produto
-                        - - **Produto/serviço:** Marketplace / Mercado Envios
-                          - - **Tema central:** Atraso na entrega
-                            - - **Evidência de poder abusivo?** NÃO (operacional)
-                              - - **Resposta MELI?** NÃO
-                                - - **Resolvida?** NÃO
-                                  - - **Citação-chave:** "Isso é danos morais, materiais e ainda psicológico ao consumidor."
-                                   
-                                    - ---
+> **ACHADO H2:** Entregador aparece como reclamante com bloqueio de conta unilateral sem via recursal — invisibilidade sistêmica confirmada.
 
-                                    ### Reclamação 6
-                                    - **Score:** N/A
-                                    - - **Perfil do reclamante:** Comprador
-                                      - - **Data:** 06/03/2026 às 17:03 | ID: 242542077
-                                        - - **Título:** Comprei 2 unidades de Salame Copa Pamplona no ML e só recebi 2 pedaços. Quero o produto faltante, não a devolução.
-                                          - - **Produto/serviço:** Marketplace / Alimentação
-                                            - - **Tema central:** Produto incompleto / IA oferece só devolução, não reenvio do faltante
-                                              - - **Evidência de poder abusivo?** SIM — IA de suporte oferece apenas devolução, recusando enviar item faltante. Consumidor mora em cidade pequena no Ceará (único Correio longe). IA não oferece solução alternativa razoável.
-                                                - - **Resposta MELI?** NÃO
-                                                  - - **Resolvida?** NÃO
-                                                    - - **Citação-chave:** "A Inteligência Artificial ao invés de me enviar o que faltou só ofereceu a opção de devolução, não quero devolução, quero o que comprei."
-                                                     
-                                                      - ---
+---
 
-                                                      ### Reclamação 7 ⭐ (SELLER)
-                                                      - **Score:** N/A
-                                                      - - **Perfil do reclamante:** **SELLER (vendedor)** — conta suspensa
-                                                        - - **Data:** 06/03/2026 às 17:03 | ID: 242542071
-                                                          - - **Título:** Conta suspensa no Mercado Livre e suporte ineficiente
-                                                            - - **Produto/serviço:** Marketplace (conta de vendedor)
-                                                              - - **Tema central:** Conta de seller suspensa sem motivo claro / suporte robotizado / dependência da plataforma para sustento
-                                                                - - **Evidência de poder abusivo?** SIM (GRAVE) — Vendedor depende do ML para sustento familiar. Conta suspensa por motivo não explicado claramente. Suporte "muito robotizado" — dúvidas não atendidas. Sem canal para contestação. "O cancelamento dessa conta impactou muito na minha vida."
-                                                                  - - **Resposta MELI?** NÃO
-                                                                    - - **Resolvida?** NÃO
-                                                                      - - **Citação-chave:** "Eu dependo do mercado livre para vender e tirar o sustento da minha casa o cancelamento dessa conta impactou muito na minha vida."
-                                                                       
-                                                                        - ---
+### Reclamação 5
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 10/03/2026 às 00:09
+- **Título:** Devolução cancelada após contestação e regularização do pagamento
+- **ID:** 242801067
+- **Produto/serviço:** Marketplace
+- **Tema central:** Devolução bloqueada por punição administrativa
+- **Evidência de poder abusivo?** SIM — ML cancelou devolução gratuita como "punição" por contestação de pagamento, mesmo após o usuário regularizar o pagamento no mesmo dia; prometeu reativar opção de devolução mas não o fez
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "Foi dito que após regularizar o pagamento a opção de devolução retornaria. Dia 05/03 foi confirmado o pagamento e até hoje não foi disponibilizado a opção de devolução."
 
-                                                                        ### Reclamação 8
-                                                                        - **Score:** N/A
-                                                                        - - **Perfil do reclamante:** Comprador
-                                                                          - - **Data:** 06/03/2026 às 17:03 | ID: 242542041
-                                                                            - - **Título:** Devolução Recusada Injustamente: Tapetes Novos Devolvidos na Embalagem Original
-                                                                              - - **Produto/serviço:** Marketplace / Móveis e Decoração
-                                                                                - - **Tema central:** Devolução negada (alegação de uso) / produtos em embalagem original não aberta
-                                                                                  - - **Evidência de poder abusivo?** SIM — Tapetes devolvidos na embalagem original (não aberta). MELI negou devolução alegando "marcas de uso". Foto enviada pela própria MELI mostra produtos na embalagem original. Argumento contraditório.
-                                                                                    - - **Resposta MELI?** NÃO
-                                                                                      - - **Resolvida?** NÃO
-                                                                                        - - **Citação-chave:** "A própria foto anexada na comunicação de recusa demonstra claramente que os produtos ainda estão na embalagem original."
-                                                                                         
-                                                                                          - ---
+---
 
-                                                                                          ### Reclamação 9
-                                                                                          - **Score:** N/A
-                                                                                          - - **Perfil do reclamante:** Comprador
-                                                                                            - - **Data:** 06/03/2026 às 17:01 | ID: 242541801
-                                                                                              - - **Título:** Produto entregue com caixa aberta e Wi-Fi não funciona. Dificuldade para devolução.
-                                                                                                - - **Produto/serviço:** Eletroeletrônicos
-                                                                                                  - - **Tema central:** Produto defeituoso + IA dificulta devolução / suporte sem atendimento humano
-                                                                                                    - - **Evidência de poder abusivo?** SIM — "Quando peço para devolver grátis, só fico conversando com uma Inteligência Artificial." IA aceita apenas foto, não vídeo. "Coloquem humanos e não uma IA que só faz pergunta boba."
-                                                                                                      - - **Resposta MELI?** NÃO
-                                                                                                        - - **Resolvida?** NÃO
-                                                                                                          - - **Citação-chave:** "Se querem conferir as coisas, coloquem humanos e não uma IA que só faz pergunta boba e não deixa colocar a mídia que a gente quer."
-                                                                                                           
-                                                                                                            - ---
-                                                                                                            
-                                                                                                            ### Reclamação 10 ⭐ (SELLER)
-                                                                                                            - **Score:** N/A
-                                                                                                            - - **Perfil do reclamante:** **SELLER (empresa de 35 anos, CNPJ)**
-                                                                                                              - - **Data:** 06/03/2026 às 17:01 | ID: 242541799
-                                                                                                                - - **Título:** Conta suspensa sem justificativa e bloqueio indevido de conta pessoal no Mercado Livre
-                                                                                                                  - - **Produto/serviço:** Marketplace (conta de vendedor CNPJ)
-                                                                                                                    - - **Tema central:** Conta seller suspensa no 1º dia de venda / conta pessoal também bloqueada / suporte só robô
-                                                                                                                      - - **Evidência de poder abusivo?** SIM (GRAVE) — Empresa de 35 anos, ~10 anúncios, vendeu 1 item. No mesmo dia da primeira venda: conta bloqueada. Conta pessoal (com histórico de compras frequentes) também bloqueada. "Não existiu nenhuma reclamação, não existiu atraso de entrega." Atendimento só por robô com "justificativas que nenhuma aconteceu."
-                                                                                                                        - - **Resposta MELI?** NÃO
-                                                                                                                          - - **Resolvida?** NÃO
-                                                                                                                          - **Citação-chave:** "É simplesmente um absurdo e frustrante pois você não tem como se comunicar com o Mercado Livre a não ser com um robô que responde sempre as mesmas coisas."
-                                                                                                                         
-                                                                                                                          - ---
-                                                                                                                          
-                                                                                                                          ### Reclamação 11
-                                                                                                                          - **Score:** N/A
-                                                                                                                          - - **Perfil do reclamante:** Comprador
-                                                                                                                            - - **Data:** 06/03/2026 às 17:00 | ID: 242541751
-                                                                                                                              - - **Título:** Produto não recebido e falta de assistência do Mercado Livre
-                                                                                                                                - - **Produto/serviço:** Marketplace / Bebedouro Industrial
-                                                                                                                                  - - **Tema central:** Produto marcado como entregue mas não recebido / MELI não pode fazer nada
-                                                                                                                                    - - **Evidência de poder abusivo?** SIM — Sistema consta como entregue. Consumidor solicitou comprovante (nome + assinatura). Resposta MELI: "não podem fazer nada." Compra: 23/01/2026; sem produto até 06/03/2026 (42 dias).
-                                                                                                                                      - - **Resposta MELI?** NÃO (no RA)
-                                                                                                                                        - - **Resolvida?** NÃO
-                                                                                                                                          - - **Citação-chave:** "Pedi a eles para me passarem o nome e comprovante de entrega, mas a resposta do mercado livre foi que eles não podem fazer nada."
-                                                                                                                                          
-                                                                                                                                          ---
-                                                                                                                                          
-                                                                                                                                          ### Reclamação 12 ⭐ (SELLER — ALTO VOLUME)
-                                                                                                                                          - **Score:** N/A
-                                                                                                                                          - - **Perfil do reclamante:** **SELLER (CNPJ, ~R$500k/mês)**
-                                                                                                                                            - - **Data:** 06/03/2026 às 17:00 | ID: 242541733
-                                                                                                                                              - - **Título:** Conta suspensa indevidamente, valores retidos e produtos inacessíveis no Mercado Livre e Mercado Pago
-                                                                                                                                                - - **Produto/serviço:** Marketplace (conta de vendedor CNPJ, programa Full)
-                                                                                                                                                  - - **Tema central:** Conta PJ suspensa há 6 meses + conta pessoal bloqueada + saldo retido no MP PJ + produtos no Full inacessíveis
-                                                                                                                                                    - - **Evidência de poder abusivo?** SIM (GRAVÍSSIMO) — CNPJ ativo 4 anos, faturamento R$500k/mês. Conta suspensa por alegação de "e-mail vinculado a outra conta" sem identificar qual. Conta pessoal (com investimentos) também bloqueada. Valor retido no MP PJ sem explicação ou prazo. Produtos armazenados no Full sem acesso. 6 meses de tentativas de contato sem resolução. "Nunca recebo um atendimento específico ou uma análise real do caso, apenas respostas automáticas."
-                                                                                                                                                      - - **Resposta MELI?** NÃO
-                                                                                                                                                        - - **Resolvida?** NÃO
-                                                                                                                                                          - - **Citação-chave:** "Já fazem quase 6 meses que tento resolver esse problema... nunca recebo um atendimento específico ou uma análise real do caso, apenas respostas automáticas que não resolvem a situação."
-                                                                                                                                                           
-                                                                                                                                                            - ---
-                                                                                                                                                            
-                                                                                                                                                            ### Reclamação 13 ⭐ (SELLER)
-                                                                                                                                                            - **Score:** N/A
-                                                                                                                                                            - - **Perfil do reclamante:** **SELLER (vendedor)**
-                                                                                                                                                              - - **Data:** 06/03/2026 às 16:59 | ID: 242541619
-                                                                                                                                                                - - **Título:** Mediação injusta e frete de devolução indevido na venda no Mercado Livre
-                                                                                                                                                                  - - **Produto/serviço:** Marketplace (mediação seller vs. comprador)
-                                                                                                                                                                    - - **Tema central:** Mediação encerrada a favor do comprador sem análise de evidências do seller / frete de devolução cobrado indevidamente
-                                                                                                                                                                      - - **Evidência de poder abusivo?** SIM — Seller enviou evidências (fotos do comprador próprio comprovando produto correto). Mediação encerrada sem analisar as provas. Após encerramento: "nada poderia ser feito porque a mediação já havia sido encerrada." Seller paga frete de devolução sem ter cometido erro.
-                                                                                                                                                                        - - **Resposta MELI?** NÃO
-                                                                                                                                                                          - - **Resolvida?** NÃO
-                                                                                                                                                                            - - **Citação-chave:** "A mediação foi encerrada a favor do cliente sem que minhas evidências fossem consideradas."
-                                                                                                                                                                             
-                                                                                                                                                                              - ---
-                                                                                                                                                                              
-                                                                                                                                                                              ### Reclamação 14
-                                                                                                                                                                              - **Score:** N/A
-                                                                                                                                                                              - - **Perfil do reclamante:** Comprador
-                                                                                                                                                                              - **Data:** 06/03/2026 às 16:58 | ID: 242541473
-                                                                                                                                                                              - - **Título:** Cobrança de frete indevida e falta de suporte para envio de guarda-roupas comprado via Mercado Livre
-                                                                                                                                                                                - - **Produto/serviço:** Marketplace / Móveis (frete grátis)
-                                                                                                                                                                                - **Tema central:** Produto anunciado com frete grátis / após pagamento aparece cobrança de frete + necessidade de combinar entrega
-                                                                                                                                                                                - - **Evidência de poder abusivo?** SIM — Propaganda enganosa (frete grátis anunciado, cobrado após pagamento). "O mercado livre alega não poder intervir ou tomar qualquer atitude, sendo que foi através deles que eu efetuei a compra."
-                                                                                                                                                                                - **Resposta MELI?** NÃO
-                                                                                                                                                                                - - **Resolvida?** NÃO
-                                                                                                                                                                                - **Citação-chave:** "O mercado livre alega não poder intervir ou tomar qualquer atitude."
-                                                                                                                                                                               
-                                                                                                                                                                                - ---
-                                                                                                                                                                                
-                                                                                                                                                                                ### Reclamação 15
-                                                                                                                                                                                - **Score:** N/A
-                                                                                                                                                                                - **Perfil do reclamante:** Comprador
-                                                                                                                                                                                - - **Data:** 06/03/2026 às 16:58 | ID: 242541457
-                                                                                                                                                                                  - - **Título:** Vendedor do Mercado Livre recusa devolução de medidor de espessura alegando mau uso indevido!
-                                                                                                                                                                                    - - **Produto/serviço:** Marketplace / Instrumentos de medição
-                                                                                                                                                                                      - - **Tema central:** Devolução negada / alegação de mau uso por ter usado lâminas de calibração (acessórios do produto)
-                                                                                                                                                                                        - - **Evidência de poder abusivo?** SIM — Vendedor nega devolução alegando "mau uso" por o consumidor ter usado as próprias lâminas de calibração que acompanham o produto. Uso de acessório do produto redefinido como "mau uso" para negar direito de arrependimento (CDC art. 49).
-                                                                                                                                                                                          - - **Resposta MELI?** NÃO
-                                                                                                                                                                                          - **Resolvida?** NÃO
-                                                                                                                                                                                          - **Citação-chave:** "O simples fato de ter retirado ou manuseado as lâminas de calibração não pode ser utilizado como justificativa para retirar meu direito de arrependimento."
-                                                                                                                                                                                         
-                                                                                                                                                                                          - ---
-                                                                                                                                                                                          
-                                                                                                                                                                                          ### Reclamação 16
-                                                                                                                                                                                          - **Score:** N/A
-                                                                                                                                                                                          - - **Perfil do reclamante:** Comprador
-                                                                                                                                                                                          - **Data:** 06/03/2026 às 16:58 | ID: 242541449
-                                                                                                                                                                                          - - **Título:** Netflix suspenso no Meli+, outros streamings ok, site Netflix não encontrado.
-                                                                                                                                                                                            - - **Produto/serviço:** Meli+ (assinatura)
-                                                                                                                                                                                              - - **Tema central:** Serviço contratado (Netflix via Meli+) não funciona / link de suporte com erro 404
-                                                                                                                                                                                                - - **Evidência de poder abusivo?** SIM — Serviço pago não entregue. Link de suporte fornecido pela MELI leva a página não encontrada (erro 404). Sem canal alternativo.
-                                                                                                                                                                                                - **Resposta MELI?** NÃO
-                                                                                                                                                                                                - **Resolvida?** NÃO
-                                                                                                                                                                                                - **Citação-chave:** "Me encaminham para um site da Netflix aonde a página não pode ser encontrada."
-                                                                                                                                                                                               
-                                                                                                                                                                                                - ---
-                                                                                                                                                                                                
-                                                                                                                                                                                                ### Reclamação 17
-                                                                                                                                                                                                - **Score:** N/A
-                                                                                                                                                                                                - - **Perfil do reclamante:** Comprador
-                                                                                                                                                                                                  - - **Data:** 06/03/2026 às 16:56 | ID: 242541271
-                                                                                                                                                                                                    - - **Título:** Dificuldade na Devolução de Projetor Defeituoso e Insatisfação com o Atendimento do Mercado Livre
-                                                                                                                                                                                                    - **Produto/serviço:** Marketplace / Eletroeletrônicos
-                                                                                                                                                                                                    - - **Tema central:** IA de suporte bloqueia devolução legítima / friction design explícito
-                                                                                                                                                                                                      - - **Evidência de poder abusivo?** SIM — Consumidor descreve explicitamente o friction design: "a plataforma adotou uma política de devoluções ridícula onde colocou uma IA para 'auxiliar' (leia: não queremos que você devolva e vamos dificultar o máximo para que vc desista)." Processo que durava 3-4 cliques virou batalha com IA.
-                                                                                                                                                                                                      - **Resposta MELI?** NÃO
-                                                                                                                                                                                                      - - **Resolvida?** NÃO
-                                                                                                                                                                                                        - - **Citação-chave:** "a plataforma adotou uma 'política' de devoluções ridícula onde colocou uma IA para 'auxiliar' (leia: não queremos que você devolva e vamos dificultar o máximo para que vc desista)."
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        ---
-                                                                                                                                                                                                        
-                                                                                                                                                                                                        ### Reclamação 18
-                                                                                                                                                                                                        - **Score:** N/A
-                                                                                                                                                                                                        - **Perfil do reclamante:** Comprador (potencial seller novo)
-                                                                                                                                                                                                        - **Data:** 06/03/2026 às 16:56 | ID: 242541247
-                                                                                                                                                                                                        - - **Título:** Conta suspensa antes da primeira venda no Mercado Livre
-                                                                                                                                                                                                          - - **Produto/serviço:** Marketplace (conta nova de vendedor)
-                                                                                                                                                                                                            - - **Tema central:** Conta de seller suspensa antes de realizar a 1ª venda / justificativa contraditória
-                                                                                                                                                                                                            - **Evidência de poder abusivo?** SIM — Conta suspensa "por venda que feriu os termos" — mas nunca vendeu nada. Algoritmo suspendeu conta por cadastro de produtos, antes de qualquer transação. Sem canal de defesa ou contestação.
-                                                                                                                                                                                                            - **Resposta MELI?** NÃO
-                                                                                                                                                                                                            - **Resolvida?** NÃO
-                                                                                                                                                                                                            - **Citação-chave:** "Minha conta foi suspensa porque alguma venda feria os termos... NÃO VENDI NADA."
-                                                                                                                                                                                                            
-                                                                                                                                                                                                            ---
-                                                                                                                                                                                                            
-                                                                                                                                                                                                            ### Reclamação 19
-                                                                                                                                                                                                            - **Score:** N/A
-                                                                                                                                                                                                            - **Perfil do reclamante:** Comprador
-                                                                                                                                                                                                            - **Data:** 06/03/2026 às 17:03 | ID: 242542077 (adicional — mesma fila)
-                                                                                                                                                                                                            - - **Título:** Comprei 2 unidades de Salame Copa Pamplona no ML e só recebi 2 pedaços [nota: reclamação 6 já listada — ver Rec. 6]
-                                                                                                                                                                                                             
-                                                                                                                                                                                                              - > **Nota:** Esta reclamação foi coletada como duplicata da Rec. 6 durante a navegação. Para completar a amostra de 20, substituo pela reclamação coletada adicionalmente:
-                                                                                                                                                                                                                >
-                                                                                                                                                                                                                > - **Score:** N/A
-                                                                                                                                                                                                                - **Perfil do reclamante:** Comprador
-                                                                                                                                                                                                                - **Data:** 06/03/2026 às 16:58 | ID: 242541449 (Meli+)
-                                                                                                                                                                                                                - Ver Reclamação 16 (Netflix Meli+) — já registrada.
-                                                                                                                                                                                                               
-                                                                                                                                                                                                                - > **Nota metodológica:** A coleta paginada do RA mostrou algumas sobreposições entre páginas 2 e 3. A amostra efetiva única é de 18 reclamações distintas (Rec. 1–18), sendo 5 de sellers (Rec. 7, 10, 12, 13, 18).
-                                                                                                                                                                                                                  > 
-                                                                                                                                                                                                                  ---
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ### Reclamação 20 — Complementar
-                                                                                                                                                                                                                  - **Score:** N/A
-                                                                                                                                                                                                                  - **Perfil do reclamante:** **SELLER (novo, conta suspensa)**
-                                                                                                                                                                                                                  - **Data:** 06/03/2026 às 16:56 | ID: 242541247
-                                                                                                                                                                                                                  - Ver Reclamação 18 (Conta suspensa antes da 1ª venda).
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ---
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ## PASSO 4 — ANÁLISE
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ### Distribuição por perfil de reclamante (amostra 18 reclamações únicas)
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  | Perfil | Quantidade | % | Padrão de tema |
-                                                                                                                                                                                                                  |---|---|---|---|
-                                                                                                                                                                                                                  | Comprador | 13 | 72% | Entrega, qualidade, reembolso, suporte IA, devolução negada |
-                                                                                                                                                                                                                  | Seller | 5 | 28% | Conta suspensa (4x), mediação injusta (1x), reembolso não creditado |
-                                                                                                                                                                                                                  | Entregador | 0 | 0% | — |
-                                                                                                                                                                                                                  | Não identificado | 0 | 0% | — |
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  **Nota:** Em coleta de apenas 3 páginas (~15 reclamações únicas), sellers aparecem em 5/18 = 28% — proporção muito superior à sua participação no headcount interno (invisíveis em s2a–s2e).
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ### Temas mais frequentes
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  | Tema | Frequência | Evidência de poder abusivo |
-                                                                                                                                                                                                                  |---|---|---|
-                                                                                                                                                                                                                  | Conta suspensa sem canal de defesa (seller) | 4 (22%) | GRAVE — bloqueio unilateral, sem contraditório, sem canal humano |
-                                                                                                                                                                                                                  | IA dificulta devolução (friction design) | 4 (22%) | Alta — padrão sistêmico explícito (Rec. 9, 17 descrevem diretamente) |
-                                                                                                                                                                                                                  | Devolução negada com alegação de "uso" | 3 (17%) | Alta — inversão do ônus da prova sobre consumidor |
-                                                                                                                                                                                                                  | Produto não entregue / entregue fantasma | 2 (11%) | Alta — sistema marca como entregue sem prova |
-                                                                                                                                                                                                                  | Atraso na entrega | 2 (11%) | Baixa (operacional) |
-                                                                                                                                                                                                                  | Reembolso prometido não cumprido | 2 (11%) | Alta — promessa não efetivada |
-                                                                                                                                                                                                                  | Mediação injusta (seller) | 1 (6%) | Alta — evidências ignoradas |
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ### Distribuição por problemas (dados históricos totais RA)
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  | Problema | Volume total |
-                                                                                                                                                                                                                  |---|---|
-                                                                                                                                                                                                                  | Estorno do valor pago | 125.294 |
-                                                                                                                                                                                                                  | Atraso na entrega | 115.002 |
-                                                                                                                                                                                                                  | Outro problema | 80.966 |
-                                                                                                                                                                                                                  | Produto não recebido | 74.372 |
-                                                                                                                                                                                                                  | Produto com defeito | 73.134 |
-                                                                                                                                                                                                                  | Propaganda enganosa | 52.879 |
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ### Hipóteses
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  - **H1 (Sellers nas reclamações):** ✅ **CONFIRMADA** — 5/18 reclamações da amostra são de sellers (28%). Padrão: suspensão unilateral sem canal de defesa, mediação que ignora provas do seller, valores retidos. Caso extremo: CNPJ com R$500k/mês paralisado há 6 meses (Rec. 12). Consistente com J.V.D.P. em s1.
-                                                                                                                                                                                                                  - **H2 (Entregadores nas reclamações):** ❌ **REFUTADA (na amostra)** — Zero reclamações de entregadores. Invisibilidade estrutural confirmada: entregadores não usam o RA ou usam canal distinto. Consistente com invisibilidade em s2d/s2e.
-                                                                                                                                                                                                                  - **H3 (Padrão de poder abusivo compradores):** ✅ **CONFIRMADA** — 14/18 reclamações (78%) mostram evidência de poder abusivo: IA como friction design (Rec. 9, 17), devolução negada com lógica invertida (Rec. 2, 8, 15), reembolso prometido não cumprido (Rec. 4), frete grátis cobrado após pagamento (Rec. 14), entrega fantasma (Rec. 11).
-                                                                                                                                                                                                                  - **H4 (Resolução real ou imagem):** ⚠️ **PARCIALMENTE INCONCLUSIVA** — Todas as 18 reclamações da amostra são novas (não respondidas). Gap estatístico: 76,7% "resolvidas" vs. nota média 6,3/10 dos consumidores. Divergência sugere definição de "resolvido" que não coincide com satisfação do consumidor.
-                                                                                                                                                                                                                  - **H5 (Mercado Pago separado):** ✅ **CONFIRMADA** — Página separada confirmada. MP: 7,9/10, 80,1% resolvidas, 7d4h resposta. ML: 7,6/10, 76,7% resolvidas, 10d15h resposta. Bifurcação Fintech (MP) vs. Marketplace (ML) no atendimento.
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ### Consistência com s1–s2e
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  | Achado RA s3a | Fonte anterior que confirma / contradiz |
-                                                                                                                                                                                                                  |---|---|
-                                                                                                                                                                                                                  | Sellers com conta suspensa sem canal de defesa (4 casos) | s1 (J.V.D.P., conta suspensa R$1.500); s2a–s2e (sellers invisíveis no discurso interno) |
-                                                                                                                                                                                                                  | IA dificulta devolução — friction design explícito | s1 (R7: captura narrativa); s2d/s2e (suporte CS com baixa estrutura) |
-                                                                                                                                                                                                                  | Mediação encerrada sem analisar provas do seller | s1 (bifurcação poder: plataforma arbitra unilateralmente) |
-                                                                                                                                                                                                                  | Mercado Pago com atendimento superior ao Marketplace | s2c (C-suite Fintech mais visível); s2d (vagas Tech/Fintech mais sênior) |
-                                                                                                                                                                                                                  | 1,1 milhão de reclamações históricas — ~800/dia | Escala confirma desproporção entre volume e capacidade de suporte |
-                                                                                                                                                                                                                  | Zero entregadores no RA | s2d/s2e: entregadores recrutados fora do RH formal, sem canal interno |
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ---
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ## PASSO 5 — SÍNTESE IDC s3a
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  | Dimensão IDC | Evidência s3a | Classificação |
-                                                                                                                                                                                                                  |---|---|---|
-                                                                                                                                                                                                                  | **Relação de poder com comprador** | IA friction design (4 casos), devolução negada (3 casos), entrega fantasma, reembolso não cumprido | **D — Poder Abusivo Sistêmico** |
-                                                                                                                                                                                                                  | **Sellers visíveis no RA** | SIM — 5/18 (28%) reclamações de sellers. 4 casos de suspensão unilateral sem canal de defesa | **CONFIRMADO — padrão de arbitragem unilateral** |
-                                                                                                                                                                                                                  | **Entregadores visíveis no RA** | NÃO — zero em 18 reclamações. Invisibilidade estrutural total | **Invisibilidade confirmada** |
-                                                                                                                                                                                                                  | **Resolução genuína vs. imagem** | Gap: 76,7% "resolvidas" vs. 6,3/10 consumidores. Definição de "resolvido" suspeita | **SUSPEITO — gerenciamento de métricas** |
-                                                                                                                                                                                                                  | **IA como friction design** | Explícito em Rec. 17: "IA para dificultar o máximo para que vc desista." Rec. 9: "pergunta boba" | **CONFIRMADO — fricção artificial sistêmica** |
-                                                                                                                                                                                                                  | **Consistência com padrão interno (s1–s2e)** | Alta em todas as dimensões: sellers invisíveis internamente = vulneráveis externamente | **SIM — consistência total** |
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  **Achado mais relevante desta sessão:**
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  O achado central é a **convergência entre dois padrões de poder abusivo**: (1) **friction design via IA** para compradores — a IA não é canal de suporte, é canal de *retenção forçada* que maximiza o custo de transação para desistir de uma devolução legítima (Rec. 17: "a plataforma adotou uma política de devoluções ridícula onde colocou uma IA para auxiliar — leia: não queremos que você devolva"); (2) **suspensão unilateral de sellers sem contraditório** — 4 casos em 18 reclamações, incluindo CNPJ com R$500k/mês paralisado por 6 meses sem atendimento humano.
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  A ironia estrutural central: a empresa que se vende como "democratizadora do comércio" concentra todo o poder de arbitragem em si mesma. O seller que "democratiza" o acesso ao mercado não tem canal de defesa quando a própria plataforma decide suspendê-lo. A IA que "facilita" a experiência do consumidor está programada para dificultar devoluções. A "Compra Garantida" não garante reembolso quando o produto é marcado como entregue sem prova.
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  Isso confirma a hipótese inicial (README): **Andaime Capturado** — MELI cria condições de crescimento para alguns (Tech, sellers de alto volume que se adequam) enquanto captura dependência estrutural de outros (sellers pequenos sem canal de defesa, compradores dependentes de IA que dificulta direitos).
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ---
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  ## Achados Inéditos s3a
-                                                                                                                                                                                                                  
-                                                                                                                                                                                                                  1. **Friction design via IA documentado pelos próprios usuários:** Rec. 17 usa exatamente o termo conceitual — consumidor descreve deliberadamente que a IA existe para "dificultar o máximo para que vc desista." Não é percepção isolada — padrão em 4/18 reclamações.
-                                                                                                                                                                                                                  2. 2. **Sellers representam 28% da amostra das mais recentes:** Muito acima do esperado — sellers são minoria do headcount (invisíveis internamente) mas majoritários em dano por arbitragem unilateral.
-                                                                                                                                                                                                                     3. 3. **Contas suspensas com impacto financeiro documentado:** R$500k/mês (Rec. 12, 6 meses), empresa de 35 anos (Rec. 10, 1ª venda), conta antes da 1ª venda (Rec. 18). Padrão de suspensão algorítmica sem revisão humana.
-                                                                                                                                                                                                                        4. 4. **Mercado Pago bifurcado mesmo no RA:** 7,9 vs 7,6, 80,1% vs 76,7%, 7d4h vs 10d15h — diferença consistente com bifurcação Tech/Fintech vs. Ops/Marketplace documentada em s1–s2e.
-                                                                                                                                                                                                                        5. **146.169 reclamações em 6 meses = ~800/dia:** Com tempo de resposta de 10d15h, o volume estrutural é incompatível com atendimento individualizado — o que justifica (mas não justifica eticamente) a substituição por IA.
-                                                                                                                                                                                                                       
-                                                                                                                                                                                                                        6. ---
-                                                                                                                                                                                                                       
-                                                                                                                                                                                                                        7. *Sessão s3a concluída em 06/03/2026. Dados coletados ao vivo do Reclame Aqui. FILA: aguardar próxima sessão conforme coordenador.*
+### Reclamação 6
+- **Score:** N/D
+- **Perfil do reclamante:** Afiliado/Parceiro (programa de afiliados ML)
+- **Data:** 10/03/2026 às 00:08
+- **Título:** Conta de afiliado banida sem justificativa e com saldo pendente
+- **ID:** 242801047
+- **Produto/serviço:** Programa de Afiliados Mercado Livre
+- **Tema central:** Bloqueio de conta + retenção de saldo sem explicação
+- **Evidência de poder abusivo?** SIM — conta banida sem motivo informado, saldo pendente retido, sem canal de recurso identificado
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "Tive minha conta de afiliado banida sem saber o motivo e com dinheiro pra receber. Quero saber como receber esse dinheiro e também se consigo retomar a minha conta."
+
+> **ACHADO H1:** Parceiro/afiliado = categoria adjacente a seller. Bloqueio sem justificativa + retenção de saldo — padrão idêntico ao caso J.V.D.P. (s1).
+
+---
+
+### Reclamação 7
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 10/03/2026 às 00:04
+- **Título:** Reembolso pendente da compra de sapato enviado errado pelo Mercado Livre
+- **ID:** 242800921
+- **Produto/serviço:** Marketplace
+- **Tema central:** Reembolso negado após devolução realizada
+- **Evidência de poder abusivo?** SIM — produto errado enviado, devolução feita em janeiro, reembolso não realizado meses depois
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "Eu comprei um sapato e veio errado. Devolvi em janeiro e até hoje o mercado livre não me devolveu o meu dinheiro. Isso é um desrespeito com o consumidor."
+
+---
+
+### Reclamação 8
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 23:53
+- **Título:** Recebi produto errado pela transportadora do Mercado Livre e o reembolso está sendo negado
+- **ID:** 242800519
+- **Produto/serviço:** Marketplace (Mercado Envios)
+- **Tema central:** Produto trocado na entrega + reembolso negado
+- **Evidência de poder abusivo?** SIM — comprou iPhone 17, recebeu mouse Dell; ML negou reembolso alegando que o consumidor precisaria provar que não trocou o produto; ônus da prova invertido para o consumidor
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "O produto recebido não correspondia ao item adquirido. No interior da embalagem havia um mouse Dell [...] A embalagem externa do Mercado Livre estava identificada com meu nome e não apresentava sinais aparentes de violação."
+
+---
+
+### Reclamação 9
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 23:53
+- **Título:** Dificuldade de Acesso à Conta Após Atualização
+- **ID:** 242800479
+- **Produto/serviço:** App/Conta
+- **Tema central:** Bloqueio de acesso à conta pós-atualização
+- **Evidência de poder abusivo?** SIM — conta suprimida após atualização do app, sem canal de suporte disponível
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "Conta suprimida na tela, eu consigo entrar mais, você fazendo uma atualização ativa os dados da conta."
+
+---
+
+### Reclamação 10
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 23:20
+- **Título:** Má fé e descaso — absurdo
+- **ID:** 242799035
+- **Produto/serviço:** Marketplace
+- **Tema central:** Produto diferente do anunciado
+- **Evidência de poder abusivo?** SIM — recebeu produto diferente do que comprou e pagou
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "Recebi produto diferente do que comprei e paguei."
+
+---
+
+### Reclamação 11
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 23:18
+- **Título:** Nebulizador com defeito e dificuldade na devolução via Mercado Livre
+- **ID:** 242798895
+- **Produto/serviço:** Marketplace
+- **Tema central:** Produto com defeito + sistema recusa devolução
+- **Evidência de poder abusivo?** SIM — sistema do ML recusa emissão de código de devolução, bloqueando direito do consumidor previsto no CDC
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "De acordo com o código de defesa do consumidor, solicitei a devolução, porém, o sistema do ML recusa-se a enviar o código."
+
+---
+
+### Reclamação 12
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 23:18
+- **Título:** Produto novo com garantia inferior a 90 dias — Desacordo com o CDC
+- **ID:** 242798875
+- **Produto/serviço:** Marketplace
+- **Tema central:** Propaganda enganosa / violação do CDC
+- **Evidência de poder abusivo?** SIM — sellers na plataforma vendem com garantia menor que a exigida pelo CDC, ML não controla
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "Vendem produto novo em desacordo com o código de defesa do consumidor! Produto novo com menos de 90 dias de garantia!"
+
+---
+
+### Reclamação 13
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 23:17
+- **Título:** Envio de produto vencido e dificuldade na devolução via Mercado Livre
+- **ID:** 242798857
+- **Produto/serviço:** Marketplace
+- **Tema central:** Produto vencido + processo de devolução projetado para desistência
+- **Evidência de poder abusivo?** SIM — produto vencido há 1,5 anos entregue; processo de devolução redesenhado com IA que delonga 2 dias antes de qualquer ação, e no final redireciona para loja parceira sem resolver. Design intencional de fricção.
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "A empresa montou uma arapuca para prejudicar o cliente. Em vez de preenchermos um formulário de devolução para recebermos instruções de postagem imediatas, agora temos que responder várias perguntas de um assistente de IA e, no final, o assistente diz que precisa de 2 dias úteis para fazer contato com a loja parceira."
+
+---
+
+### Reclamação 14
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 23:16
+- **Título:** Entrega indevida a porteiro inexistente e falta de comunicação
+- **ID:** 242798793
+- **Produto/serviço:** Mercado Envios
+- **Tema central:** Produto não entregue + status falso
+- **Evidência de poder abusivo?** SIM — sistema marca entrega como realizada ("entregou ao porteiro") para imóvel que não tem porteiro ou condomínio, sem contato com o destinatário
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "A transportadora está dizendo no aplicativo que meu pacote foi entregue a um porteiro. A entrega não chegou e eu nem moro em prédio, nem condomínio, não me ligaram, não me mandaram uma mensagem."
+
+---
+
+### Reclamação 15
+- **Score:** N/D (respondida, não avaliada)
+- **Perfil do reclamante:** Comprador
+- **Data:** 08/03/2026 às 19:27
+- **Título:** Impossibilidade de login sem reconhecimento facial compulsório
+- **ID:** 242668935
+- **Produto/serviço:** App/Conta
+- **Tema central:** Bloqueio de acesso por exigência de biometria facial obrigatória
+- **Evidência de poder abusivo?** SIM — empresa exige reconhecimento facial como único meio de acesso, sem alternativa; consumidor questiona LGPD
+- **Resposta MELI?** SIM — tom: **institucional/evasivo** — resposta padrão justificando a política, sem oferecer solução alternativa, citando LGPD defensivamente sem resolver o problema
+- **Resolvida?** NÃO (respondida mas sem solução prática)
+- **Comentário pós-resolução:** Resposta confirma que biometria é "obrigatória" — ou seja, a empresa fechou o ticket sem resolver a demanda
+- **Citação-chave (reclamante):** "EU não quero cadastrar minha facial! Me recuso a cadastrar minha face!"
+- **Citação-chave (ML):** "A validação (reconhecimento) facial é uma etapa obrigatória para acesso ao app e continuidade do uso da sua conta."
+
+---
+
+### Reclamação 16
+- **Score:** N/D (respondida, não avaliada)
+- **Perfil do reclamante:** Comprador
+- **Data:** 08/03/2026 às 19:16
+- **Título:** Estorno parcial do valor do radiador após cancelamento da compra
+- **ID:** 242668383
+- **Produto/serviço:** Marketplace
+- **Tema central:** Estorno parcial em vez de total após cancelamento solicitado pelo próprio vendedor
+- **Evidência de poder abusivo?** SIM — ML solicitou cancelamento e pediu ao cliente que cancelasse, mas devolveu apenas o valor da parcela, não o total; limite de crédito do cartão travado
+- **Resposta MELI?** SIM — tom: **evasivo** — empresa envia mensagem privada via Hugme sem resolver publicamente, pedindo para verificar caixa de spam
+- **Resolvida?** PARCIAL (encaminhado para canal privado sem evidência de resolução)
+- **Comentário pós-resolução:** Mecanismo de "resposta privada" fecha ticket sem resolução pública verificável
+- **Citação-chave:** "Pediram para eu fazer o cancelamento do produto pois eles não aceitavam a viagem expressa com ele, nisso fiz o cancelamento, mas ao invés de estornar o valor total, eles devolveram somente o valor da parcela."
+
+---
+
+### Reclamação 17
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 23:34
+- **Título:** Apreensão do produto pela fiscalização, cancelamento da compra e demora no estorno pelo ML
+- **ID:** 242799715
+- **Produto/serviço:** Marketplace
+- **Tema central:** Produto apreendido por fiscal; ML exige aguardar desfecho do vendedor antes de reembolsar comprador
+- **Evidência de poder abusivo?** SIM — consumidor não tem culpa na apreensão fiscal do vendedor; ML transfere risco do vendedor ao comprador, retendo reembolso por quase 2 meses
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "O ML vai ESTORNAR o valor em 02 de ABRIL, alegando que tenho que aguardar o desfecho do problema do comerciante junto ao Órgão de Fiscalização [...]. Absurdo, Absurdo e Absurdo."
+
+---
+
+### Reclamação 18
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 22:56
+- **Título:** Não recebimento de produto e solicitação indevida de devolução no Mercado Livre
+- **ID:** 242797693
+- **Produto/serviço:** Marketplace / Mercado Envios
+- **Tema central:** Produto não entregue + ML pede devolução de produto que o cliente não tem
+- **Evidência de poder abusivo?** SIM — produto não recebido, ML envia QR Code de devolução para item que nunca chegou (absurdo lógico); processo automatizado ignora realidade do cliente
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "Eles me mandaram um QR code falando para devolver o produto. Como vou devolver algo que não recebi?"
+
+---
+
+### Reclamação 19
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador
+- **Data:** 09/03/2026 às 22:32
+- **Título:** Produto com defeito e divergência na descrição não aceito para devolução
+- **ID:** 242796107
+- **Produto/serviço:** Marketplace
+- **Tema central:** Produto com defeito + IA recusa devolução + prazo manipulado
+- **Evidência de poder abusivo?** SIM — produto anunciado como NOVO veio com marcas de uso e defeito; IA recusa devolução alegando que "fazem mais de 2 meses da compra" (data da compra 04/03/2027 — provavelmente erro de digitação do reclamante para 04/01/2026 ou similar); algoritmo aplicado mecanicamente sem análise humana
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "A IA me negou a devolução baixando a minha reclamação dizendo que não poderia fazer nada e ao abrir uma nova tem a informação que não posso pois fazem mais de 02 meses a data da compra."
+
+---
+
+### Reclamação 20
+- **Score:** N/D
+- **Perfil do reclamante:** Comprador (vítima de seller fraudulento)
+- **Data:** 09/03/2026 às 23:48
+- **Título:** frete grátis, mas entrega demorada de um capacitor 32 uf para secadora e problemas com reconhecimento facial no Mercado Livre
+- **ID:** 242800285
+- **Produto/serviço:** Marketplace + App
+- **Tema central:** Propaganda enganosa (frete grátis = entrega lenta) + biometria facial compulsória
+- **Evidência de poder abusivo?** SIM — frete grátis implica penalidade de prazo de entrega vs. plataformas concorrentes (Amazon, Magalu, Casas Bahia) no mesmo prazo; reconhecimento facial e insistência em login Google sem alternativas
+- **Resposta MELI?** NÃO
+- **Resolvida?** NÃO
+- **Comentário pós-resolução:** N/A
+- **Citação-chave:** "Da próxima vez pagarei o que for solicitado, mas terei minha compra no mesmo prazo que recebo da Amazon, Magalu, Casas Bahia, etc."
+
+---
+
+## PASSO 4 — ANÁLISE
+
+### 4.1 Distribuição por perfil de reclamante
+
+| Perfil | Quantidade | % | Padrão de tema |
+|---|---|---|---|
+| Comprador | 17 | 85% | Reembolso negado, produto errado, acesso bloqueado, entrega falsa |
+| Entregador (parceiro logístico) | 1 | 5% | Bloqueio de conta no app Envio Logística sem recurso |
+| Afiliado/Parceiro programa ML | 1 | 5% | Conta banida + saldo retido sem justificativa |
+| Parceiro ponto de coleta | 1 | 5% | Loop burocrático sem resposta para cadastro |
+
+> **Observação:** Sellers clássicos (com loja no marketplace) não aparecem explicitamente como reclamantes nas 20 mais recentes. Aparecem INDIRETAMENTE como causadores de problemas (Loja ORION TIME, vendedor de produto vencido) — e a plataforma ML é reclamada por não coibir práticas abusivas de seus sellers. Isso significa que o seller tem poder assimétrico com o comprador DENTRO da plataforma ML, e a plataforma faz pouco para equilibrá-lo.
+
+---
+
+### 4.2 Temas mais frequentes
+
+| Tema | Frequência (nas 20) | Evidência de poder abusivo |
+|---|---|---|
+| Reembolso/estorno negado ou atrasado | 7 | SIM — frição artificial no processo de devolução/reembolso |
+| Produto não entregue / entrega falsa | 4 | SIM — status manipulado, cliente sem recurso |
+| Bloqueio de conta (comprador/afiliado/entregador) | 4 | SIM — bloqueio unilateral sem via de recurso |
+| Produto errado / com defeito | 4 | SIM — ônus da prova invertido ao consumidor |
+| Suporte inacessível / IA bloqueando devolução | 4 | SIM — design de fricção intencional |
+| Biometria facial obrigatória | 2 | SIM — coleta de dados biométricos compulsória sem alternativa |
+| Violação do CDC (garantia, propaganda) | 2 | SIM — plataforma não fiscaliza sellers |
+
+---
+
+### 4.3 Avaliação das Hipóteses
+
+**H1 — Sellers aparecem nas reclamações:** PARCIAL
+
+Sellers não aparecem como reclamantes diretos nas 20 mais recentes. Aparecem indiretamente como agentes de problemas (falsos, vencidos, defeituosos) — e a reclamação é feita contra o ML por não controlar seus vendedores. O caso do afiliado banido com saldo retido (Rec.6) é o mais próximo do padrão "seller invisível com prejuízo financeiro" documentado no caso J.V.D.P. (s1). A invisibilidade do seller no discurso interno (s1/s2) se replica aqui: quem reclama é o comprador prejudicado pelo seller, e o ML responde por nenhum dos dois. Volume histórico de "Anúncios e Classificados" (248.014 reclamações = 22% do total) indica que a categoria seller/anúncio é a mais reclamada, mesmo que não apareça explicitamente como "reclamante seller" na amostra recente.
+
+**H2 — Entregadores aparecem nas reclamações:** CONFIRMADA
+
+Reclamação 4 é de um entregador parceiro Envio Logística com conta bloqueada e impossibilidade de criar nova conta, sem canal de recurso. Padrão: invisível no RH formal (s2d/s2e), mas presente nas reclamações públicas. Bloqueio unilateral = mesmo mecanismo de poder que afeta compradores e afiliados.
+
+**H3 — Padrão de poder abusivo com compradores:** CONFIRMADA
+
+17/20 reclamações de compradores, 100% com evidência de poder abusivo. Temas dominantes: (1) frição artificial em reembolso/devolução — sistema de IA que delonga, redireciona, exige provas impossíveis; (2) status de entrega falso — "entregou ao porteiro" em imóvel sem porteiro; (3) inversão do ônus da prova — consumidor deve provar que não trocou o produto; (4) punição por contestação — devolução cancelada como punição por contestar pagamento. O paralelo com o aprisionamento de vesting interno (s1) é estrutural: frição artificial como mecanismo de poder que faz o usuário desistir de direitos legítimos.
+
+**H4 — Resolução real ou gerenciamento de imagem:** GERENCIAMENTO DE IMAGEM
+
+Das 20 reclamações, apenas 2 foram respondidas. Padrão das respostas:
+- Rec.15 (biometria facial): resposta institucional que confirma a política como "obrigatória" — fecha o ticket sem resolver o problema. Nenhuma alternativa oferecida.
+- Rec.16 (estorno parcial): empresa redireciona para canal privado (Hugme/e-mail privado), saindo do escrutínio público do RA. Tática sistemática documentada: "enviamos uma resposta privada" — remove a resolução do espaço público onde seria visível.
+
+Dados agregados corroboram: nota média avaliada = 6,3/10 (com 74,5% voltando a negociar) — alto índice de "voltaria a fazer negócio" versus nota média baixa sugere resignação e falta de alternativa, não satisfação genuína. Tempo médio de resposta = 10 dias 15 horas — lento para volume de reclamações (146.076 em 6 meses).
+
+**H5 — Mercado Pago separado — nota e padrão:** CONFIRMADA (parcialmente diferente)
+
+Mercado Pago tem página própria no RA. Nota média 7,9/10 (vs 7,6 ML) e % resolvidas 80% (vs 76,7% ML) — levemente superior. Problema #1 do Mercado Pago: cobrança indevida (25,3%) — financeiro, distinto do marketplace. Tempo de resposta menor (7d5h vs 10d15h). Porém ambas na categoria "Bom" e sem RA1000. A separação é real e relevante para o pesquisador: a vertente financeira (Pago) performa marginalmente melhor, mas o padrão de poder assimétrico é similar.
+
+---
+
+### 4.4 Consistência com s1–s2e
+
+| Achado RA | Fonte anterior que confirma |
+|---|---|
+| Entregador bloqueado sem recurso (Rec.4) | s2d/s2e: entregadores recrutados via app externo, invisíveis no RH formal |
+| Afiliado banido + saldo retido (Rec.6) | s1: J.V.D.P. — conta suspensa + prejuízo R$1.500 |
+| IA de devolução projeta fricção artificial (Rec.13) | s1: R7 — proibição de "discutir polêmicas" nos canais internos; narrativa de "democratização" não corresponde à experiência real |
+| Biometria facial obrigatória como "segurança" (Rec.15) | s1: captura narrativa — empresa usa linguagem de proteção para impor controle |
+| Resposta privada fechando ticket sem resolver (Rec.16) | s1: Andaime capturado — narrativa gerenciada; s2a: employer branding curado desconectado da realidade |
+| 98,1% respondidas + nota média 6,3/10 | s2a: Tech superrepresentada em branding — gap entre discurso e realidade |
+| Sellers invisíveis como reclamantes diretos | s1/s2a-e: sellers completamente invisíveis no discurso interno |
+
+---
+
+## PASSO 5 — SÍNTESE IDC s3a
+
+| Dimensão IDC | Evidência s3a | Classificação |
+|---|---|---|
+| Relação de poder com cliente | Bloqueio unilateral de conta, frição artificial em reembolso, inversão do ônus da prova, IA como barreira de acesso a direitos | PODER ABUSIVO |
+| Sellers visíveis/invisíveis | Invisíveis como reclamantes diretos; aparecem indiretamente como causadores, ML não os fiscaliza; Anúncios e Classificados = categoria #1 de reclamações (248k) | INVISÍVEIS como sujeitos de proteção |
+| Entregadores visíveis/invisíveis | Aparecem nas reclamações como vítimas de bloqueio unilateral sem canal de recurso | INVISÍVEIS no RH; VISÍVEIS no dano |
+| Resolução genuína vs. imagem | 98,1% respondidas, nota média 6,3/10, resposta privada como tática de fechamento de ticket fora do escrutínio público | GERENCIAMENTO DE IMAGEM |
+| Consistência com padrão interno (s1–s2e) | Padrão idêntico: captura narrativa, poder assimétrico, invisibilidade dos vulneráveis, resolução performática | ALTAMENTE CONSISTENTE |
+
+---
+
+## ACHADO MAIS RELEVANTE DA SESSÃO
+
+**O processo de devolução foi redesenhado como um mecanismo de frição intencional** (Rec.13, 11, 5, 19): em vez de formulário direto, o usuário é submetido a um assistente de IA que delonga 2 dias úteis antes de qualquer ação, redireciona para a loja parceira, e aplica prazos mecanicamente sem análise humana. O reclamante chama isso de "arapuca". Este design não é acidental — é a arquitetura de poder da empresa materializada na experiência do consumidor. O paralelo com o aprisionamento de vesting interno (s1) é estrutural: a frição artificial serve para que o usuário desista de direitos legítimos sem que a empresa precise negá-los explicitamente.
+
+**Dado-síntese:** O Mercado Livre ganhou o Prêmio ReclameAQUI 2025 na sua categoria e tem 98,1% de reclamações respondidas — mas a nota média de quem avaliou é 6,3/10, e o tema mais recorrente em 1,1 milhão de reclamações é "estorno do valor pago" (125.492 casos). A empresa está a 22ª no ranking do seu próprio segmento. A narrativa de "melhor empresa" coexiste com evidência massiva de poder abusivo com quem tem menos poder que ela. Padrão idêntico ao documentado em s1 (Glassdoor) e s2a–s2e (LinkedIn): andaime narrativo capturado, realidade operacional bifurcada.
+
+---
+
+*Coleta realizada em 10/03/2026 · URLs verificadas · Dados: Reclame Aqui (reclameaqui.com.br)*
