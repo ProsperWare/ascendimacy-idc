@@ -87,14 +87,4 @@ ___
 Recrutadores têm tenure longo (captura) ou curto (alta rotatividade)?
 ___
 
----
-
-## COMMITAR
-
-**URL:** `http://localhost:8765`
-**Arquivo destino:** `empresas/google-brasil/s2e_linkedin_recrutadores.md`
-**Commit message:** `coleta: google-brasil/s2e_linkedin_recrutadores`
-
----
-
 *Sessão 2E · IDC Google Brasil · LinkedIn Recrutadores · ~30 min*

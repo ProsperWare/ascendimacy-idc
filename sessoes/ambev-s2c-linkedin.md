@@ -163,16 +163,3 @@ Mapear **quem lidera a Ambev Brasil** pelo LinkedIn — identificar se a lideran
 *Referência: s1 + s2a + s2b · Ambev · Veredito: TETO PERFORMÁTICO*
 *Caso-âncora s2b: Robinson D. (15a6m Op. Produção → ManpowerGroup) vs Halef S. (10m trainee → iFood + INSEAD)*
 
----
-
-## PASSO FINAL — ENTREGA
-
-Quando a análise estiver completa, entregue o markdown preenchido via formulário:
-
-**URL:** `http://macproale.fox-escalator.ts.net:8765`
-
-- **Sessão:** `ambev-s2c`
-- **Empresa:** `Ambev`
-- **Conteúdo:** cole o markdown completo desta sessão preenchida
-
-O pesquisador cuida do commit e da publicação.

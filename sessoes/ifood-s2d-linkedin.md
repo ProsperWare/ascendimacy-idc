@@ -141,16 +141,3 @@ Selecionar:
 *Referência: s1 + s2a + s2b + s2c · iFood · Veredito acumulado: ANDAIME CAPTURADO BIFURCADO*
 *Contexto s2c: CEO=advogado-financista (tech narrativo), CTO=Movile (tech silencioso), Driver Experience Director EXTINTO*
 
----
-
-## PASSO FINAL — ENTREGA
-
-Quando a análise estiver completa, entregue o markdown preenchido via formulário:
-
-**URL:** `http://macproale.fox-escalator.ts.net:8765`
-
-- **Sessão:** `ifood-s2d`
-- **Empresa:** `iFood`
-- **Conteúdo:** cole o markdown completo desta sessão preenchida
-
-O pesquisador cuida do commit e da publicação.

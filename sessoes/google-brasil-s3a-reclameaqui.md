@@ -133,14 +133,4 @@ Para cada reclamação registre:
 - H4 (Resolução performática): ___
 - H5 (Play: devs bloqueados): ___
 
----
-
-## COMMITAR
-
-**URL:** `http://localhost:8765`
-**Arquivo destino:** `empresas/google-brasil/s3a_reclameaqui.md`
-**Commit message:** `coleta: google-brasil/s3a_reclameaqui`
-
----
-
 *Sessão 3A · IDC Google Brasil · Reclame Aqui · ~30 min*

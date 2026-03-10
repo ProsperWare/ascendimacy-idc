@@ -126,16 +126,3 @@ Para cada perfil: cargo, seguidores, últimos 3 posts (tema, tom, engajamento), 
 **Veredito s2b:** ___
 **Achado mais relevante:** ___
 
----
-
-## PASSO FINAL — ENTREGA
-
-Quando a análise estiver completa, entregue o markdown preenchido via formulário:
-
-**URL:** `http://macproale.fox-escalator.ts.net:8765`
-
-- **Sessão:** `petrobras-s2b`
-- **Empresa:** `Petrobras`
-- **Conteúdo:** cole o markdown completo desta sessão preenchida
-
-O pesquisador cuida do commit e da publicação.

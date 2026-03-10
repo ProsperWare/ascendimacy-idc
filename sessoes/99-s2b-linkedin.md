@@ -228,16 +228,3 @@ Mapear onde **ex-colaboradores CLT da 99** foram trabalhar após sair — verifi
 *Referência: s1 + s2a · 99 (DiDi Brasil) · Veredito provisório: ANDAIME MODERADO COM COLONIALISMO VISÍVEL*
 *Contexto-chave: "Zero autonomia e ambiente altamente tóxico" (R31) vs. "autonomia para tomar decisões" (texto Sobre LinkedIn)*
 
----
-
-## PASSO FINAL — ENTREGA
-
-Quando a análise estiver completa, entregue o markdown preenchido via formulário:
-
-**URL:** `http://macproale.fox-escalator.ts.net:8765`
-
-- **Sessão:** `99-s2b`
-- **Empresa:** `99`
-- **Conteúdo:** cole o markdown completo desta sessão preenchida
-
-O pesquisador cuida do commit e da publicação.

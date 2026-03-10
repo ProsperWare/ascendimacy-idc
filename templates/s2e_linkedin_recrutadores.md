@@ -7,7 +7,7 @@
 
 ## SUA TAREFA
 
-Analise 3-5 recrutadores de [NOME_EMPRESA] no LinkedIn. Ao final, commite no GitHub.
+Analise 3-5 recrutadores de [NOME_EMPRESA] no LinkedIn.
 
 ---
 
@@ -63,27 +63,5 @@ Após os 3-5 perfis:
 - Rotatividade de recrutadores: ALTA / MÉDIA / BAIXA
 - Classificação: AGENTES DE CAPTURA / AGENTES DE TRANSPARÊNCIA / MISTO / INCONCLUSIVO
 - Observações: ___
-
----
-
-## COMMITAR
-
-GitHub: `empresas/[SLUG_EMPRESA]/s2e_linkedin_recrutadores.md`
-Commit message: `coleta: [SLUG_EMPRESA]/s2e_linkedin_recrutadores`
-
----
-
-## PASSO 6 — VERIFICAR ATUALIZAÇÃO AUTOMÁTICA
-
-Após o commit, o GitHub Actions atualiza `progresso.md` automaticamente.
-
-1. Acesse: https://github.com/ProsperWare/ascendimacy-idc/actions
-2. Confirme que o workflow **"Atualizar Progresso IDC"** rodou com ✅
-3. Verifique que `s2e[x]` aparece na linha da empresa em `progresso.md`
-
-Se o workflow não rodar em 2 minutos, acione manualmente:
-- Aba Actions → "Atualizar Progresso IDC" → **Run workflow**
-
----
 
 *Sessão 2E · IDC [NOME_EMPRESA] · LinkedIn Recrutadores · ~10 min*

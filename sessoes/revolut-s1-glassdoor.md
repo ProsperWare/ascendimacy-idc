@@ -5,7 +5,7 @@
 
 ## SUA TAREFA
 
-Navegue até o Glassdoor da Revolut (UK/global), colete os dados agregados e analise as 30 reviews mais recentes. Ao final, commite o resultado no GitHub.
+Navegue até o Glassdoor da Revolut (UK/global), colete os dados agregados e analise as 30 reviews mais recentes.
 
 ---
 
@@ -128,17 +128,5 @@ Após as 30 reviews:
 1. "___"
 2. "___"
 3. "___"
-
----
-
-## PASSO 5 — COMMITAR NO GITHUB
-
-Copie o conteúdo preenchido e envie para o servidor de coleta:
-
-**URL:** `http://localhost:8765`
-**Arquivo destino:** `empresas/revolut/s1_glassdoor.md`
-**Commit message:** `coleta: revolut/s1_glassdoor`
-
----
 
 *Sessão 1 · IDC Revolut (Sede) · Glassdoor UK · ~45 min*

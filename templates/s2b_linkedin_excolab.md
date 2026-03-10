@@ -7,7 +7,7 @@
 
 ## SUA TAREFA
 
-Analise 15 perfis de ex-colaboradores de [NOME_EMPRESA] no LinkedIn. Ao final, commite no GitHub.
+Analise 15 perfis de ex-colaboradores de [NOME_EMPRESA] no LinkedIn.
 
 ---
 
@@ -65,27 +65,5 @@ Após os 15 perfis:
 - Se SIM: ___
 
 **DESTINOS RECORRENTES (empresas que mais aparecem):** ___
-
----
-
-## COMMITAR
-
-GitHub: `empresas/[SLUG_EMPRESA]/s2b_linkedin_excolab.md`
-Commit message: `coleta: [SLUG_EMPRESA]/s2b_linkedin_excolab`
-
----
-
-## PASSO 6 — VERIFICAR ATUALIZAÇÃO AUTOMÁTICA
-
-Após o commit, o GitHub Actions atualiza `progresso.md` automaticamente.
-
-1. Acesse: https://github.com/ProsperWare/ascendimacy-idc/actions
-2. Confirme que o workflow **"Atualizar Progresso IDC"** rodou com ✅
-3. Verifique que `s2b[x]` aparece na linha da empresa em `progresso.md`
-
-Se o workflow não rodar em 2 minutos, acione manualmente:
-- Aba Actions → "Atualizar Progresso IDC" → **Run workflow**
-
----
 
 *Sessão 2B · IDC [NOME_EMPRESA] · LinkedIn Ex-Colaboradores · ~15 min*

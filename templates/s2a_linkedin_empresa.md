@@ -7,7 +7,7 @@
 
 ## SUA TAREFA
 
-Navegue até a página da [NOME_EMPRESA] no LinkedIn e colete dados institucionais. Ao final, commite no GitHub.
+Navegue até a página da [NOME_EMPRESA] no LinkedIn e colete dados institucionais.
 
 ---
 
@@ -47,27 +47,5 @@ URL: https://www.linkedin.com/company/[LINKEDIN_SLUG]/
   1. Tema: ___ · Engajamento: ___
   2. Tema: ___ · Engajamento: ___
   3. Tema: ___ · Engajamento: ___
-
----
-
-## COMMITAR
-
-GitHub: `empresas/[SLUG_EMPRESA]/s2a_linkedin_empresa.md`
-Commit message: `coleta: [SLUG_EMPRESA]/s2a_linkedin_empresa`
-
----
-
-## PASSO 6 — VERIFICAR ATUALIZAÇÃO AUTOMÁTICA
-
-Após o commit, o GitHub Actions atualiza `progresso.md` automaticamente.
-
-1. Acesse: https://github.com/ProsperWare/ascendimacy-idc/actions
-2. Confirme que o workflow **"Atualizar Progresso IDC"** rodou com ✅
-3. Verifique que `s2a[x]` aparece na linha da empresa em `progresso.md`
-
-Se o workflow não rodar em 2 minutos, acione manualmente:
-- Aba Actions → "Atualizar Progresso IDC" → **Run workflow**
-
----
 
 *Sessão 2A · IDC [NOME_EMPRESA] · LinkedIn Empresa · ~10 min*

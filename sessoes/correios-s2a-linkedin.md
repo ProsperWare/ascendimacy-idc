@@ -132,16 +132,3 @@ Para cada post registrar:
 *URL LinkedIn esperada: linkedin.com/company/correios (verificar slug correto)*
 *Citação de ancoragem: "Estabilidade no seu cargo. Estagnação em sua área de formação." (Analista Pleno, 10+ anos)*
 
----
-
-## PASSO FINAL — ENTREGA
-
-Quando a análise estiver completa, entregue o markdown preenchido via formulário:
-
-**URL:** `http://macproale.fox-escalator.ts.net:8765`
-
-- **Sessão:** `correios-s2a`
-- **Empresa:** `Correios`
-- **Conteúdo:** cole o markdown completo desta sessão preenchida
-
-O pesquisador cuida do commit e da publicação.

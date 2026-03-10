@@ -124,16 +124,3 @@ LinkedIn: buscar **"99app"** ou **"99 Tecnologia"** → identificar página ofic
 **Veredito s2a 99:** ___
 **Achado mais relevante:** ___
 
----
-
-## PASSO FINAL — ENTREGA
-
-Quando a análise estiver completa, entregue o markdown preenchido via formulário:
-
-**URL:** `http://macproale.fox-escalator.ts.net:8765`
-
-- **Sessão:** `99-s2a`
-- **Empresa:** `99`
-- **Conteúdo:** cole o markdown completo desta sessão preenchida
-
-O pesquisador cuida do commit e da publicação.

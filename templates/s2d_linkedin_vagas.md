@@ -7,7 +7,7 @@
 
 ## SUA TAREFA
 
-Analise 10 vagas abertas de [NOME_EMPRESA] no LinkedIn. Ao final, commite no GitHub.
+Analise 10 vagas abertas de [NOME_EMPRESA] no LinkedIn.
 
 ---
 
@@ -52,27 +52,5 @@ Após as 10 vagas:
 - Diferença de tom tech vs. operações? SIM / NÃO
   - Se SIM: ___
 - Benefícios mais mencionados: ___
-
----
-
-## COMMITAR
-
-GitHub: `empresas/[SLUG_EMPRESA]/s2d_linkedin_vagas.md`
-Commit message: `coleta: [SLUG_EMPRESA]/s2d_linkedin_vagas`
-
----
-
-## PASSO 6 — VERIFICAR ATUALIZAÇÃO AUTOMÁTICA
-
-Após o commit, o GitHub Actions atualiza `progresso.md` automaticamente.
-
-1. Acesse: https://github.com/ProsperWare/ascendimacy-idc/actions
-2. Confirme que o workflow **"Atualizar Progresso IDC"** rodou com ✅
-3. Verifique que `s2d[x]` aparece na linha da empresa em `progresso.md`
-
-Se o workflow não rodar em 2 minutos, acione manualmente:
-- Aba Actions → "Atualizar Progresso IDC" → **Run workflow**
-
----
 
 *Sessão 2D · IDC [NOME_EMPRESA] · LinkedIn Vagas · ~10 min*

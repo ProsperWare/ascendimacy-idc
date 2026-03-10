@@ -190,26 +190,4 @@ ___
 | I4 — Ausência de horas extras sistêmicas | /8 | 8 | |
 | **Total D5** | **/30** | **30** | |
 
----
-
-## COMMITAR
-
-Copie o conteúdo preenchido e envie para o servidor de coleta:
-
-**URL:** `http://localhost:8765`
-**Arquivo destino:** `empresas/mercado-livre/s3b_jusbrasil.md`
-**Commit message:** `coleta: mercado-livre/s3b_jusbrasil`
-
----
-
-## VERIFICAR ATUALIZAÇÃO AUTOMÁTICA
-
-Após o commit, o GitHub Actions atualiza `progresso.md` automaticamente.
-
-1. Acesse: https://github.com/ProsperWare/ascendimacy-idc/actions
-2. Confirme que o workflow **"Atualizar Progresso IDC"** rodou com ✅
-3. Verifique que `s3b[x]` aparece na linha do MERCADO LIVRE em `progresso.md`
-
----
-
 *Sessão 3B · IDC Mercado Livre · Jusbrasil · ~30 min*

@@ -166,22 +166,6 @@ Para cada perfil identificado, registrar:
 **Achado mais relevante desta sessão:** [parágrafo]
 ```
 
----
-
-## PASSO FINAL — ENTREGA
-
-Quando a análise estiver completa, entregue o markdown preenchido via formulário:
-
-**URL:** `http://macproale.fox-escalator.ts.net:8765`
-
-- **Sessão:** `uber-s2c`
-- **Empresa:** `Uber`
-- **Conteúdo:** cole o markdown completo desta sessão preenchida
-
-O pesquisador cuida do commit e da publicação.
-
----
-
 *Briefing preparado pelo agente Copilot · IDC Ascendimacy · 06/03/2026*
 *Referência: s2a + s2b · Uber Brasil · Status IDC: sem s1 Glassdoor*
 *s2b: Pipeline ops→ecossistema BR confirmado; H4 Silvia Penna permanece aberta*

@@ -115,14 +115,4 @@ ___
 Alguma vaga menciona "growth", "expansion", "rebuild"?
 ___
 
----
-
-## COMMITAR
-
-**URL:** `http://localhost:8765`
-**Arquivo destino:** `empresas/google-brasil/s2d_linkedin_vagas.md`
-**Commit message:** `coleta: google-brasil/s2d_linkedin_vagas`
-
----
-
 *Sessão 2D · IDC Google Brasil · LinkedIn Vagas · ~30 min*

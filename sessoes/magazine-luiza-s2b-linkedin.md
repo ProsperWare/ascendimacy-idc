@@ -170,16 +170,3 @@ Mapear **ex-colaboradores Magazine Luiza no LinkedIn** — verificar se a bifurc
 *Referência: s1 + s2a · Magazine Luiza · Veredito: GAIOLA DOURADA BIFURCADA*
 *Contexto-chave: "Venda bem e ganhe bem. Venda mal e ganhe mal." — naturalização do teto em call center Franca*
 
----
-
-## PASSO FINAL — ENTREGA
-
-Quando a análise estiver completa, entregue o markdown preenchido via formulário:
-
-**URL:** `http://macproale.fox-escalator.ts.net:8765`
-
-- **Sessão:** `magazine-luiza-s2b`
-- **Empresa:** `Magazine Luiza`
-- **Conteúdo:** cole o markdown completo desta sessão preenchida
-
-O pesquisador cuida do commit e da publicação.
