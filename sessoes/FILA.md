@@ -38,7 +38,6 @@
 | Magazine Luiza | s2b | LinkedIn · Ex-colaboradores | `IDC · Magalu · s2b` | [magazine-luiza-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/magazine-luiza-s2b-linkedin.md) |
 | Petrobras | s2b | LinkedIn · Liderança | `IDC · Petrobras · s2b` | [petrobras-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/petrobras-s2b-linkedin.md) |
 | 99 (DiDi BR) | s2b | LinkedIn · Ex-colaboradores | `IDC · 99 · s2b` | [99-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/99-s2b-linkedin.md) |
-| Mercado Livre | s3b | Jusbrasil | `IDC · ML · s3b` | [mercado-livre-s3b-jusbrasil.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/mercado-livre-s3b-jusbrasil.md) |
 | Revolut (sede) | s1 | Glassdoor UK | `IDC · Revolut · s1` | [revolut-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/revolut-s1-glassdoor.md) |
 | Square (sede) | s1 | Glassdoor US | `IDC · Square · s1` | [square-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/square-s1-glassdoor.md) |
 | HSBC (sede) | s1 | Glassdoor UK | `IDC · HSBC · s1` | [hsbc-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/hsbc-s1-glassdoor.md) |
@@ -91,13 +90,6 @@ Leia o arquivo completo e execute cada passo conforme descrito.
  `
 Pesquisa IDC -- 99 s2b (LinkedIn · Ex-colaboradores).
 Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/99-s2b-linkedin.md
-Leia o arquivo completo e execute cada passo conforme descrito.
- `
-
-### Mercado Livre — s3b (Jusbrasil)
- `
-Pesquisa IDC -- Mercado Livre s3b (Jusbrasil · Processos Trabalhistas).
-Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/mercado-livre-s3b-jusbrasil.md
 Leia o arquivo completo e execute cada passo conforme descrito.
  `
 
