@@ -202,6 +202,22 @@ de orientar o agente de campo a entregar coletas.
 | Mercado Livre | `empresas/mercado-livre/` |
 | Porto Seguro | `empresas/porto-seguro/` |
 | Magazine Luiza | `empresas/magazine-luiza/` |
+| Revolut (sede) | `empresas/revolut/` |
+| Square / Block (sede) | `empresas/square/` |
+| HSBC (sede) | `empresas/hsbc/` |
+| HSBC Brasil | `empresas/hsbc-brasil/` |
+
+### Empresas internacionais (SEDE)
+
+Para empresas com tag **(SEDE)**, as fontes s3a/s3b são adaptadas:
+
+| Sessão BR | Sessão SEDE |
+|---|---|
+| s3a — Reclame Aqui | s3a — Trustpilot / equivalente |
+| s3b — Jusbrasil | s3b — Employment Tribunal / equivalente |
+| s3c — Investor Relations | s3c — SEC / FCA / IR global |
+
+As sessões s1 (Glassdoor) e s2a-e (LinkedIn) seguem o mesmo formato, usando as páginas globais.
 
 ---
 

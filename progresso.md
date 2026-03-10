@@ -11,7 +11,7 @@ NUBANK             s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x]
 ITAU               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
 GOOGLE BRASIL      s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 PETROBRAS          s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-PORTO SEGURO       s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+PORTO SEGURO       s1[x] s2a[x] s2b[x] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 MAGAZINE LUIZA     s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 IFOOD              s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 WEG                s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
@@ -19,11 +19,16 @@ AMBEV              s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_]
 CORREIOS           s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 MCKINSEY BRASIL    s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 UBER               s1[_] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-99                 s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+99                 s1[_] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+REVOLUT (SEDE)     s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+SQUARE (SEDE)      s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+HSBC (SEDE)        s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+HSBC BRASIL        s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 
 Legenda: [x] = commitado  [~] = parcial  [_] = pendente
+         SEDE = fontes internacionais (Glassdoor US/UK, Trustpilot, Employment Tribunal, SEC/FCA)
 
-Empresas ativas: 14
+Empresas ativas: 18
 Empresas com coleta completa (9/9 - inclui s2a-s2e): 3
 Empresas com sintese pronta: 3
 Analise cruzada disponivel: SIM
@@ -77,6 +82,10 @@ Analise cruzada disponivel: SIM
 | 2026-03-10 | Porto Seguro | s2c - LinkedIn: Lideranca | commitado |
 | 2026-03-10 | Google Brasil | s2c - LinkedIn: Lideranca | commitado |
 | 2026-03-10 | Mercado Livre | s3a - Reclame Aqui (rewrite limpo) | commitado |
+| 2026-03-10 | Revolut (sede) | adicionada ao pipeline | pendente |
+| 2026-03-10 | Square (sede) | adicionada ao pipeline | pendente |
+| 2026-03-10 | HSBC (sede) | adicionada ao pipeline | pendente |
+| 2026-03-10 | HSBC Brasil | adicionada ao pipeline | pendente |
 
 ---
 
