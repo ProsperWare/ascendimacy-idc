@@ -1,0 +1,5 @@
+# Coletas já processadas ficam no disco mas fora do tracking
+incoming/
+
+# Credenciais do servidor
+coleta-server/.env
