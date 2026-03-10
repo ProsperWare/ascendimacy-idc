@@ -40,6 +40,10 @@
 | 99 (DiDi BR) | s2b | LinkedIn · Ex-colaboradores | `IDC · 99 · s2b` | [99-s2b-linkedin.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/99-s2b-linkedin.md) |
 | Mercado Livre | s3b | Jusbrasil | `IDC · ML · s3b` | [mercado-livre-s3b-jusbrasil.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/mercado-livre-s3b-jusbrasil.md) |
 | Mercado Livre | s3c | Investor Relations | `IDC · ML · s3c` | [mercado-livre-s3c-investorrelations.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/mercado-livre-s3c-investorrelations.md) |
+| Revolut (sede) | s1 | Glassdoor UK | `IDC · Revolut · s1` | [revolut-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/revolut-s1-glassdoor.md) |
+| Square (sede) | s1 | Glassdoor US | `IDC · Square · s1` | [square-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/square-s1-glassdoor.md) |
+| HSBC (sede) | s1 | Glassdoor UK | `IDC · HSBC · s1` | [hsbc-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/hsbc-s1-glassdoor.md) |
+| HSBC Brasil | s1 | Glassdoor BR | `IDC · HSBC BR · s1` | [hsbc-brasil-s1-glassdoor.md](https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/hsbc-brasil-s1-glassdoor.md) |
 
 ---
 
@@ -100,5 +104,33 @@ Leia o arquivo completo e execute cada passo conforme descrito.
  `
 Pesquisa IDC -- Mercado Livre s3c (Investor Relations).
 Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/mercado-livre-s3c-investorrelations.md
+Leia o arquivo completo e execute cada passo conforme descrito.
+ `
+
+### Revolut (sede)
+ `
+Pesquisa IDC -- Revolut s1 (Glassdoor UK).
+Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/revolut-s1-glassdoor.md
+Leia o arquivo completo e execute cada passo conforme descrito.
+ `
+
+### Square / Block (sede)
+ `
+Pesquisa IDC -- Square/Block s1 (Glassdoor US).
+Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/square-s1-glassdoor.md
+Leia o arquivo completo e execute cada passo conforme descrito.
+ `
+
+### HSBC (sede global)
+ `
+Pesquisa IDC -- HSBC s1 (Glassdoor UK).
+Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/hsbc-s1-glassdoor.md
+Leia o arquivo completo e execute cada passo conforme descrito.
+ `
+
+### HSBC Brasil
+ `
+Pesquisa IDC -- HSBC Brasil s1 (Glassdoor BR).
+Acesse o briefing: https://raw.githubusercontent.com/ProsperWare/ascendimacy-idc/master/sessoes/hsbc-brasil-s1-glassdoor.md
 Leia o arquivo completo e execute cada passo conforme descrito.
  `
