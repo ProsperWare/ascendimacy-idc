@@ -11,7 +11,7 @@ NUBANK             s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x]
 ITAU               s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
 GOOGLE BRASIL      s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 PETROBRAS          s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-PORTO SEGURO       s1[x] s2a[x] s2b[x] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+PORTO SEGURO       s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 MAGAZINE LUIZA     s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 IFOOD              s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 WEG                s1[x] s2a[x] s2b[x] s2c[x] s2d[x] s2e[x] s3a[x] s3b[x] s3c[x] sintese[x]
@@ -19,7 +19,7 @@ AMBEV              s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_]
 CORREIOS           s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 MCKINSEY BRASIL    s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 UBER               s1[_] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-99                 s1[_] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+99                 s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 
 Legenda: [x] = commitado  [~] = parcial  [_] = pendente
 
@@ -75,6 +75,10 @@ Analise cruzada disponivel: SIM
 | 2026-03-09 | 99 (DiDi BR) | s2a - LinkedIn: Empresa | coleta commitada |
 | 2026-03-10 | 99 (DiDi BR) | s2a - LinkedIn: Empresa (patch) | atualizado com dados 10/03 |
 | 2026-03-10 | Porto Seguro | s2c - LinkedIn: Lideranca | commitado |
+
+---
+
+*progresso.md - IDC Ascendimacy*
 
 ---
 
