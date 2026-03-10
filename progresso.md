@@ -1,4 +1,4 @@
-# Progresso IDC
+﻿# Progresso IDC
 ## Ultima atualizacao: 2026-03-10 (GitHub Actions)
 
 ---
@@ -73,66 +73,6 @@ Analise cruzada disponivel: SIM
 | 2026-03-06 | Porto Seguro | s2c briefing - LinkedIn: Lideranca | commitado |
 | 2026-03-06 | McKinsey Brasil | s2c - LinkedIn: Lideranca | coleta commitada |
 | 2026-03-09 | 99 (DiDi BR) | s2a - LinkedIn: Empresa | coleta commitada |
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
-
----
-
-*progresso.md - IDC Ascendimacy*
 
 ---
 
