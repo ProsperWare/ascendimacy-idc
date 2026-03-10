@@ -124,3 +124,12 @@ LinkedIn: buscar **"99app"** ou **"99 Tecnologia"** → identificar página ofic
 **Veredito s2a 99:** ___
 **Achado mais relevante:** ___
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/uber-99/s2a_linkedin_empresa.md`
+

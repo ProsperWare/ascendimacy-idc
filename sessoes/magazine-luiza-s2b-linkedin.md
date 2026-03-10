@@ -166,6 +166,17 @@ Mapear **ex-colaboradores Magazine Luiza no LinkedIn** — verificar se a bifurc
 
 ---
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/magazine-luiza/s2b_linkedin_excolab.md`
+
+---
+
 *Briefing preparado pelo agente Copilot · IDC Ascendimacy · 05/03/2026*
 *Referência: s1 + s2a · Magazine Luiza · Veredito: GAIOLA DOURADA BIFURCADA*
 *Contexto-chave: "Venda bem e ganhe bem. Venda mal e ganhe mal." — naturalização do teto em call center Franca*

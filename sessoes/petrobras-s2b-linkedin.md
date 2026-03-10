@@ -126,3 +126,12 @@ Para cada perfil: cargo, seguidores, últimos 3 posts (tema, tom, engajamento), 
 **Veredito s2b:** ___
 **Achado mais relevante:** ___
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/petrobras/s2b_linkedin_lideranca.md`
+

@@ -98,4 +98,15 @@ ___
 
 ---
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/<EMPRESA>/s3a_reclameaqui.md`
+
+---
+
 *s3a_reclameaqui.md · IDC [NOME_EMPRESA] · Ascendimacy*

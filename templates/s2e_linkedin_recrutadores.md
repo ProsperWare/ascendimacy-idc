@@ -64,4 +64,15 @@ Após os 3-5 perfis:
 - Classificação: AGENTES DE CAPTURA / AGENTES DE TRANSPARÊNCIA / MISTO / INCONCLUSIVO
 - Observações: ___
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/<EMPRESA>/s2e_linkedin_recrutadores.md`
+
+---
+
 *Sessão 2E · IDC [NOME_EMPRESA] · LinkedIn Recrutadores · ~10 min*

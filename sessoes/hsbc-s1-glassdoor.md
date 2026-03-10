@@ -135,4 +135,15 @@ Após as 30 reviews:
 2. "___"
 3. "___"
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/hsbc/s1_glassdoor.md`
+
+---
+
 *Sessão 1 · IDC HSBC (Sede Global) · Glassdoor UK · ~45 min*

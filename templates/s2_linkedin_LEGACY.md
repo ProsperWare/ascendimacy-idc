@@ -135,4 +135,15 @@ ___
 
 ---
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/<EMPRESA>/s2_linkedin.md`
+
+---
+
 *s2_linkedin.md · IDC [NOME_EMPRESA] · Ascendimacy*

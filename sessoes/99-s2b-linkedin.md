@@ -224,6 +224,17 @@ Mapear onde **ex-colaboradores CLT da 99** foram trabalhar após sair — verifi
 
 ---
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/uber-99/s2b_linkedin_excolab.md`
+
+---
+
 *Briefing preparado pelo agente Coordenador · IDC Ascendimacy · 10/03/2026*
 *Referência: s1 + s2a · 99 (DiDi Brasil) · Veredito provisório: ANDAIME MODERADO COM COLONIALISMO VISÍVEL*
 *Contexto-chave: "Zero autonomia e ambiente altamente tóxico" (R31) vs. "autonomia para tomar decisões" (texto Sobre LinkedIn)*

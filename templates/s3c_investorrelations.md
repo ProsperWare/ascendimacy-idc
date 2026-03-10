@@ -125,4 +125,15 @@ ___
 
 ---
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/<EMPRESA>/s3c_investorrelations.md`
+
+---
+
 *s3c_investorrelations.md · IDC [NOME_EMPRESA] · Ascendimacy*

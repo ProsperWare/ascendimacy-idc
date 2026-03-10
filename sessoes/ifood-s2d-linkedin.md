@@ -137,6 +137,17 @@ Selecionar:
 
 ---
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/ifood/s2d_linkedin_vagas.md`
+
+---
+
 *Briefing preparado pelo agente Copilot · IDC Ascendimacy · 05/03/2026*
 *Referência: s1 + s2a + s2b + s2c · iFood · Veredito acumulado: ANDAIME CAPTURADO BIFURCADO*
 *Contexto s2c: CEO=advogado-financista (tech narrativo), CTO=Movile (tech silencioso), Driver Experience Director EXTINTO*

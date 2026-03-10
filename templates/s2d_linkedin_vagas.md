@@ -53,4 +53,15 @@ Após as 10 vagas:
   - Se SIM: ___
 - Benefícios mais mencionados: ___
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/<EMPRESA>/s2d_linkedin_vagas.md`
+
+---
+
 *Sessão 2D · IDC [NOME_EMPRESA] · LinkedIn Vagas · ~10 min*

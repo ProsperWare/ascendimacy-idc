@@ -50,4 +50,15 @@ Após os perfis:
 - Padrão geral: VOZES DIVERSAS / PORTA-VOZES ALINHADOS / MISTO
 - O CEO publica? SIM / NÃO → tom: ___
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/<EMPRESA>/s2c_linkedin_lideranca.md`
+
+---
+
 *Sessão 2C · IDC [NOME_EMPRESA] · LinkedIn Liderança · ~10 min*

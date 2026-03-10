@@ -66,4 +66,15 @@ Após os 15 perfis:
 
 **DESTINOS RECORRENTES (empresas que mais aparecem):** ___
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/<EMPRESA>/s2b_linkedin_excolab.md`
+
+---
+
 *Sessão 2B · IDC [NOME_EMPRESA] · LinkedIn Ex-Colaboradores · ~15 min*

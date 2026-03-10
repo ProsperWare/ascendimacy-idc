@@ -190,4 +190,15 @@ ___
 | I4 — Ausência de horas extras sistêmicas | /8 | 8 | |
 | **Total D5** | **/30** | **30** | |
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/mercado-livre/s3b_jusbrasil.md`
+
+---
+
 *Sessão 3B · IDC Mercado Livre · Jusbrasil · ~30 min*

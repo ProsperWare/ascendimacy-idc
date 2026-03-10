@@ -127,6 +127,17 @@ Para cada post registrar:
 
 ---
 
+---
+
+## ARMAZENAR
+
+Copie o conteúdo preenchido e envie para o servidor de coleta:
+
+**URL:** `http://macproale.fox-escalator.ts.net:8765/`
+**Arquivo destino:** `empresas/correios/s2a_linkedin_empresa.md`
+
+---
+
 *Briefing preparado pelo agente Copilot · IDC Ascendimacy · 05/03/2026*
 *Referência: empresas/correios/s1_glassdoor.md · Veredito: BENEVOLENTE APRISIONADOR ESTATAL*
 *URL LinkedIn esperada: linkedin.com/company/correios (verificar slug correto)*
