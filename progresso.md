@@ -1,4 +1,4 @@
-﻿# Progresso IDC
+# Progresso IDC
 ## Ultima atualizacao: 2026-03-10 (GitHub Actions)
 
 ---
@@ -19,7 +19,7 @@ AMBEV              s1[x] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_]
 CORREIOS           s1[x] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 MCKINSEY BRASIL    s1[x] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 UBER               s1[_] s2a[x] s2b[_] s2c[x] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
-99                 s1[_] s2a[x] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
+99                 s1[_] s2a[_] s2b[_] s2c[_] s2d[_] s2e[_] s3a[_] s3b[_] s3c[_] sintese[_]
 
 Legenda: [x] = commitado  [~] = parcial  [_] = pendente
 
@@ -74,6 +74,10 @@ Analise cruzada disponivel: SIM
 | 2026-03-06 | McKinsey Brasil | s2c - LinkedIn: Lideranca | coleta commitada |
 | 2026-03-09 | 99 (DiDi BR) | s2a - LinkedIn: Empresa | coleta commitada |
 | 2026-03-10 | 99 (DiDi BR) | s2a - LinkedIn: Empresa (patch) | atualizado com dados 10/03 |
+
+---
+
+*progresso.md - IDC Ascendimacy*
 
 ---
 
